@@ -1,0 +1,41 @@
+lane_id,origin_city,origin_state,dest_city,dest_state,distance_miles
+LANE-000001,Atlanta,GA,Albuquerque,NM,1498
+LANE-000002,Atlanta,GA,Denver,CO,1428
+LANE-000003,Boston,MA,Miami,FL,1485
+LANE-000004,Charlotte,NC,Los Angeles,CA,2496
+LANE-000005,Charlotte,NC,San Antonio,TX,1303
+LANE-000006,Chicago,IL,Dallas,TX,950
+LANE-000007,Cincinnati,OH,Albuquerque,NM,1473
+LANE-000008,Cincinnati,OH,Chicago,IL,298
+LANE-000009,Cleveland,OH,Minneapolis,MN,743
+LANE-000010,Cleveland,OH,Orlando,FL,1057
+LANE-000011,Columbus,OH,Houston,TX,1171
+LANE-000012,Dallas,TX,Charlotte,NC,1096
+LANE-000013,Detroit,MI,Atlanta,GA,705
+LANE-000014,Detroit,MI,San Antonio,TX,1461
+LANE-000015,El Paso,TX,Baltimore,MD,2065
+LANE-000016,El Paso,TX,Birmingham,AL,1357
+LANE-000017,Houston,TX,Charlotte,NC,1093
+LANE-000018,Houston,TX,Cleveland,OH,1315
+LANE-000019,Houston,TX,Sacramento,CA,1895
+LANE-000020,Indianapolis,IN,Memphis,TN,453
+LANE-000021,Kansas City,MO,Albuquerque,NM,850
+LANE-000022,Kansas City,MO,Phoenix,AZ,1236
+LANE-000023,Los Angeles,CA,Denver,CO,979
+LANE-000024,Miami,FL,Jacksonville,FL,387
+LANE-000025,Milwaukee,WI,Miami,FL,1500
+LANE-000026,Minneapolis,MN,Omaha,NE,342
+LANE-000027,Nashville,TN,Sacramento,CA,2244
+LANE-000028,Newark,NJ,Baltimore,MD,193
+LANE-000029,Oklahoma City,OK,Kansas City,MO,352
+LANE-000030,Oklahoma City,OK,Richmond,VA,1324
+LANE-000031,Orlando,FL,San Antonio,TX,1221
+LANE-000032,Philadelphia,PA,Cincinnati,OH,591
+LANE-000033,Phoenix,AZ,Seattle,WA,1315
+LANE-000034,Pittsburgh,PA,Boston,MA,568
+LANE-000035,Richmond,VA,Charlotte,NC,292
+LANE-000036,Richmond,VA,Salt Lake City,UT,2180
+LANE-000037,Salt Lake City,UT,Orlando,FL,2260
+LANE-000038,San Antonio,TX,Milwaukee,WI,1308
+LANE-000039,Seattle,WA,Omaha,NE,1612
+LANE-000040,St. Louis,MO,Charlotte,NC,670

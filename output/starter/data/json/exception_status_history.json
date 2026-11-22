@@ -1,0 +1,3737 @@
+[
+ {
+  "event_id": "EEV-0000001",
+  "exception_id": "FEX-2026-000001",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000002",
+  "exception_id": "FEX-2026-000001",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $85.00"
+ },
+ {
+  "event_id": "EEV-0000003",
+  "exception_id": "FEX-2026-000001",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$85.00 of $85.00 credited"
+ },
+ {
+  "event_id": "EEV-0000004",
+  "exception_id": "FEX-2026-000002",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000005",
+  "exception_id": "FEX-2026-000002",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $12.11"
+ },
+ {
+  "event_id": "EEV-0000006",
+  "exception_id": "FEX-2026-000002",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-01-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$12.11 of $12.11 credited"
+ },
+ {
+  "event_id": "EEV-0000007",
+  "exception_id": "FEX-2026-000003",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000008",
+  "exception_id": "FEX-2026-000003",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $62.00"
+ },
+ {
+  "event_id": "EEV-0000009",
+  "exception_id": "FEX-2026-000003",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$62.00 of $62.00 credited"
+ },
+ {
+  "event_id": "EEV-0000010",
+  "exception_id": "FEX-2026-000004",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000011",
+  "exception_id": "FEX-2026-000004",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-23",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $9.15"
+ },
+ {
+  "event_id": "EEV-0000012",
+  "exception_id": "FEX-2026-000004",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$9.15 of $9.15 credited"
+ },
+ {
+  "event_id": "EEV-0000013",
+  "exception_id": "FEX-2026-000005",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000014",
+  "exception_id": "FEX-2026-000005",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-24",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $58.00"
+ },
+ {
+  "event_id": "EEV-0000015",
+  "exception_id": "FEX-2026-000005",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-01-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$58.00 of $58.00 credited"
+ },
+ {
+  "event_id": "EEV-0000016",
+  "exception_id": "FEX-2026-000006",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000017",
+  "exception_id": "FEX-2026-000006",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-26",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $83.97"
+ },
+ {
+  "event_id": "EEV-0000018",
+  "exception_id": "FEX-2026-000006",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$83.97 of $83.97 credited"
+ },
+ {
+  "event_id": "EEV-0000019",
+  "exception_id": "FEX-2026-000007",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000020",
+  "exception_id": "FEX-2026-000007",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-26",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $23.93"
+ },
+ {
+  "event_id": "EEV-0000021",
+  "exception_id": "FEX-2026-000007",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$23.93 of $23.93 credited"
+ },
+ {
+  "event_id": "EEV-0000022",
+  "exception_id": "FEX-2026-000008",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000023",
+  "exception_id": "FEX-2026-000008",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-26",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $188.60"
+ },
+ {
+  "event_id": "EEV-0000024",
+  "exception_id": "FEX-2026-000008",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$188.60 of $188.60 credited"
+ },
+ {
+  "event_id": "EEV-0000025",
+  "exception_id": "FEX-2026-000009",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000026",
+  "exception_id": "FEX-2026-000009",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $85.00"
+ },
+ {
+  "event_id": "EEV-0000027",
+  "exception_id": "FEX-2026-000009",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$85.00 of $85.00 credited"
+ },
+ {
+  "event_id": "EEV-0000028",
+  "exception_id": "FEX-2026-000010",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000029",
+  "exception_id": "FEX-2026-000010",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $27.17"
+ },
+ {
+  "event_id": "EEV-0000030",
+  "exception_id": "FEX-2026-000010",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$27.17 of $27.17 credited"
+ },
+ {
+  "event_id": "EEV-0000031",
+  "exception_id": "FEX-2026-000011",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000032",
+  "exception_id": "FEX-2026-000011",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.00"
+ },
+ {
+  "event_id": "EEV-0000033",
+  "exception_id": "FEX-2026-000011",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.00 of $5.00 credited"
+ },
+ {
+  "event_id": "EEV-0000034",
+  "exception_id": "FEX-2026-000012",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000035",
+  "exception_id": "FEX-2026-000012",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $43.77"
+ },
+ {
+  "event_id": "EEV-0000036",
+  "exception_id": "FEX-2026-000012",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$43.77 of $43.77 credited"
+ },
+ {
+  "event_id": "EEV-0000037",
+  "exception_id": "FEX-2026-000013",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-01-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000038",
+  "exception_id": "FEX-2026-000013",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-01-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $8.36"
+ },
+ {
+  "event_id": "EEV-0000039",
+  "exception_id": "FEX-2026-000013",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.02 of $8.36 credited"
+ },
+ {
+  "event_id": "EEV-0000040",
+  "exception_id": "FEX-2026-000014",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-01",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000041",
+  "exception_id": "FEX-2026-000014",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-02",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $66.00"
+ },
+ {
+  "event_id": "EEV-0000042",
+  "exception_id": "FEX-2026-000014",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$66.00 of $66.00 credited"
+ },
+ {
+  "event_id": "EEV-0000043",
+  "exception_id": "FEX-2026-000015",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000044",
+  "exception_id": "FEX-2026-000015",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $36.42"
+ },
+ {
+  "event_id": "EEV-0000045",
+  "exception_id": "FEX-2026-000015",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$36.42 of $36.42 credited"
+ },
+ {
+  "event_id": "EEV-0000046",
+  "exception_id": "FEX-2026-000016",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000047",
+  "exception_id": "FEX-2026-000016",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $10.20"
+ },
+ {
+  "event_id": "EEV-0000048",
+  "exception_id": "FEX-2026-000016",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$10.20 of $10.20 credited"
+ },
+ {
+  "event_id": "EEV-0000049",
+  "exception_id": "FEX-2026-000017",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000050",
+  "exception_id": "FEX-2026-000017",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-07",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $47.00"
+ },
+ {
+  "event_id": "EEV-0000051",
+  "exception_id": "FEX-2026-000017",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$47.00 of $47.00 credited"
+ },
+ {
+  "event_id": "EEV-0000052",
+  "exception_id": "FEX-2026-000018",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000053",
+  "exception_id": "FEX-2026-000018",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-10",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $46.01"
+ },
+ {
+  "event_id": "EEV-0000054",
+  "exception_id": "FEX-2026-000018",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$46.01 of $46.01 credited"
+ },
+ {
+  "event_id": "EEV-0000055",
+  "exception_id": "FEX-2026-000019",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000056",
+  "exception_id": "FEX-2026-000019",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-10",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $10.03"
+ },
+ {
+  "event_id": "EEV-0000057",
+  "exception_id": "FEX-2026-000019",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-02-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$10.03 of $10.03 credited"
+ },
+ {
+  "event_id": "EEV-0000058",
+  "exception_id": "FEX-2026-000020",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000059",
+  "exception_id": "FEX-2026-000020",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-11",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $25.00"
+ },
+ {
+  "event_id": "EEV-0000060",
+  "exception_id": "FEX-2026-000020",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$25.00 of $25.00 credited"
+ },
+ {
+  "event_id": "EEV-0000061",
+  "exception_id": "FEX-2026-000021",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000062",
+  "exception_id": "FEX-2026-000021",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $58.74"
+ },
+ {
+  "event_id": "EEV-0000063",
+  "exception_id": "FEX-2026-000021",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$58.74 of $58.74 credited"
+ },
+ {
+  "event_id": "EEV-0000064",
+  "exception_id": "FEX-2026-000022",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000065",
+  "exception_id": "FEX-2026-000022",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $16.74"
+ },
+ {
+  "event_id": "EEV-0000066",
+  "exception_id": "FEX-2026-000022",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$16.74 of $16.74 credited"
+ },
+ {
+  "event_id": "EEV-0000067",
+  "exception_id": "FEX-2026-000023",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-02-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000068",
+  "exception_id": "FEX-2026-000023",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-02-28",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $86.00"
+ },
+ {
+  "event_id": "EEV-0000069",
+  "exception_id": "FEX-2026-000023",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$86.00 of $86.00 credited"
+ },
+ {
+  "event_id": "EEV-0000070",
+  "exception_id": "FEX-2026-000024",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000071",
+  "exception_id": "FEX-2026-000024",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $41.91"
+ },
+ {
+  "event_id": "EEV-0000072",
+  "exception_id": "FEX-2026-000024",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$41.91 of $41.91 credited"
+ },
+ {
+  "event_id": "EEV-0000073",
+  "exception_id": "FEX-2026-000025",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000074",
+  "exception_id": "FEX-2026-000025",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $8.00"
+ },
+ {
+  "event_id": "EEV-0000075",
+  "exception_id": "FEX-2026-000025",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-03-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$8.00 of $8.00 credited"
+ },
+ {
+  "event_id": "EEV-0000076",
+  "exception_id": "FEX-2026-000026",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000077",
+  "exception_id": "FEX-2026-000026",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $64.81"
+ },
+ {
+  "event_id": "EEV-0000078",
+  "exception_id": "FEX-2026-000026",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-03-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$47.31 of $64.81 credited"
+ },
+ {
+  "event_id": "EEV-0000079",
+  "exception_id": "FEX-2026-000027",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000080",
+  "exception_id": "FEX-2026-000027",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-03-15",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000081",
+  "exception_id": "FEX-2026-000028",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000082",
+  "exception_id": "FEX-2026-000028",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-03-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000083",
+  "exception_id": "FEX-2026-000029",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000084",
+  "exception_id": "FEX-2026-000029",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-27",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $16.35"
+ },
+ {
+  "event_id": "EEV-0000085",
+  "exception_id": "FEX-2026-000029",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$16.35 of $16.35 credited"
+ },
+ {
+  "event_id": "EEV-0000086",
+  "exception_id": "FEX-2026-000030",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000087",
+  "exception_id": "FEX-2026-000030",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-28",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $108.96"
+ },
+ {
+  "event_id": "EEV-0000088",
+  "exception_id": "FEX-2026-000030",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$108.96 of $108.96 credited"
+ },
+ {
+  "event_id": "EEV-0000089",
+  "exception_id": "FEX-2026-000031",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-28",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000090",
+  "exception_id": "FEX-2026-000031",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-03-29",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $23.00"
+ },
+ {
+  "event_id": "EEV-0000091",
+  "exception_id": "FEX-2026-000031",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$23.00 of $23.00 credited"
+ },
+ {
+  "event_id": "EEV-0000092",
+  "exception_id": "FEX-2026-000032",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000093",
+  "exception_id": "FEX-2026-000032",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-03-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000094",
+  "exception_id": "FEX-2026-000033",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000095",
+  "exception_id": "FEX-2026-000033",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-03-31",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000096",
+  "exception_id": "FEX-2026-000034",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-03-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000097",
+  "exception_id": "FEX-2026-000034",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-03-31",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000098",
+  "exception_id": "FEX-2026-000035",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000099",
+  "exception_id": "FEX-2026-000035",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.75"
+ },
+ {
+  "event_id": "EEV-0000100",
+  "exception_id": "FEX-2026-000035",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.75 of $5.75 credited"
+ },
+ {
+  "event_id": "EEV-0000101",
+  "exception_id": "FEX-2026-000036",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000102",
+  "exception_id": "FEX-2026-000036",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-10",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $7.42"
+ },
+ {
+  "event_id": "EEV-0000103",
+  "exception_id": "FEX-2026-000036",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$7.42 of $7.42 credited"
+ },
+ {
+  "event_id": "EEV-0000104",
+  "exception_id": "FEX-2026-000037",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000105",
+  "exception_id": "FEX-2026-000037",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-04-10",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000106",
+  "exception_id": "FEX-2026-000038",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000107",
+  "exception_id": "FEX-2026-000038",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-11",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $9.78"
+ },
+ {
+  "event_id": "EEV-0000108",
+  "exception_id": "FEX-2026-000038",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-04-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$4.60 of $9.78 credited"
+ },
+ {
+  "event_id": "EEV-0000109",
+  "exception_id": "FEX-2026-000039",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000110",
+  "exception_id": "FEX-2026-000039",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-12",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $109.10"
+ },
+ {
+  "event_id": "EEV-0000111",
+  "exception_id": "FEX-2026-000039",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$109.10 of $109.10 credited"
+ },
+ {
+  "event_id": "EEV-0000112",
+  "exception_id": "FEX-2026-000040",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000113",
+  "exception_id": "FEX-2026-000040",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-16",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $38.23"
+ },
+ {
+  "event_id": "EEV-0000114",
+  "exception_id": "FEX-2026-000040",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$38.23 of $38.23 credited"
+ },
+ {
+  "event_id": "EEV-0000115",
+  "exception_id": "FEX-2026-000041",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000116",
+  "exception_id": "FEX-2026-000041",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-16",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $10.44"
+ },
+ {
+  "event_id": "EEV-0000117",
+  "exception_id": "FEX-2026-000041",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$10.44 of $10.44 credited"
+ },
+ {
+  "event_id": "EEV-0000118",
+  "exception_id": "FEX-2026-000042",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000119",
+  "exception_id": "FEX-2026-000042",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-17",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $104.10"
+ },
+ {
+  "event_id": "EEV-0000120",
+  "exception_id": "FEX-2026-000042",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$104.10 of $104.10 credited"
+ },
+ {
+  "event_id": "EEV-0000121",
+  "exception_id": "FEX-2026-000043",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000122",
+  "exception_id": "FEX-2026-000043",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $25.42"
+ },
+ {
+  "event_id": "EEV-0000123",
+  "exception_id": "FEX-2026-000043",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-04-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$25.42 of $25.42 credited"
+ },
+ {
+  "event_id": "EEV-0000124",
+  "exception_id": "FEX-2026-000044",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000125",
+  "exception_id": "FEX-2026-000044",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.54"
+ },
+ {
+  "event_id": "EEV-0000126",
+  "exception_id": "FEX-2026-000044",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.54 of $5.54 credited"
+ },
+ {
+  "event_id": "EEV-0000127",
+  "exception_id": "FEX-2026-000045",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000128",
+  "exception_id": "FEX-2026-000045",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-22",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $184.18"
+ },
+ {
+  "event_id": "EEV-0000129",
+  "exception_id": "FEX-2026-000045",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$184.18 of $184.18 credited"
+ },
+ {
+  "event_id": "EEV-0000130",
+  "exception_id": "FEX-2026-000046",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000131",
+  "exception_id": "FEX-2026-000046",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-22",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $46.97"
+ },
+ {
+  "event_id": "EEV-0000132",
+  "exception_id": "FEX-2026-000046",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$46.97 of $46.97 credited"
+ },
+ {
+  "event_id": "EEV-0000133",
+  "exception_id": "FEX-2026-000047",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000134",
+  "exception_id": "FEX-2026-000047",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-28",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $11.57"
+ },
+ {
+  "event_id": "EEV-0000135",
+  "exception_id": "FEX-2026-000047",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.57 of $11.57 credited"
+ },
+ {
+  "event_id": "EEV-0000136",
+  "exception_id": "FEX-2026-000048",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-04-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000137",
+  "exception_id": "FEX-2026-000048",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-04-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $78.00"
+ },
+ {
+  "event_id": "EEV-0000138",
+  "exception_id": "FEX-2026-000048",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$78.00 of $78.00 credited"
+ },
+ {
+  "event_id": "EEV-0000139",
+  "exception_id": "FEX-2026-000049",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-01",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000140",
+  "exception_id": "FEX-2026-000049",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-05-01",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000141",
+  "exception_id": "FEX-2026-000050",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000142",
+  "exception_id": "FEX-2026-000050",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-04",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $83.50"
+ },
+ {
+  "event_id": "EEV-0000143",
+  "exception_id": "FEX-2026-000050",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$83.50 of $83.50 credited"
+ },
+ {
+  "event_id": "EEV-0000144",
+  "exception_id": "FEX-2026-000051",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000145",
+  "exception_id": "FEX-2026-000051",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $185.86"
+ },
+ {
+  "event_id": "EEV-0000146",
+  "exception_id": "FEX-2026-000051",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$185.86 of $185.86 credited"
+ },
+ {
+  "event_id": "EEV-0000147",
+  "exception_id": "FEX-2026-000052",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000148",
+  "exception_id": "FEX-2026-000052",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $55.57"
+ },
+ {
+  "event_id": "EEV-0000149",
+  "exception_id": "FEX-2026-000052",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$55.57 of $55.57 credited"
+ },
+ {
+  "event_id": "EEV-0000150",
+  "exception_id": "FEX-2026-000053",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000151",
+  "exception_id": "FEX-2026-000053",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $83.14"
+ },
+ {
+  "event_id": "EEV-0000152",
+  "exception_id": "FEX-2026-000053",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$83.14 of $83.14 credited"
+ },
+ {
+  "event_id": "EEV-0000153",
+  "exception_id": "FEX-2026-000054",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000154",
+  "exception_id": "FEX-2026-000054",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $18.13"
+ },
+ {
+  "event_id": "EEV-0000155",
+  "exception_id": "FEX-2026-000054",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$18.13 of $18.13 credited"
+ },
+ {
+  "event_id": "EEV-0000156",
+  "exception_id": "FEX-2026-000055",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000157",
+  "exception_id": "FEX-2026-000055",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-14",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $100.00"
+ },
+ {
+  "event_id": "EEV-0000158",
+  "exception_id": "FEX-2026-000055",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-05-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$100.00 of $100.00 credited"
+ },
+ {
+  "event_id": "EEV-0000159",
+  "exception_id": "FEX-2026-000056",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000160",
+  "exception_id": "FEX-2026-000056",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-15",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $28.83"
+ },
+ {
+  "event_id": "EEV-0000161",
+  "exception_id": "FEX-2026-000056",
+  "from_status": "DISPUTED",
+  "to_status": "CREDIT_ON_HOLD",
+  "event_date": "2026-06-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Credit CN-2026-000049 held"
+ },
+ {
+  "event_id": "EEV-0000162",
+  "exception_id": "FEX-2026-000057",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000163",
+  "exception_id": "FEX-2026-000057",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $44.87"
+ },
+ {
+  "event_id": "EEV-0000164",
+  "exception_id": "FEX-2026-000057",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$44.87 of $44.87 credited"
+ },
+ {
+  "event_id": "EEV-0000165",
+  "exception_id": "FEX-2026-000058",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000166",
+  "exception_id": "FEX-2026-000058",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $11.44"
+ },
+ {
+  "event_id": "EEV-0000167",
+  "exception_id": "FEX-2026-000058",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.44 of $11.44 credited"
+ },
+ {
+  "event_id": "EEV-0000168",
+  "exception_id": "FEX-2026-000059",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000169",
+  "exception_id": "FEX-2026-000059",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $49.83"
+ },
+ {
+  "event_id": "EEV-0000170",
+  "exception_id": "FEX-2026-000059",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$49.83 of $49.83 credited"
+ },
+ {
+  "event_id": "EEV-0000171",
+  "exception_id": "FEX-2026-000060",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000172",
+  "exception_id": "FEX-2026-000060",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-24",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $98.00"
+ },
+ {
+  "event_id": "EEV-0000173",
+  "exception_id": "FEX-2026-000060",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$98.00 of $98.00 credited"
+ },
+ {
+  "event_id": "EEV-0000174",
+  "exception_id": "FEX-2026-000061",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000175",
+  "exception_id": "FEX-2026-000061",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $92.04"
+ },
+ {
+  "event_id": "EEV-0000176",
+  "exception_id": "FEX-2026-000061",
+  "from_status": "DISPUTED",
+  "to_status": "CARRIER_DECLINED",
+  "event_date": "2026-06-02",
+  "actor_role": "CARRIER",
+  "note": "Carrier rejected the dispute"
+ },
+ {
+  "event_id": "EEV-0000177",
+  "exception_id": "FEX-2026-000062",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000178",
+  "exception_id": "FEX-2026-000062",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-05-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $17.58"
+ },
+ {
+  "event_id": "EEV-0000179",
+  "exception_id": "FEX-2026-000062",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$17.58 of $17.58 credited"
+ },
+ {
+  "event_id": "EEV-0000180",
+  "exception_id": "FEX-2026-000063",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000181",
+  "exception_id": "FEX-2026-000063",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $107.10"
+ },
+ {
+  "event_id": "EEV-0000182",
+  "exception_id": "FEX-2026-000063",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$107.10 of $107.10 credited"
+ },
+ {
+  "event_id": "EEV-0000183",
+  "exception_id": "FEX-2026-000064",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-05-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000184",
+  "exception_id": "FEX-2026-000064",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $30.53"
+ },
+ {
+  "event_id": "EEV-0000185",
+  "exception_id": "FEX-2026-000064",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$30.53 of $30.53 credited"
+ },
+ {
+  "event_id": "EEV-0000186",
+  "exception_id": "FEX-2026-000065",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000187",
+  "exception_id": "FEX-2026-000065",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-06",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $81.76"
+ },
+ {
+  "event_id": "EEV-0000188",
+  "exception_id": "FEX-2026-000065",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$81.76 of $81.76 credited"
+ },
+ {
+  "event_id": "EEV-0000189",
+  "exception_id": "FEX-2026-000066",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000190",
+  "exception_id": "FEX-2026-000066",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-07",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $28.48"
+ },
+ {
+  "event_id": "EEV-0000191",
+  "exception_id": "FEX-2026-000066",
+  "from_status": "DISPUTED",
+  "to_status": "CARRIER_DECLINED",
+  "event_date": "2026-07-01",
+  "actor_role": "CARRIER",
+  "note": "Carrier rejected the dispute"
+ },
+ {
+  "event_id": "EEV-0000192",
+  "exception_id": "FEX-2026-000067",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000193",
+  "exception_id": "FEX-2026-000067",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-07",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.73"
+ },
+ {
+  "event_id": "EEV-0000194",
+  "exception_id": "FEX-2026-000067",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.73 of $5.73 credited"
+ },
+ {
+  "event_id": "EEV-0000195",
+  "exception_id": "FEX-2026-000068",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000196",
+  "exception_id": "FEX-2026-000068",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-10",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $100.00"
+ },
+ {
+  "event_id": "EEV-0000197",
+  "exception_id": "FEX-2026-000068",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$100.00 of $100.00 credited"
+ },
+ {
+  "event_id": "EEV-0000198",
+  "exception_id": "FEX-2026-000069",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000199",
+  "exception_id": "FEX-2026-000069",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-11",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $71.90"
+ },
+ {
+  "event_id": "EEV-0000200",
+  "exception_id": "FEX-2026-000069",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$71.90 of $71.90 credited"
+ },
+ {
+  "event_id": "EEV-0000201",
+  "exception_id": "FEX-2026-000070",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000202",
+  "exception_id": "FEX-2026-000070",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-11",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $20.49"
+ },
+ {
+  "event_id": "EEV-0000203",
+  "exception_id": "FEX-2026-000070",
+  "from_status": "DISPUTED",
+  "to_status": "CREDIT_ON_HOLD",
+  "event_date": "2026-06-18",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Credit CN-2026-000057 held"
+ },
+ {
+  "event_id": "EEV-0000204",
+  "exception_id": "FEX-2026-000071",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000205",
+  "exception_id": "FEX-2026-000071",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-14",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $74.00"
+ },
+ {
+  "event_id": "EEV-0000206",
+  "exception_id": "FEX-2026-000071",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$74.00 of $74.00 credited"
+ },
+ {
+  "event_id": "EEV-0000207",
+  "exception_id": "FEX-2026-000072",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000208",
+  "exception_id": "FEX-2026-000072",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-14",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $100.00"
+ },
+ {
+  "event_id": "EEV-0000209",
+  "exception_id": "FEX-2026-000072",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$100.00 of $100.00 credited"
+ },
+ {
+  "event_id": "EEV-0000210",
+  "exception_id": "FEX-2026-000073",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000211",
+  "exception_id": "FEX-2026-000073",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-16",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $39.68"
+ },
+ {
+  "event_id": "EEV-0000212",
+  "exception_id": "FEX-2026-000073",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$39.68 of $39.68 credited"
+ },
+ {
+  "event_id": "EEV-0000213",
+  "exception_id": "FEX-2026-000074",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000214",
+  "exception_id": "FEX-2026-000074",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-16",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $11.87"
+ },
+ {
+  "event_id": "EEV-0000215",
+  "exception_id": "FEX-2026-000074",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.87 of $11.87 credited"
+ },
+ {
+  "event_id": "EEV-0000216",
+  "exception_id": "FEX-2026-000075",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000217",
+  "exception_id": "FEX-2026-000075",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-17",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $36.73"
+ },
+ {
+  "event_id": "EEV-0000218",
+  "exception_id": "FEX-2026-000075",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$36.73 of $36.73 credited"
+ },
+ {
+  "event_id": "EEV-0000219",
+  "exception_id": "FEX-2026-000076",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000220",
+  "exception_id": "FEX-2026-000076",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-17",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $9.37"
+ },
+ {
+  "event_id": "EEV-0000221",
+  "exception_id": "FEX-2026-000076",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$9.37 of $9.37 credited"
+ },
+ {
+  "event_id": "EEV-0000222",
+  "exception_id": "FEX-2026-000077",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000223",
+  "exception_id": "FEX-2026-000077",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-19",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $104.37"
+ },
+ {
+  "event_id": "EEV-0000224",
+  "exception_id": "FEX-2026-000077",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$104.37 of $104.37 credited"
+ },
+ {
+  "event_id": "EEV-0000225",
+  "exception_id": "FEX-2026-000078",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000226",
+  "exception_id": "FEX-2026-000078",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-23",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $800.25"
+ },
+ {
+  "event_id": "EEV-0000227",
+  "exception_id": "FEX-2026-000078",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$800.25 of $800.25 credited"
+ },
+ {
+  "event_id": "EEV-0000228",
+  "exception_id": "FEX-2026-000079",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000229",
+  "exception_id": "FEX-2026-000079",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-23",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $174.45"
+ },
+ {
+  "event_id": "EEV-0000230",
+  "exception_id": "FEX-2026-000079",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-06-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$174.45 of $174.45 credited"
+ },
+ {
+  "event_id": "EEV-0000231",
+  "exception_id": "FEX-2026-000080",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000232",
+  "exception_id": "FEX-2026-000080",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-06-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000233",
+  "exception_id": "FEX-2026-000081",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000234",
+  "exception_id": "FEX-2026-000081",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $70.00"
+ },
+ {
+  "event_id": "EEV-0000235",
+  "exception_id": "FEX-2026-000081",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$70.00 of $70.00 credited"
+ },
+ {
+  "event_id": "EEV-0000236",
+  "exception_id": "FEX-2026-000082",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000237",
+  "exception_id": "FEX-2026-000082",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $221.70"
+ },
+ {
+  "event_id": "EEV-0000238",
+  "exception_id": "FEX-2026-000082",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$221.70 of $221.70 credited"
+ },
+ {
+  "event_id": "EEV-0000239",
+  "exception_id": "FEX-2026-000083",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000240",
+  "exception_id": "FEX-2026-000083",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-30",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $62.08"
+ },
+ {
+  "event_id": "EEV-0000241",
+  "exception_id": "FEX-2026-000083",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$62.08 of $62.08 credited"
+ },
+ {
+  "event_id": "EEV-0000242",
+  "exception_id": "FEX-2026-000084",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000243",
+  "exception_id": "FEX-2026-000084",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-07-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000244",
+  "exception_id": "FEX-2026-000085",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000245",
+  "exception_id": "FEX-2026-000085",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-07-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000246",
+  "exception_id": "FEX-2026-000086",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000247",
+  "exception_id": "FEX-2026-000086",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-14",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $204.42"
+ },
+ {
+  "event_id": "EEV-0000248",
+  "exception_id": "FEX-2026-000086",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$204.42 of $204.42 credited"
+ },
+ {
+  "event_id": "EEV-0000249",
+  "exception_id": "FEX-2026-000087",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000250",
+  "exception_id": "FEX-2026-000087",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-14",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $56.63"
+ },
+ {
+  "event_id": "EEV-0000251",
+  "exception_id": "FEX-2026-000087",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$56.63 of $56.63 credited"
+ },
+ {
+  "event_id": "EEV-0000252",
+  "exception_id": "FEX-2026-000088",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000253",
+  "exception_id": "FEX-2026-000088",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $78.00"
+ },
+ {
+  "event_id": "EEV-0000254",
+  "exception_id": "FEX-2026-000088",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$78.00 of $78.00 credited"
+ },
+ {
+  "event_id": "EEV-0000255",
+  "exception_id": "FEX-2026-000089",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000256",
+  "exception_id": "FEX-2026-000089",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $8.49"
+ },
+ {
+  "event_id": "EEV-0000257",
+  "exception_id": "FEX-2026-000089",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-07-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$3.57 of $8.49 credited"
+ },
+ {
+  "event_id": "EEV-0000258",
+  "exception_id": "FEX-2026-000090",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000259",
+  "exception_id": "FEX-2026-000090",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.51"
+ },
+ {
+  "event_id": "EEV-0000260",
+  "exception_id": "FEX-2026-000090",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$5.51 of $5.51 credited"
+ },
+ {
+  "event_id": "EEV-0000261",
+  "exception_id": "FEX-2026-000091",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000262",
+  "exception_id": "FEX-2026-000091",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-07-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000263",
+  "exception_id": "FEX-2026-000092",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000264",
+  "exception_id": "FEX-2026-000092",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-24",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $105.84"
+ },
+ {
+  "event_id": "EEV-0000265",
+  "exception_id": "FEX-2026-000092",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-07-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$105.84 of $105.84 credited"
+ },
+ {
+  "event_id": "EEV-0000266",
+  "exception_id": "FEX-2026-000093",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000267",
+  "exception_id": "FEX-2026-000093",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-24",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $28.57"
+ },
+ {
+  "event_id": "EEV-0000268",
+  "exception_id": "FEX-2026-000093",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-08-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$20.00 of $28.57 credited"
+ },
+ {
+  "event_id": "EEV-0000269",
+  "exception_id": "FEX-2026-000094",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000270",
+  "exception_id": "FEX-2026-000094",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $181.01"
+ },
+ {
+  "event_id": "EEV-0000271",
+  "exception_id": "FEX-2026-000094",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$181.01 of $181.01 credited"
+ },
+ {
+  "event_id": "EEV-0000272",
+  "exception_id": "FEX-2026-000095",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000273",
+  "exception_id": "FEX-2026-000095",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $53.94"
+ },
+ {
+  "event_id": "EEV-0000274",
+  "exception_id": "FEX-2026-000095",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$53.94 of $53.94 credited"
+ },
+ {
+  "event_id": "EEV-0000275",
+  "exception_id": "FEX-2026-000096",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000276",
+  "exception_id": "FEX-2026-000096",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $5.57"
+ },
+ {
+  "event_id": "EEV-0000277",
+  "exception_id": "FEX-2026-000096",
+  "from_status": "DISPUTED",
+  "to_status": "CARRIER_DECLINED",
+  "event_date": "2026-08-08",
+  "actor_role": "CARRIER",
+  "note": "Carrier rejected the dispute"
+ },
+ {
+  "event_id": "EEV-0000278",
+  "exception_id": "FEX-2026-000097",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000279",
+  "exception_id": "FEX-2026-000097",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-07-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000280",
+  "exception_id": "FEX-2026-000098",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-07-28",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000281",
+  "exception_id": "FEX-2026-000098",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-07-29",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $58.00"
+ },
+ {
+  "event_id": "EEV-0000282",
+  "exception_id": "FEX-2026-000098",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$58.00 of $58.00 credited"
+ },
+ {
+  "event_id": "EEV-0000283",
+  "exception_id": "FEX-2026-000099",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-01",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000284",
+  "exception_id": "FEX-2026-000099",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-02",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $93.00"
+ },
+ {
+  "event_id": "EEV-0000285",
+  "exception_id": "FEX-2026-000099",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$93.00 of $93.00 credited"
+ },
+ {
+  "event_id": "EEV-0000286",
+  "exception_id": "FEX-2026-000100",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000287",
+  "exception_id": "FEX-2026-000100",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $86.08"
+ },
+ {
+  "event_id": "EEV-0000288",
+  "exception_id": "FEX-2026-000100",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$86.08 of $86.08 credited"
+ },
+ {
+  "event_id": "EEV-0000289",
+  "exception_id": "FEX-2026-000101",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000290",
+  "exception_id": "FEX-2026-000101",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-08-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000291",
+  "exception_id": "FEX-2026-000102",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000292",
+  "exception_id": "FEX-2026-000102",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-07",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $99.86"
+ },
+ {
+  "event_id": "EEV-0000293",
+  "exception_id": "FEX-2026-000102",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$99.86 of $99.86 credited"
+ },
+ {
+  "event_id": "EEV-0000294",
+  "exception_id": "FEX-2026-000103",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000295",
+  "exception_id": "FEX-2026-000103",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-07",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $17.47"
+ },
+ {
+  "event_id": "EEV-0000296",
+  "exception_id": "FEX-2026-000103",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-08-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$17.47 of $17.47 credited"
+ },
+ {
+  "event_id": "EEV-0000297",
+  "exception_id": "FEX-2026-000104",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000298",
+  "exception_id": "FEX-2026-000104",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-08-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000299",
+  "exception_id": "FEX-2026-000105",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000300",
+  "exception_id": "FEX-2026-000105",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-18",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $51.02"
+ },
+ {
+  "event_id": "EEV-0000301",
+  "exception_id": "FEX-2026-000105",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$51.02 of $51.02 credited"
+ },
+ {
+  "event_id": "EEV-0000302",
+  "exception_id": "FEX-2026-000106",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000303",
+  "exception_id": "FEX-2026-000106",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-18",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $13.77"
+ },
+ {
+  "event_id": "EEV-0000304",
+  "exception_id": "FEX-2026-000106",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-08-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.29 of $13.77 credited"
+ },
+ {
+  "event_id": "EEV-0000305",
+  "exception_id": "FEX-2026-000107",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000306",
+  "exception_id": "FEX-2026-000107",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-08-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000307",
+  "exception_id": "FEX-2026-000108",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000308",
+  "exception_id": "FEX-2026-000108",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-26",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $7.59"
+ },
+ {
+  "event_id": "EEV-0000309",
+  "exception_id": "FEX-2026-000108",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$7.59 of $7.59 credited"
+ },
+ {
+  "event_id": "EEV-0000310",
+  "exception_id": "FEX-2026-000109",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000311",
+  "exception_id": "FEX-2026-000109",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-08-28",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $66.59"
+ },
+ {
+  "event_id": "EEV-0000312",
+  "exception_id": "FEX-2026-000109",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$66.59 of $66.59 credited"
+ },
+ {
+  "event_id": "EEV-0000313",
+  "exception_id": "FEX-2026-000110",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000314",
+  "exception_id": "FEX-2026-000110",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $9.80"
+ },
+ {
+  "event_id": "EEV-0000315",
+  "exception_id": "FEX-2026-000110",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$9.80 of $9.80 credited"
+ },
+ {
+  "event_id": "EEV-0000316",
+  "exception_id": "FEX-2026-000111",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-08-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000317",
+  "exception_id": "FEX-2026-000111",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-09-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000318",
+  "exception_id": "FEX-2026-000112",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000319",
+  "exception_id": "FEX-2026-000112",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $40.53"
+ },
+ {
+  "event_id": "EEV-0000320",
+  "exception_id": "FEX-2026-000112",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$40.53 of $40.53 credited"
+ },
+ {
+  "event_id": "EEV-0000321",
+  "exception_id": "FEX-2026-000113",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000322",
+  "exception_id": "FEX-2026-000113",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $7.10"
+ },
+ {
+  "event_id": "EEV-0000323",
+  "exception_id": "FEX-2026-000113",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$7.10 of $7.10 credited"
+ },
+ {
+  "event_id": "EEV-0000324",
+  "exception_id": "FEX-2026-000114",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000325",
+  "exception_id": "FEX-2026-000114",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-09-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000326",
+  "exception_id": "FEX-2026-000115",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000327",
+  "exception_id": "FEX-2026-000115",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $116.39"
+ },
+ {
+  "event_id": "EEV-0000328",
+  "exception_id": "FEX-2026-000115",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$116.39 of $116.39 credited"
+ },
+ {
+  "event_id": "EEV-0000329",
+  "exception_id": "FEX-2026-000116",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000330",
+  "exception_id": "FEX-2026-000116",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $19.21"
+ },
+ {
+  "event_id": "EEV-0000331",
+  "exception_id": "FEX-2026-000116",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$19.21 of $19.21 credited"
+ },
+ {
+  "event_id": "EEV-0000332",
+  "exception_id": "FEX-2026-000117",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000333",
+  "exception_id": "FEX-2026-000117",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-09-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000334",
+  "exception_id": "FEX-2026-000118",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000335",
+  "exception_id": "FEX-2026-000118",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-09-13",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000336",
+  "exception_id": "FEX-2026-000119",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000337",
+  "exception_id": "FEX-2026-000119",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-15",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $54.88"
+ },
+ {
+  "event_id": "EEV-0000338",
+  "exception_id": "FEX-2026-000119",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$54.88 of $54.88 credited"
+ },
+ {
+  "event_id": "EEV-0000339",
+  "exception_id": "FEX-2026-000120",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000340",
+  "exception_id": "FEX-2026-000120",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-16",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $65.00"
+ },
+ {
+  "event_id": "EEV-0000341",
+  "exception_id": "FEX-2026-000120",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$65.00 of $65.00 credited"
+ },
+ {
+  "event_id": "EEV-0000342",
+  "exception_id": "FEX-2026-000121",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000343",
+  "exception_id": "FEX-2026-000121",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $32.20"
+ },
+ {
+  "event_id": "EEV-0000344",
+  "exception_id": "FEX-2026-000121",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-09-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$32.20 of $32.20 credited"
+ },
+ {
+  "event_id": "EEV-0000345",
+  "exception_id": "FEX-2026-000122",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000346",
+  "exception_id": "FEX-2026-000122",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-20",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $9.60"
+ },
+ {
+  "event_id": "EEV-0000347",
+  "exception_id": "FEX-2026-000122",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$9.60 of $9.60 credited"
+ },
+ {
+  "event_id": "EEV-0000348",
+  "exception_id": "FEX-2026-000123",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000349",
+  "exception_id": "FEX-2026-000123",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $136.00"
+ },
+ {
+  "event_id": "EEV-0000350",
+  "exception_id": "FEX-2026-000123",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$136.00 of $136.00 credited"
+ },
+ {
+  "event_id": "EEV-0000351",
+  "exception_id": "FEX-2026-000124",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000352",
+  "exception_id": "FEX-2026-000124",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $66.42"
+ },
+ {
+  "event_id": "EEV-0000353",
+  "exception_id": "FEX-2026-000124",
+  "from_status": "DISPUTED",
+  "to_status": "CARRIER_DECLINED",
+  "event_date": "2026-10-07",
+  "actor_role": "CARRIER",
+  "note": "Carrier rejected the dispute"
+ },
+ {
+  "event_id": "EEV-0000354",
+  "exception_id": "FEX-2026-000125",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000355",
+  "exception_id": "FEX-2026-000125",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $11.62"
+ },
+ {
+  "event_id": "EEV-0000356",
+  "exception_id": "FEX-2026-000125",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.62 of $11.62 credited"
+ },
+ {
+  "event_id": "EEV-0000357",
+  "exception_id": "FEX-2026-000126",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000358",
+  "exception_id": "FEX-2026-000126",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-09-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000359",
+  "exception_id": "FEX-2026-000127",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000360",
+  "exception_id": "FEX-2026-000127",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-09-21",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000361",
+  "exception_id": "FEX-2026-000128",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000362",
+  "exception_id": "FEX-2026-000128",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-22",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $37.41"
+ },
+ {
+  "event_id": "EEV-0000363",
+  "exception_id": "FEX-2026-000128",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$37.41 of $37.41 credited"
+ },
+ {
+  "event_id": "EEV-0000364",
+  "exception_id": "FEX-2026-000129",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000365",
+  "exception_id": "FEX-2026-000129",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-22",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $24.07"
+ },
+ {
+  "event_id": "EEV-0000366",
+  "exception_id": "FEX-2026-000129",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$24.07 of $24.07 credited"
+ },
+ {
+  "event_id": "EEV-0000367",
+  "exception_id": "FEX-2026-000130",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000368",
+  "exception_id": "FEX-2026-000130",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $96.59"
+ },
+ {
+  "event_id": "EEV-0000369",
+  "exception_id": "FEX-2026-000130",
+  "from_status": "DISPUTED",
+  "to_status": "CREDIT_ON_HOLD",
+  "event_date": "2026-10-17",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Credit CN-2026-000105 held"
+ },
+ {
+  "event_id": "EEV-0000370",
+  "exception_id": "FEX-2026-000131",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000371",
+  "exception_id": "FEX-2026-000131",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-25",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $356.24"
+ },
+ {
+  "event_id": "EEV-0000372",
+  "exception_id": "FEX-2026-000131",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$356.24 of $356.24 credited"
+ },
+ {
+  "event_id": "EEV-0000373",
+  "exception_id": "FEX-2026-000132",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-28",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000374",
+  "exception_id": "FEX-2026-000132",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-09-29",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $8.21"
+ },
+ {
+  "event_id": "EEV-0000375",
+  "exception_id": "FEX-2026-000132",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$8.21 of $8.21 credited"
+ },
+ {
+  "event_id": "EEV-0000376",
+  "exception_id": "FEX-2026-000133",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000377",
+  "exception_id": "FEX-2026-000133",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $37.88"
+ },
+ {
+  "event_id": "EEV-0000378",
+  "exception_id": "FEX-2026-000133",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$37.88 of $37.88 credited"
+ },
+ {
+  "event_id": "EEV-0000379",
+  "exception_id": "FEX-2026-000134",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-09-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000380",
+  "exception_id": "FEX-2026-000134",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-01",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $10.00"
+ },
+ {
+  "event_id": "EEV-0000381",
+  "exception_id": "FEX-2026-000134",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$10.00 of $10.00 credited"
+ },
+ {
+  "event_id": "EEV-0000382",
+  "exception_id": "FEX-2026-000135",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000383",
+  "exception_id": "FEX-2026-000135",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-04",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $36.14"
+ },
+ {
+  "event_id": "EEV-0000384",
+  "exception_id": "FEX-2026-000135",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$36.14 of $36.14 credited"
+ },
+ {
+  "event_id": "EEV-0000385",
+  "exception_id": "FEX-2026-000136",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000386",
+  "exception_id": "FEX-2026-000136",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $11.78"
+ },
+ {
+  "event_id": "EEV-0000387",
+  "exception_id": "FEX-2026-000136",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$11.78 of $11.78 credited"
+ },
+ {
+  "event_id": "EEV-0000388",
+  "exception_id": "FEX-2026-000137",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000389",
+  "exception_id": "FEX-2026-000137",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-05",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $61.62"
+ },
+ {
+  "event_id": "EEV-0000390",
+  "exception_id": "FEX-2026-000137",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-10-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$31.43 of $61.62 credited"
+ },
+ {
+  "event_id": "EEV-0000391",
+  "exception_id": "FEX-2026-000138",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000392",
+  "exception_id": "FEX-2026-000138",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-09",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $50.39"
+ },
+ {
+  "event_id": "EEV-0000393",
+  "exception_id": "FEX-2026-000138",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-11-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$50.39 of $50.39 credited"
+ },
+ {
+  "event_id": "EEV-0000394",
+  "exception_id": "FEX-2026-000139",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000395",
+  "exception_id": "FEX-2026-000139",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-09",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $8.82"
+ },
+ {
+  "event_id": "EEV-0000396",
+  "exception_id": "FEX-2026-000139",
+  "from_status": "DISPUTED",
+  "to_status": "PARTIALLY_CREDITED",
+  "event_date": "2026-11-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$6.62 of $8.82 credited"
+ },
+ {
+  "event_id": "EEV-0000397",
+  "exception_id": "FEX-2026-000140",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000398",
+  "exception_id": "FEX-2026-000140",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-10-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000399",
+  "exception_id": "FEX-2026-000141",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000400",
+  "exception_id": "FEX-2026-000141",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-10-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000401",
+  "exception_id": "FEX-2026-000142",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000402",
+  "exception_id": "FEX-2026-000142",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-12",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Dispute raised with carrier for $7.89"
+ },
+ {
+  "event_id": "EEV-0000403",
+  "exception_id": "FEX-2026-000142",
+  "from_status": "DISPUTED",
+  "to_status": "CREDITED",
+  "event_date": "2026-10-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "$7.89 of $7.89 credited"
+ },
+ {
+  "event_id": "EEV-0000404",
+  "exception_id": "FEX-2026-000143",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000405",
+  "exception_id": "FEX-2026-000143",
+  "from_status": "OPEN",
+  "to_status": "WAIVED",
+  "event_date": "2026-10-12",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Below $5.00 dispute threshold"
+ },
+ {
+  "event_id": "EEV-0000406",
+  "exception_id": "FEX-2026-000144",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000407",
+  "exception_id": "FEX-2026-000144",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-10-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000408",
+  "exception_id": "FEX-2026-000145",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000409",
+  "exception_id": "FEX-2026-000145",
+  "from_status": "OPEN",
+  "to_status": "INVOICE_REJECTED",
+  "event_date": "2026-10-27",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Whole invoice rejected"
+ },
+ {
+  "event_id": "EEV-0000410",
+  "exception_id": "FEX-2026-000146",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000411",
+  "exception_id": "FEX-2026-000146",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-03",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Carrier asked to reissue credit for approved amount"
+ },
+ {
+  "event_id": "EEV-0000412",
+  "exception_id": "FEX-2026-000147",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-06-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000413",
+  "exception_id": "FEX-2026-000147",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-06-18",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Carrier asked to reissue credit for approved amount"
+ },
+ {
+  "event_id": "EEV-0000414",
+  "exception_id": "FEX-2026-000148",
+  "from_status": null,
+  "to_status": "OPEN",
+  "event_date": "2026-10-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Raised by audit"
+ },
+ {
+  "event_id": "EEV-0000415",
+  "exception_id": "FEX-2026-000148",
+  "from_status": "OPEN",
+  "to_status": "DISPUTED",
+  "event_date": "2026-10-17",
+  "actor_role": "LOGISTICS_ANALYST",
+  "note": "Carrier asked to reissue credit for approved amount"
+ }
+]

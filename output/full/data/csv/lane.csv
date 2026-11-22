@@ -1,0 +1,301 @@
+lane_id,origin_city,origin_state,dest_city,dest_state,distance_miles
+LANE-000001,Albuquerque,NM,Atlanta,GA,1498
+LANE-000002,Albuquerque,NM,Cleveland,OH,1674
+LANE-000003,Albuquerque,NM,Columbus,OH,1576
+LANE-000004,Albuquerque,NM,Dallas,TX,692
+LANE-000005,Albuquerque,NM,Miami,FL,2002
+LANE-000006,Albuquerque,NM,Milwaukee,WI,1348
+LANE-000007,Albuquerque,NM,Oklahoma City,OK,608
+LANE-000008,Albuquerque,NM,Orlando,FL,1824
+LANE-000009,Albuquerque,NM,Philadelphia,PA,2063
+LANE-000010,Albuquerque,NM,Phoenix,AZ,389
+LANE-000011,Albuquerque,NM,Seattle,WA,1396
+LANE-000012,Albuquerque,NM,St. Louis,MO,1110
+LANE-000013,Atlanta,GA,Albuquerque,NM,1498
+LANE-000014,Atlanta,GA,Charlotte,NC,267
+LANE-000015,Atlanta,GA,Dallas,TX,849
+LANE-000016,Atlanta,GA,Denver,CO,1428
+LANE-000017,Atlanta,GA,Jacksonville,FL,337
+LANE-000018,Atlanta,GA,Las Vegas,NV,2056
+LANE-000019,Atlanta,GA,Miami,FL,716
+LANE-000020,Atlanta,GA,Minneapolis,MN,1072
+LANE-000021,Atlanta,GA,Richmond,VA,554
+LANE-000022,Baltimore,MD,Albuquerque,NM,1972
+LANE-000023,Baltimore,MD,Cincinnati,OH,499
+LANE-000024,Baltimore,MD,Los Angeles,CA,2731
+LANE-000025,Baltimore,MD,Milwaukee,WI,757
+LANE-000026,Baltimore,MD,Phoenix,AZ,2360
+LANE-000027,Baltimore,MD,Richmond,VA,152
+LANE-000028,Baltimore,MD,St. Louis,MO,862
+LANE-000029,Birmingham,AL,Atlanta,GA,165
+LANE-000030,Birmingham,AL,Orlando,FL,555
+LANE-000031,Birmingham,AL,Philadelphia,PA,922
+LANE-000032,Birmingham,AL,Portland,OR,2434
+LANE-000033,Birmingham,AL,Richmond,VA,702
+LANE-000034,Birmingham,AL,Sacramento,CA,2310
+LANE-000035,Birmingham,AL,Salt Lake City,UT,1727
+LANE-000036,Boston,MA,Cleveland,OH,648
+LANE-000037,Boston,MA,Louisville,KY,972
+LANE-000038,Boston,MA,Philadelphia,PA,320
+LANE-000039,Boston,MA,Salt Lake City,UT,2470
+LANE-000040,Boston,MA,San Antonio,TX,2083
+LANE-000041,Boston,MA,St. Louis,MO,1222
+LANE-000042,Charlotte,NC,Dallas,TX,1096
+LANE-000043,Charlotte,NC,San Antonio,TX,1303
+LANE-000044,Chicago,IL,Birmingham,AL,684
+LANE-000045,Chicago,IL,Charlotte,NC,693
+LANE-000046,Chicago,IL,Dallas,TX,950
+LANE-000047,Chicago,IL,Newark,NJ,829
+LANE-000048,Chicago,IL,Oklahoma City,OK,817
+LANE-000049,Chicago,IL,Phoenix,AZ,1713
+LANE-000050,Chicago,IL,Pittsburgh,PA,483
+LANE-000051,Chicago,IL,San Antonio,TX,1243
+LANE-000052,Chicago,IL,Seattle,WA,2045
+LANE-000053,Chicago,IL,St. Louis,MO,309
+LANE-000054,Cincinnati,OH,Cleveland,OH,263
+LANE-000055,Cincinnati,OH,Houston,TX,1054
+LANE-000056,Cincinnati,OH,Las Vegas,NV,1983
+LANE-000057,Cincinnati,OH,Los Angeles,CA,2233
+LANE-000058,Cincinnati,OH,Milwaukee,WI,383
+LANE-000059,Cincinnati,OH,Philadelphia,PA,591
+LANE-000060,Cincinnati,OH,Salt Lake City,UT,1710
+LANE-000061,Cleveland,OH,Detroit,MI,107
+LANE-000062,Cleveland,OH,Indianapolis,IN,310
+LANE-000063,Cleveland,OH,Miami,FL,1287
+LANE-000064,Cleveland,OH,Minneapolis,MN,743
+LANE-000065,Columbus,OH,Atlanta,GA,514
+LANE-000066,Columbus,OH,Baltimore,MD,404
+LANE-000067,Columbus,OH,Chicago,IL,326
+LANE-000068,Columbus,OH,Cleveland,OH,149
+LANE-000069,Columbus,OH,Memphis,TN,601
+LANE-000070,Columbus,OH,Philadelphia,PA,489
+LANE-000071,Columbus,OH,Pittsburgh,PA,191
+LANE-000072,Columbus,OH,Sacramento,CA,2414
+LANE-000073,Columbus,OH,Salt Lake City,UT,1788
+LANE-000074,Dallas,TX,Albuquerque,NM,692
+LANE-000075,Dallas,TX,Birmingham,AL,685
+LANE-000076,Dallas,TX,Los Angeles,CA,1460
+LANE-000077,Dallas,TX,Omaha,NE,694
+LANE-000078,Dallas,TX,San Antonio,TX,298
+LANE-000079,Dallas,TX,Seattle,WA,1982
+LANE-000080,Denver,CO,Chicago,IL,1083
+LANE-000081,Denver,CO,Las Vegas,NV,714
+LANE-000082,Denver,CO,Milwaukee,WI,1077
+LANE-000083,Denver,CO,Minneapolis,MN,824
+LANE-000084,Denver,CO,Oklahoma City,OK,595
+LANE-000085,Denver,CO,Omaha,NE,575
+LANE-000086,Denver,CO,Phoenix,AZ,691
+LANE-000087,Denver,CO,San Antonio,TX,947
+LANE-000088,Detroit,MI,Birmingham,AL,757
+LANE-000089,Detroit,MI,Cincinnati,OH,278
+LANE-000090,Detroit,MI,Columbus,OH,193
+LANE-000091,Detroit,MI,Dallas,TX,1179
+LANE-000092,Detroit,MI,Houston,TX,1305
+LANE-000093,Detroit,MI,Miami,FL,1364
+LANE-000094,Detroit,MI,Newark,NJ,557
+LANE-000095,Detroit,MI,Orlando,FL,1130
+LANE-000096,Detroit,MI,Salt Lake City,UT,1756
+LANE-000097,El Paso,TX,Birmingham,AL,1357
+LANE-000098,El Paso,TX,Boston,MA,2441
+LANE-000099,El Paso,TX,Detroit,MI,1743
+LANE-000100,El Paso,TX,Omaha,NE,1037
+LANE-000101,El Paso,TX,Richmond,VA,1996
+LANE-000102,El Paso,TX,Salt Lake City,UT,815
+LANE-000103,Houston,TX,Albuquerque,NM,888
+LANE-000104,Houston,TX,Charlotte,NC,1093
+LANE-000105,Houston,TX,Cleveland,OH,1315
+LANE-000106,Houston,TX,Detroit,MI,1305
+LANE-000107,Houston,TX,Louisville,KY,948
+LANE-000108,Houston,TX,Oklahoma City,OK,488
+LANE-000109,Indianapolis,IN,Denver,CO,1178
+LANE-000110,Indianapolis,IN,Las Vegas,NV,1877
+LANE-000111,Indianapolis,IN,Minneapolis,MN,603
+LANE-000112,Indianapolis,IN,Orlando,FL,970
+LANE-000113,Indianapolis,IN,Philadelphia,PA,688
+LANE-000114,Indianapolis,IN,Pittsburgh,PA,389
+LANE-000115,Jacksonville,FL,Albuquerque,NM,1753
+LANE-000116,Jacksonville,FL,Atlanta,GA,337
+LANE-000117,Jacksonville,FL,Denver,CO,1729
+LANE-000118,Jacksonville,FL,El Paso,TX,1735
+LANE-000119,Jacksonville,FL,Houston,TX,968
+LANE-000120,Jacksonville,FL,Minneapolis,MN,1407
+LANE-000121,Jacksonville,FL,Nashville,TN,590
+LANE-000122,Jacksonville,FL,Phoenix,AZ,2113
+LANE-000123,Jacksonville,FL,San Antonio,TX,1191
+LANE-000124,Kansas City,MO,Albuquerque,NM,850
+LANE-000125,Kansas City,MO,Dallas,TX,536
+LANE-000126,Kansas City,MO,El Paso,TX,991
+LANE-000127,Kansas City,MO,Miami,FL,1467
+LANE-000128,Kansas City,MO,Sacramento,CA,1703
+LANE-000129,Las Vegas,NV,Birmingham,AL,1902
+LANE-000130,Las Vegas,NV,Cincinnati,OH,1983
+LANE-000131,Las Vegas,NV,Kansas City,MO,1346
+LANE-000132,Las Vegas,NV,Louisville,KY,1907
+LANE-000133,Las Vegas,NV,Miami,FL,2570
+LANE-000134,Las Vegas,NV,Minneapolis,MN,1526
+LANE-000135,Las Vegas,NV,Portland,OR,892
+LANE-000136,Los Angeles,CA,Albuquerque,NM,782
+LANE-000137,Los Angeles,CA,Birmingham,AL,2122
+LANE-000138,Los Angeles,CA,Charlotte,NC,2496
+LANE-000139,Los Angeles,CA,Cincinnati,OH,2233
+LANE-000140,Los Angeles,CA,Cleveland,OH,2413
+LANE-000141,Los Angeles,CA,Dallas,TX,1460
+LANE-000142,Los Angeles,CA,El Paso,TX,825
+LANE-000143,Los Angeles,CA,Indianapolis,IN,2131
+LANE-000144,Los Angeles,CA,Orlando,FL,2593
+LANE-000145,Los Angeles,CA,Philadelphia,PA,2818
+LANE-000146,Louisville,KY,Atlanta,GA,378
+LANE-000147,Louisville,KY,Columbus,OH,224
+LANE-000148,Louisville,KY,Omaha,NE,683
+LANE-000149,Louisville,KY,Philadelphia,PA,684
+LANE-000150,Memphis,TN,Charlotte,NC,613
+LANE-000151,Memphis,TN,Chicago,IL,570
+LANE-000152,Memphis,TN,Denver,CO,1035
+LANE-000153,Memphis,TN,Houston,TX,572
+LANE-000154,Memphis,TN,Kansas City,MO,436
+LANE-000155,Memphis,TN,Las Vegas,NV,1660
+LANE-000156,Memphis,TN,Louisville,KY,377
+LANE-000157,Memphis,TN,Miami,FL,1031
+LANE-000158,Memphis,TN,Portland,OR,2178
+LANE-000159,Miami,FL,Albuquerque,NM,2002
+LANE-000160,Miami,FL,Atlanta,GA,716
+LANE-000161,Miami,FL,Birmingham,AL,787
+LANE-000162,Miami,FL,El Paso,TX,1937
+LANE-000163,Miami,FL,Indianapolis,IN,1213
+LANE-000164,Miami,FL,Los Angeles,CA,2756
+LANE-000165,Miami,FL,Oklahoma City,OK,1447
+LANE-000166,Miami,FL,Phoenix,AZ,2335
+LANE-000167,Miami,FL,Portland,OR,3193
+LANE-000168,Milwaukee,WI,Boston,MA,1009
+LANE-000169,Milwaukee,WI,Chicago,IL,96
+LANE-000170,Milwaukee,WI,Minneapolis,MN,352
+LANE-000171,Milwaukee,WI,Salt Lake City,UT,1462
+LANE-000172,Minneapolis,MN,Boston,MA,1323
+LANE-000173,Minneapolis,MN,Jacksonville,FL,1407
+LANE-000174,Minneapolis,MN,Las Vegas,NV,1526
+LANE-000175,Minneapolis,MN,Los Angeles,CA,1795
+LANE-000176,Minneapolis,MN,Louisville,KY,714
+LANE-000177,Minneapolis,MN,Memphis,TN,826
+LANE-000178,Minneapolis,MN,Milwaukee,WI,352
+LANE-000179,Minneapolis,MN,Oklahoma City,OK,819
+LANE-000180,Minneapolis,MN,Omaha,NE,342
+LANE-000181,Minneapolis,MN,Salt Lake City,UT,1162
+LANE-000182,Minneapolis,MN,St. Louis,MO,550
+LANE-000183,Nashville,TN,Baltimore,MD,703
+LANE-000184,Nashville,TN,Columbus,OH,394
+LANE-000185,Nashville,TN,Jacksonville,FL,590
+LANE-000186,Nashville,TN,Las Vegas,NV,1860
+LANE-000187,Nashville,TN,Los Angeles,CA,2096
+LANE-000188,Nashville,TN,Memphis,TN,232
+LANE-000189,Nashville,TN,Philadelphia,PA,806
+LANE-000190,Nashville,TN,Phoenix,AZ,1703
+LANE-000191,Newark,NJ,Jacksonville,FL,983
+LANE-000192,Newark,NJ,Kansas City,MO,1280
+LANE-000193,Newark,NJ,Louisville,KY,756
+LANE-000194,Newark,NJ,Milwaukee,WI,854
+LANE-000195,Newark,NJ,Oklahoma City,OK,1553
+LANE-000196,Newark,NJ,Pittsburgh,PA,361
+LANE-000197,Newark,NJ,Seattle,WA,2824
+LANE-000198,Oklahoma City,OK,Atlanta,GA,891
+LANE-000199,Oklahoma City,OK,Charlotte,NC,1108
+LANE-000200,Oklahoma City,OK,Denver,CO,595
+LANE-000201,Oklahoma City,OK,Louisville,KY,799
+LANE-000202,Oklahoma City,OK,Miami,FL,1447
+LANE-000203,Oklahoma City,OK,Newark,NJ,1553
+LANE-000204,Oklahoma City,OK,Phoenix,AZ,991
+LANE-000205,Omaha,NE,Detroit,MI,787
+LANE-000206,Omaha,NE,El Paso,TX,1037
+LANE-000207,Omaha,NE,Minneapolis,MN,342
+LANE-000208,Omaha,NE,Newark,NJ,1336
+LANE-000209,Omaha,NE,Philadelphia,PA,1286
+LANE-000210,Omaha,NE,Phoenix,AZ,1222
+LANE-000211,Omaha,NE,San Antonio,TX,980
+LANE-000212,Omaha,NE,Seattle,WA,1612
+LANE-000213,Orlando,FL,Albuquerque,NM,1824
+LANE-000214,Orlando,FL,Dallas,TX,1134
+LANE-000215,Orlando,FL,Kansas City,MO,1239
+LANE-000216,Orlando,FL,Memphis,TN,806
+LANE-000217,Orlando,FL,Miami,FL,243
+LANE-000218,Orlando,FL,Omaha,NE,1418
+LANE-000219,Orlando,FL,Philadelphia,PA,1019
+LANE-000220,Orlando,FL,Sacramento,CA,2821
+LANE-000221,Orlando,FL,St. Louis,MO,1016
+LANE-000222,Philadelphia,PA,Baltimore,MD,105
+LANE-000223,Philadelphia,PA,Cleveland,OH,422
+LANE-000224,Philadelphia,PA,Los Angeles,CA,2818
+LANE-000225,Philadelphia,PA,Phoenix,AZ,2451
+LANE-000226,Philadelphia,PA,Pittsburgh,PA,303
+LANE-000227,Philadelphia,PA,Salt Lake City,UT,2266
+LANE-000228,Phoenix,AZ,Albuquerque,NM,389
+LANE-000229,Phoenix,AZ,Boston,MA,2708
+LANE-000230,Phoenix,AZ,Cincinnati,OH,1861
+LANE-000231,Phoenix,AZ,Columbus,OH,1964
+LANE-000232,Phoenix,AZ,Jacksonville,FL,2113
+LANE-000233,Phoenix,AZ,Miami,FL,2335
+LANE-000234,Phoenix,AZ,Minneapolis,MN,1508
+LANE-000235,Phoenix,AZ,Nashville,TN,1703
+LANE-000236,Phoenix,AZ,Newark,NJ,2515
+LANE-000237,Phoenix,AZ,Omaha,NE,1222
+LANE-000238,Pittsburgh,PA,Birmingham,AL,717
+LANE-000239,Pittsburgh,PA,Cleveland,OH,136
+LANE-000240,Pittsburgh,PA,Denver,CO,1555
+LANE-000241,Pittsburgh,PA,El Paso,TX,1875
+LANE-000242,Pittsburgh,PA,Nashville,TN,557
+LANE-000243,Pittsburgh,PA,Newark,NJ,361
+LANE-000244,Pittsburgh,PA,Richmond,VA,286
+LANE-000245,Pittsburgh,PA,Sacramento,CA,2591
+LANE-000246,Pittsburgh,PA,Salt Lake City,UT,1964
+LANE-000247,Portland,OR,Albuquerque,NM,1306
+LANE-000248,Portland,OR,Atlanta,GA,2559
+LANE-000249,Portland,OR,Charlotte,NC,2696
+LANE-000250,Portland,OR,Detroit,MI,2318
+LANE-000251,Portland,OR,Minneapolis,MN,1679
+LANE-000252,Portland,OR,Omaha,NE,1614
+LANE-000253,Portland,OR,Phoenix,AZ,1187
+LANE-000254,Portland,OR,Richmond,VA,2798
+LANE-000255,Portland,OR,Sacramento,CA,570
+LANE-000256,Portland,OR,Salt Lake City,UT,749
+LANE-000257,Portland,OR,St. Louis,MO,2029
+LANE-000258,Richmond,VA,Chicago,IL,730
+LANE-000259,Richmond,VA,Las Vegas,NV,2445
+LANE-000260,Richmond,VA,Milwaukee,WI,790
+LANE-000261,Richmond,VA,Minneapolis,MN,1141
+LANE-000262,Richmond,VA,Pittsburgh,PA,286
+LANE-000263,Richmond,VA,Salt Lake City,UT,2180
+LANE-000264,Sacramento,CA,Atlanta,GA,2457
+LANE-000265,Sacramento,CA,Boston,MA,3097
+LANE-000266,Sacramento,CA,Chicago,IL,2111
+LANE-000267,Sacramento,CA,Detroit,MI,2384
+LANE-000268,Sacramento,CA,Memphis,TN,2060
+LANE-000269,Sacramento,CA,Minneapolis,MN,1783
+LANE-000270,Sacramento,CA,Richmond,VA,2802
+LANE-000271,Sacramento,CA,San Antonio,TX,1718
+LANE-000272,Sacramento,CA,Seattle,WA,738
+LANE-000273,Salt Lake City,UT,Albuquerque,NM,572
+LANE-000274,Salt Lake City,UT,Chicago,IL,1483
+LANE-000275,Salt Lake City,UT,Cincinnati,OH,1710
+LANE-000276,Salt Lake City,UT,Denver,CO,437
+LANE-000277,Salt Lake City,UT,Kansas City,MO,1089
+LANE-000278,Salt Lake City,UT,Minneapolis,MN,1162
+LANE-000279,Salt Lake City,UT,Oklahoma City,OK,1016
+LANE-000280,Salt Lake City,UT,Omaha,NE,981
+LANE-000281,Salt Lake City,UT,Orlando,FL,2260
+LANE-000282,Salt Lake City,UT,Seattle,WA,826
+LANE-000283,San Antonio,TX,Atlanta,GA,1040
+LANE-000284,San Antonio,TX,El Paso,TX,593
+LANE-000285,San Antonio,TX,Jacksonville,FL,1191
+LANE-000286,San Antonio,TX,Newark,NJ,1857
+LANE-000287,San Antonio,TX,Portland,OR,2029
+LANE-000288,Seattle,WA,Atlanta,GA,2570
+LANE-000289,Seattle,WA,Baltimore,MD,2747
+LANE-000290,Seattle,WA,Indianapolis,IN,2204
+LANE-000291,Seattle,WA,Minneapolis,MN,1641
+LANE-000292,Seattle,WA,Oklahoma City,OK,1796
+LANE-000293,Seattle,WA,Orlando,FL,3005
+LANE-000294,Seattle,WA,Portland,OR,172
+LANE-000295,Seattle,WA,Richmond,VA,2774
+LANE-000296,Seattle,WA,Salt Lake City,UT,826
+LANE-000297,St. Louis,MO,Baltimore,MD,862
+LANE-000298,St. Louis,MO,Charlotte,NC,670
+LANE-000299,St. Louis,MO,Miami,FL,1254
+LANE-000300,St. Louis,MO,Milwaukee,WI,386

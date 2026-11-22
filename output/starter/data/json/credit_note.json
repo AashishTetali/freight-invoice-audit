@@ -1,0 +1,1037 @@
+[
+ {
+  "credit_note_id": "CN-2026-000001",
+  "exception_id": "FEX-2026-000002",
+  "invoice_id": "FINV-2026-000019",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-01-25",
+  "credit_amount": 12.11,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000002",
+  "exception_id": "FEX-2026-000005",
+  "invoice_id": "FINV-2026-000037",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-01-29",
+  "credit_amount": 58.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000003",
+  "exception_id": "FEX-2026-000006",
+  "invoice_id": "FINV-2026-000042",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-02-01",
+  "credit_amount": 83.97,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000004",
+  "exception_id": "FEX-2026-000008",
+  "invoice_id": "FINV-2026-000045",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-02-01",
+  "credit_amount": 188.6,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000005",
+  "exception_id": "FEX-2026-000007",
+  "invoice_id": "FINV-2026-000042",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-02-03",
+  "credit_amount": 23.93,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000006",
+  "exception_id": "FEX-2026-000004",
+  "invoice_id": "FINV-2026-000032",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-02-06",
+  "credit_amount": 9.15,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000007",
+  "exception_id": "FEX-2026-000001",
+  "invoice_id": "FINV-2026-000007",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-02-07",
+  "credit_amount": 85.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000008",
+  "exception_id": "FEX-2026-000003",
+  "invoice_id": "FINV-2026-000022",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-02-08",
+  "credit_amount": 62.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000009",
+  "exception_id": "FEX-2026-000012",
+  "invoice_id": "FINV-2026-000056",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-02-10",
+  "credit_amount": 43.77,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000010",
+  "exception_id": "FEX-2026-000009",
+  "invoice_id": "FINV-2026-000050",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-02-12",
+  "credit_amount": 85.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000011",
+  "exception_id": "FEX-2026-000015",
+  "invoice_id": "FINV-2026-000072",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-02-15",
+  "credit_amount": 36.42,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000012",
+  "exception_id": "FEX-2026-000011",
+  "invoice_id": "FINV-2026-000053",
+  "carrier_id": "CAR-000007",
+  "issued_date": "2026-02-19",
+  "credit_amount": 5.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000013",
+  "exception_id": "FEX-2026-000013",
+  "invoice_id": "FINV-2026-000056",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-02-19",
+  "credit_amount": 5.02,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000014",
+  "exception_id": "FEX-2026-000018",
+  "invoice_id": "FINV-2026-000084",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-02-21",
+  "credit_amount": 46.01,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000015",
+  "exception_id": "FEX-2026-000019",
+  "invoice_id": "FINV-2026-000084",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-02-21",
+  "credit_amount": 10.03,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000016",
+  "exception_id": "FEX-2026-000010",
+  "invoice_id": "FINV-2026-000053",
+  "carrier_id": "CAR-000007",
+  "issued_date": "2026-02-23",
+  "credit_amount": 27.17,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000017",
+  "exception_id": "FEX-2026-000014",
+  "invoice_id": "FINV-2026-000070",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-02-23",
+  "credit_amount": 66.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000018",
+  "exception_id": "FEX-2026-000016",
+  "invoice_id": "FINV-2026-000072",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-02-23",
+  "credit_amount": 10.2,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000019",
+  "exception_id": "FEX-2026-000017",
+  "invoice_id": "FINV-2026-000080",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-02-23",
+  "credit_amount": 47.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000020",
+  "exception_id": "FEX-2026-000020",
+  "invoice_id": "FINV-2026-000089",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-03-06",
+  "credit_amount": 25.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000021",
+  "exception_id": "FEX-2026-000023",
+  "invoice_id": "FINV-2026-000129",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-03-08",
+  "credit_amount": 86.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000022",
+  "exception_id": "FEX-2026-000021",
+  "invoice_id": "FINV-2026-000110",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-03-13",
+  "credit_amount": 58.74,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000023",
+  "exception_id": "FEX-2026-000025",
+  "invoice_id": "FINV-2026-000137",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-03-17",
+  "credit_amount": 8.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000024",
+  "exception_id": "FEX-2026-000022",
+  "invoice_id": "FINV-2026-000110",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-03-18",
+  "credit_amount": 16.74,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000025",
+  "exception_id": "FEX-2026-000026",
+  "invoice_id": "FINV-2026-000154",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-03-23",
+  "credit_amount": 47.31,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000026",
+  "exception_id": "FEX-2026-000024",
+  "invoice_id": "FINV-2026-000137",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-03-24",
+  "credit_amount": 41.91,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000027",
+  "exception_id": "FEX-2026-000030",
+  "invoice_id": "FINV-2026-000198",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-04-02",
+  "credit_amount": 108.96,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000028",
+  "exception_id": "FEX-2026-000029",
+  "invoice_id": "FINV-2026-000194",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-04-07",
+  "credit_amount": 16.35,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000029",
+  "exception_id": "FEX-2026-000031",
+  "invoice_id": "FINV-2026-000204",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-04-11",
+  "credit_amount": 23.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000030",
+  "exception_id": "FEX-2026-000035",
+  "invoice_id": "FINV-2026-000218",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-04-16",
+  "credit_amount": 5.75,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000031",
+  "exception_id": "FEX-2026-000038",
+  "invoice_id": "FINV-2026-000236",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-04-17",
+  "credit_amount": 4.6,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000032",
+  "exception_id": "FEX-2026-000041",
+  "invoice_id": "FINV-2026-000254",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-04-24",
+  "credit_amount": 10.44,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000033",
+  "exception_id": "FEX-2026-000043",
+  "invoice_id": "FINV-2026-000260",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-04-28",
+  "credit_amount": 25.42,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000034",
+  "exception_id": "FEX-2026-000040",
+  "invoice_id": "FINV-2026-000254",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-05-02",
+  "credit_amount": 38.23,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000035",
+  "exception_id": "FEX-2026-000036",
+  "invoice_id": "FINV-2026-000233",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-05-04",
+  "credit_amount": 7.42,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000036",
+  "exception_id": "FEX-2026-000039",
+  "invoice_id": "FINV-2026-000243",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-05-04",
+  "credit_amount": 109.1,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000037",
+  "exception_id": "FEX-2026-000042",
+  "invoice_id": "FINV-2026-000257",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-05-07",
+  "credit_amount": 104.1,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000038",
+  "exception_id": "FEX-2026-000044",
+  "invoice_id": "FINV-2026-000260",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-05-10",
+  "credit_amount": 5.54,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000039",
+  "exception_id": "FEX-2026-000047",
+  "invoice_id": "FINV-2026-000278",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-05-10",
+  "credit_amount": 11.57,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000040",
+  "exception_id": "FEX-2026-000051",
+  "invoice_id": "FINV-2026-000298",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-05-11",
+  "credit_amount": 185.86,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000041",
+  "exception_id": "FEX-2026-000046",
+  "invoice_id": "FINV-2026-000267",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-05-12",
+  "credit_amount": 46.97,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000042",
+  "exception_id": "FEX-2026-000050",
+  "invoice_id": "FINV-2026-000296",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-05-14",
+  "credit_amount": 83.5,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000043",
+  "exception_id": "FEX-2026-000045",
+  "invoice_id": "FINV-2026-000267",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-05-17",
+  "credit_amount": 184.18,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000044",
+  "exception_id": "FEX-2026-000055",
+  "invoice_id": "FINV-2026-000324",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-05-20",
+  "credit_amount": 100.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000045",
+  "exception_id": "FEX-2026-000052",
+  "invoice_id": "FINV-2026-000298",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-05-22",
+  "credit_amount": 55.57,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000046",
+  "exception_id": "FEX-2026-000048",
+  "invoice_id": "FINV-2026-000283",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-05-25",
+  "credit_amount": 78.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000047",
+  "exception_id": "FEX-2026-000054",
+  "invoice_id": "FINV-2026-000299",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-05-29",
+  "credit_amount": 18.13,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000048",
+  "exception_id": "FEX-2026-000053",
+  "invoice_id": "FINV-2026-000299",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-05-30",
+  "credit_amount": 83.14,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000049",
+  "exception_id": "FEX-2026-000056",
+  "invoice_id": "FINV-2026-000327",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-06-02",
+  "credit_amount": 32.58,
+  "current_status": "HELD"
+ },
+ {
+  "credit_note_id": "CN-2026-000050",
+  "exception_id": "FEX-2026-000059",
+  "invoice_id": "FINV-2026-000340",
+  "carrier_id": "CAR-000007",
+  "issued_date": "2026-06-02",
+  "credit_amount": 49.83,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000051",
+  "exception_id": "FEX-2026-000060",
+  "invoice_id": "FINV-2026-000355",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-06-04",
+  "credit_amount": 98.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000052",
+  "exception_id": "FEX-2026-000057",
+  "invoice_id": "FINV-2026-000339",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-06-09",
+  "credit_amount": 44.87,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000053",
+  "exception_id": "FEX-2026-000062",
+  "invoice_id": "FINV-2026-000358",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-06-09",
+  "credit_amount": 17.58,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000054",
+  "exception_id": "FEX-2026-000058",
+  "invoice_id": "FINV-2026-000339",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-06-13",
+  "credit_amount": 11.44,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000055",
+  "exception_id": "FEX-2026-000064",
+  "invoice_id": "FINV-2026-000376",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-06-14",
+  "credit_amount": 30.53,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000056",
+  "exception_id": "FEX-2026-000065",
+  "invoice_id": "FINV-2026-000384",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-06-14",
+  "credit_amount": 81.76,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000057",
+  "exception_id": "FEX-2026-000070",
+  "invoice_id": "FINV-2026-000413",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-06-17",
+  "credit_amount": 25.0,
+  "current_status": "HELD"
+ },
+ {
+  "credit_note_id": "CN-2026-000058",
+  "exception_id": "FEX-2026-000069",
+  "invoice_id": "FINV-2026-000413",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-06-19",
+  "credit_amount": 71.9,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000059",
+  "exception_id": "FEX-2026-000068",
+  "invoice_id": "FINV-2026-000406",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-06-20",
+  "credit_amount": 100.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000060",
+  "exception_id": "FEX-2026-000063",
+  "invoice_id": "FINV-2026-000376",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-06-21",
+  "credit_amount": 107.1,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000061",
+  "exception_id": "FEX-2026-000073",
+  "invoice_id": "FINV-2026-000425",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-06-22",
+  "credit_amount": 39.68,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000062",
+  "exception_id": "FEX-2026-000067",
+  "invoice_id": "FINV-2026-000393",
+  "carrier_id": "CAR-000003",
+  "issued_date": "2026-06-23",
+  "credit_amount": 5.73,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000063",
+  "exception_id": "FEX-2026-000072",
+  "invoice_id": "FINV-2026-000424",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-06-24",
+  "credit_amount": 100.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000064",
+  "exception_id": "FEX-2026-000079",
+  "invoice_id": "FINV-2026-000443",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-06-28",
+  "credit_amount": 174.45,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000065",
+  "exception_id": "FEX-2026-000077",
+  "invoice_id": "FINV-2026-000436",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-07-02",
+  "credit_amount": 104.37,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000066",
+  "exception_id": "FEX-2026-000075",
+  "invoice_id": "FINV-2026-000429",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-07-06",
+  "credit_amount": 36.73,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000067",
+  "exception_id": "FEX-2026-000071",
+  "invoice_id": "FINV-2026-000422",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-07-09",
+  "credit_amount": 74.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000068",
+  "exception_id": "FEX-2026-000074",
+  "invoice_id": "FINV-2026-000425",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-07-10",
+  "credit_amount": 11.87,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000069",
+  "exception_id": "FEX-2026-000078",
+  "invoice_id": "FINV-2026-000443",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-07-11",
+  "credit_amount": 800.25,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000070",
+  "exception_id": "FEX-2026-000076",
+  "invoice_id": "FINV-2026-000429",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-07-12",
+  "credit_amount": 9.37,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000071",
+  "exception_id": "FEX-2026-000082",
+  "invoice_id": "FINV-2026-000467",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-07-12",
+  "credit_amount": 221.7,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000072",
+  "exception_id": "FEX-2026-000081",
+  "invoice_id": "FINV-2026-000465",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-07-14",
+  "credit_amount": 70.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000073",
+  "exception_id": "FEX-2026-000086",
+  "invoice_id": "FINV-2026-000511",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-07-19",
+  "credit_amount": 204.42,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000074",
+  "exception_id": "FEX-2026-000083",
+  "invoice_id": "FINV-2026-000467",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-07-21",
+  "credit_amount": 62.08,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000075",
+  "exception_id": "FEX-2026-000087",
+  "invoice_id": "FINV-2026-000511",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-07-24",
+  "credit_amount": 56.63,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000076",
+  "exception_id": "FEX-2026-000089",
+  "invoice_id": "FINV-2026-000523",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-07-25",
+  "credit_amount": 3.57,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000077",
+  "exception_id": "FEX-2026-000088",
+  "invoice_id": "FINV-2026-000522",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-07-28",
+  "credit_amount": 78.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000078",
+  "exception_id": "FEX-2026-000092",
+  "invoice_id": "FINV-2026-000531",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-07-30",
+  "credit_amount": 105.84,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000079",
+  "exception_id": "FEX-2026-000098",
+  "invoice_id": "FINV-2026-000546",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-08-05",
+  "credit_amount": 58.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000080",
+  "exception_id": "FEX-2026-000093",
+  "invoice_id": "FINV-2026-000531",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-08-06",
+  "credit_amount": 20.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000081",
+  "exception_id": "FEX-2026-000090",
+  "invoice_id": "FINV-2026-000523",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-08-10",
+  "credit_amount": 5.51,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000082",
+  "exception_id": "FEX-2026-000094",
+  "invoice_id": "FINV-2026-000535",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-08-10",
+  "credit_amount": 181.01,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000083",
+  "exception_id": "FEX-2026-000100",
+  "invoice_id": "FINV-2026-000559",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-08-13",
+  "credit_amount": 86.08,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000084",
+  "exception_id": "FEX-2026-000095",
+  "invoice_id": "FINV-2026-000535",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-08-16",
+  "credit_amount": 53.94,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000085",
+  "exception_id": "FEX-2026-000099",
+  "invoice_id": "FINV-2026-000552",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-08-19",
+  "credit_amount": 93.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000086",
+  "exception_id": "FEX-2026-000102",
+  "invoice_id": "FINV-2026-000564",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-08-19",
+  "credit_amount": 99.86,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000087",
+  "exception_id": "FEX-2026-000103",
+  "invoice_id": "FINV-2026-000564",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-08-23",
+  "credit_amount": 17.47,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000088",
+  "exception_id": "FEX-2026-000106",
+  "invoice_id": "FINV-2026-000590",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-08-23",
+  "credit_amount": 11.29,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000089",
+  "exception_id": "FEX-2026-000109",
+  "invoice_id": "FINV-2026-000619",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-09-02",
+  "credit_amount": 66.59,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000090",
+  "exception_id": "FEX-2026-000105",
+  "invoice_id": "FINV-2026-000590",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-09-08",
+  "credit_amount": 51.02,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000091",
+  "exception_id": "FEX-2026-000108",
+  "invoice_id": "FINV-2026-000612",
+  "carrier_id": "CAR-000006",
+  "issued_date": "2026-09-10",
+  "credit_amount": 7.59,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000092",
+  "exception_id": "FEX-2026-000110",
+  "invoice_id": "FINV-2026-000628",
+  "carrier_id": "CAR-000003",
+  "issued_date": "2026-09-15",
+  "credit_amount": 9.8,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000093",
+  "exception_id": "FEX-2026-000113",
+  "invoice_id": "FINV-2026-000631",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-09-19",
+  "credit_amount": 7.1,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000094",
+  "exception_id": "FEX-2026-000112",
+  "invoice_id": "FINV-2026-000631",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-09-24",
+  "credit_amount": 40.53,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000095",
+  "exception_id": "FEX-2026-000119",
+  "invoice_id": "FINV-2026-000668",
+  "carrier_id": "CAR-000008",
+  "issued_date": "2026-09-28",
+  "credit_amount": 54.88,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000096",
+  "exception_id": "FEX-2026-000121",
+  "invoice_id": "FINV-2026-000683",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-09-28",
+  "credit_amount": 32.2,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000097",
+  "exception_id": "FEX-2026-000116",
+  "invoice_id": "FINV-2026-000661",
+  "carrier_id": "CAR-000007",
+  "issued_date": "2026-10-01",
+  "credit_amount": 19.21,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000098",
+  "exception_id": "FEX-2026-000123",
+  "invoice_id": "FINV-2026-000690",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-10-01",
+  "credit_amount": 136.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000099",
+  "exception_id": "FEX-2026-000122",
+  "invoice_id": "FINV-2026-000683",
+  "carrier_id": "CAR-000009",
+  "issued_date": "2026-10-04",
+  "credit_amount": 9.6,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000100",
+  "exception_id": "FEX-2026-000125",
+  "invoice_id": "FINV-2026-000692",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-10-04",
+  "credit_amount": 11.62,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000101",
+  "exception_id": "FEX-2026-000115",
+  "invoice_id": "FINV-2026-000661",
+  "carrier_id": "CAR-000007",
+  "issued_date": "2026-10-06",
+  "credit_amount": 116.39,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000102",
+  "exception_id": "FEX-2026-000129",
+  "invoice_id": "FINV-2026-000696",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-10-08",
+  "credit_amount": 24.07,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000103",
+  "exception_id": "FEX-2026-000120",
+  "invoice_id": "FINV-2026-000672",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-10-10",
+  "credit_amount": 65.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000104",
+  "exception_id": "FEX-2026-000131",
+  "invoice_id": "FINV-2026-000702",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-10-13",
+  "credit_amount": 356.24,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000105",
+  "exception_id": "FEX-2026-000130",
+  "invoice_id": "FINV-2026-000701",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-10-16",
+  "credit_amount": 127.5,
+  "current_status": "HELD"
+ },
+ {
+  "credit_note_id": "CN-2026-000106",
+  "exception_id": "FEX-2026-000128",
+  "invoice_id": "FINV-2026-000696",
+  "carrier_id": "CAR-000002",
+  "issued_date": "2026-10-17",
+  "credit_amount": 37.41,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000107",
+  "exception_id": "FEX-2026-000133",
+  "invoice_id": "FINV-2026-000719",
+  "carrier_id": "CAR-000004",
+  "issued_date": "2026-10-19",
+  "credit_amount": 37.88,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000108",
+  "exception_id": "FEX-2026-000134",
+  "invoice_id": "FINV-2026-000719",
+  "carrier_id": "CAR-000004",
+  "issued_date": "2026-10-19",
+  "credit_amount": 10.0,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000109",
+  "exception_id": "FEX-2026-000135",
+  "invoice_id": "FINV-2026-000725",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-10-20",
+  "credit_amount": 36.14,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000110",
+  "exception_id": "FEX-2026-000132",
+  "invoice_id": "FINV-2026-000714",
+  "carrier_id": "CAR-000001",
+  "issued_date": "2026-10-23",
+  "credit_amount": 8.21,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000111",
+  "exception_id": "FEX-2026-000142",
+  "invoice_id": "FINV-2026-000741",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-10-24",
+  "credit_amount": 7.89,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000112",
+  "exception_id": "FEX-2026-000136",
+  "invoice_id": "FINV-2026-000727",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-10-25",
+  "credit_amount": 11.78,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000113",
+  "exception_id": "FEX-2026-000137",
+  "invoice_id": "FINV-2026-000728",
+  "carrier_id": "CAR-000005",
+  "issued_date": "2026-10-29",
+  "credit_amount": 31.43,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000114",
+  "exception_id": "FEX-2026-000138",
+  "invoice_id": "FINV-2026-000738",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-11-03",
+  "credit_amount": 50.39,
+  "current_status": "APPLIED"
+ },
+ {
+  "credit_note_id": "CN-2026-000115",
+  "exception_id": "FEX-2026-000139",
+  "invoice_id": "FINV-2026-000738",
+  "carrier_id": "CAR-000010",
+  "issued_date": "2026-11-03",
+  "credit_amount": 6.62,
+  "current_status": "APPLIED"
+ }
+]

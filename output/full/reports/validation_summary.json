@@ -1,0 +1,1352 @@
+{
+  "overall": "PASS",
+  "checks_run": 168,
+  "checks_passed": 168,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "name": "carrier: primary key carrier_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 100,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "carrier: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 100,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "carrier: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 100,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "carrier: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 100,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "carrier: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 100,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: primary key lane_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: (origin_city, origin_state, dest_city, dest_state) is unique",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "lane: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: primary key rate_card_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: (carrier_id, version) is unique",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card.carrier_id -> carrier.carrier_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card.previous_rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: primary key rate_line_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: (rate_card_id, lane_id, service_level, tier_min_lb) is unique",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line.rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_line.lane_id -> lane.lane_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 19290,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "accessorial: primary key accessorial_code is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 7,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "accessorial: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 7,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "accessorial: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 7,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "accessorial: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 7,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "accessorial: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 7,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial: primary key rate_card_id+accessorial_code is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial.rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "rate_card_accessorial.accessorial_code -> accessorial.accessorial_code",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 1218,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: primary key shipment_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment.carrier_id -> carrier.carrier_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment.lane_id -> lane.lane_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: primary key leg_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: (shipment_id, leg_seq) is unique",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_leg.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 27404,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement: primary key measurement_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "weight_measurement.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 25969,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record: primary key delivery_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_record.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial: primary key delivery_id+accessorial_code is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial.delivery_id -> delivery_record.delivery_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "delivery_accessorial.accessorial_code -> accessorial.accessorial_code",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 12783,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history: primary key event_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment_status_history.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 80000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice: primary key invoice_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice.carrier_id -> carrier.carrier_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "freight_invoice.rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: primary key line_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: (invoice_id, line_no) is unique",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line.invoice_id -> freight_invoice.invoice_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_line.accessorial_code -> accessorial.accessorial_code",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history: primary key event_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_status_history.invoice_id -> freight_invoice.invoice_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 61241,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit: primary key invoice_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit.invoice_id -> freight_invoice.invoice_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice_audit.expected_rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception: primary key exception_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.invoice_id -> freight_invoice.invoice_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.line_id -> invoice_line.line_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.shipment_id -> shipment.shipment_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.rate_card_id -> rate_card.rate_card_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.root_exception_id -> audit_exception.exception_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "audit_exception.credit_note_id -> credit_note.credit_note_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history: primary key event_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception_status_history.exception_id -> audit_exception.exception_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 8901,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: primary key credit_note_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note.exception_id -> audit_exception.exception_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note.invoice_id -> freight_invoice.invoice_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note.carrier_id -> carrier.carrier_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history: primary key event_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note_status_history.credit_note_id -> credit_note.credit_note_id",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 4866,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "ground_truth: primary key gt_id is unique",
+      "category": "primary_key",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "ground_truth: required fields present",
+      "category": "required",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "ground_truth: values in allowed lists",
+      "category": "enum",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "ground_truth: ID / code formats",
+      "category": "id_format",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "ground_truth: unique columns",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Rate cards: effective dates ordered, no gaps or overlaps",
+      "category": "date_order",
+      "status": "PASS",
+      "checked": 200,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Rate tiers: contiguous, cover all weights, cheaper when heavier",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 3858,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Lanes: origin differs from destination, distance > 0",
+      "category": "allowed_values",
+      "status": "PASS",
+      "checked": 300,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Shipment legs: start at origin, end at destination, connected",
+      "category": "lifecycle",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Shipment dates: booked <= legs <= delivery; measurements in between",
+      "category": "date_order",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Every shipment has a rate on its lane/service in the card valid on its ship date",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Every shipment has a shipper BOL measurement",
+      "category": "required",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Delivery outcome = ON_TIME exactly when delivered by planned date",
+      "category": "derived_values",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Invoice total = sum of its lines",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Invoice line amount = quantity x rate (or minimum charge)",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 40305,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Exception variance = billed - expected",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Exceptions explain the whole invoice difference (billed - expected = sum of exception variances)",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Expected charges are reproducible (recomputed from source records)",
+      "category": "derived_values",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Every invoice was audited exactly once",
+      "category": "required",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Duplicate bills: at most one accepted invoice per shipment",
+      "category": "duplicates",
+      "status": "PASS",
+      "checked": 14700,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Invoices quoting an unknown shipment are all flagged UNKNOWN_SHIPMENT",
+      "category": "foreign_key",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Credits reconcile: applied credits never exceed the approved amount",
+      "category": "arithmetic",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Approved amount = variance for disputed exceptions, else 0",
+      "category": "derived_values",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Dates: delivery <= invoice <= audit < credit note",
+      "category": "date_order",
+      "status": "PASS",
+      "checked": 17433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "shipment: status changes follow the allowed lifecycle, history matches current status",
+      "category": "lifecycle",
+      "status": "PASS",
+      "checked": 20000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "invoice: status changes follow the allowed lifecycle, history matches current status",
+      "category": "lifecycle",
+      "status": "PASS",
+      "checked": 15000,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "exception: status changes follow the allowed lifecycle, history matches current status",
+      "category": "lifecycle",
+      "status": "PASS",
+      "checked": 3175,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "credit_note: status changes follow the allowed lifecycle, history matches current status",
+      "category": "lifecycle",
+      "status": "PASS",
+      "checked": 2433,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "No answer-key columns inside the business data (no leakage)",
+      "category": "ground_truth",
+      "status": "PASS",
+      "checked": 152,
+      "failed": 0,
+      "examples": []
+    },
+    {
+      "name": "Ground truth rows point to real invoices / credit notes",
+      "category": "ground_truth",
+      "status": "PASS",
+      "checked": 2282,
+      "failed": 0,
+      "examples": []
+    }
+  ]
+}

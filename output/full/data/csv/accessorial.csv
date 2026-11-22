@@ -1,0 +1,8 @@
+accessorial_code,description,charge_basis,reference_amount
+LIFTGATE,Hydraulic liftgate used at delivery,FLAT,65.00
+RESIDENTIAL,Delivery to a residential address,FLAT,85.00
+INSIDE_DELIVERY,Freight carried inside the building,FLAT,95.00
+APPOINTMENT,Delivery at a booked time slot,FLAT,25.00
+LIMITED_ACCESS,"Hard-to-reach site (school, farm, military base)",FLAT,70.00
+HAZMAT,Hazardous materials handling,FLAT,40.00
+DETENTION,Driver kept waiting beyond 2 free hours,PER_HOUR,75.00

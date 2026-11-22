@@ -1,0 +1,802 @@
+[
+ {
+  "carrier_id": "CAR-000001",
+  "carrier_name": "Meadowlark Freight Lines",
+  "scac_code": "DOMI",
+  "hq_state": "CO",
+  "onboarded_date": "2025-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000002",
+  "carrier_name": "Brightwater Transport",
+  "scac_code": "EJCB",
+  "hq_state": "GA",
+  "onboarded_date": "2015-02-28",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000003",
+  "carrier_name": "Oakmont Freight Lines",
+  "scac_code": "GSXV",
+  "hq_state": "CO",
+  "onboarded_date": "2024-10-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000004",
+  "carrier_name": "Pinecone Haulage",
+  "scac_code": "RHPV",
+  "hq_state": "PA",
+  "onboarded_date": "2024-03-04",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000005",
+  "carrier_name": "Silverline Logistics",
+  "scac_code": "GNAM",
+  "hq_state": "MI",
+  "onboarded_date": "2022-10-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000006",
+  "carrier_name": "Riverbend Logistics",
+  "scac_code": "LVPI",
+  "hq_state": "NV",
+  "onboarded_date": "2016-05-24",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000007",
+  "carrier_name": "Falconridge Haulage",
+  "scac_code": "FWMH",
+  "hq_state": "TN",
+  "onboarded_date": "2016-04-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000008",
+  "carrier_name": "Oakmont Carriers",
+  "scac_code": "JXXC",
+  "hq_state": "CA",
+  "onboarded_date": "2025-05-26",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000009",
+  "carrier_name": "Riverbend Haulage",
+  "scac_code": "XEBI",
+  "hq_state": "IL",
+  "onboarded_date": "2025-10-29",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000010",
+  "carrier_name": "Bluecrest Freight Lines",
+  "scac_code": "DSYI",
+  "hq_state": "MO",
+  "onboarded_date": "2018-04-05",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000011",
+  "carrier_name": "Brightwater Haulage",
+  "scac_code": "GLVJ",
+  "hq_state": "UT",
+  "onboarded_date": "2017-12-04",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000012",
+  "carrier_name": "Kestrel Haulage",
+  "scac_code": "RNQR",
+  "hq_state": "TN",
+  "onboarded_date": "2022-11-03",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000013",
+  "carrier_name": "Clearpath Carriers",
+  "scac_code": "XWYK",
+  "hq_state": "NE",
+  "onboarded_date": "2015-08-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000014",
+  "carrier_name": "Falconridge Transport",
+  "scac_code": "VFLE",
+  "hq_state": "OK",
+  "onboarded_date": "2024-08-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000015",
+  "carrier_name": "Oakmont Haulage",
+  "scac_code": "NGPL",
+  "hq_state": "VA",
+  "onboarded_date": "2016-08-08",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000016",
+  "carrier_name": "Bluecrest Logistics",
+  "scac_code": "VPUA",
+  "hq_state": "PA",
+  "onboarded_date": "2025-02-28",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000017",
+  "carrier_name": "Stonebridge Freight Lines",
+  "scac_code": "CAKJ",
+  "hq_state": "OH",
+  "onboarded_date": "2022-12-14",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000018",
+  "carrier_name": "Granite Peak Logistics",
+  "scac_code": "TLDF",
+  "hq_state": "TX",
+  "onboarded_date": "2023-07-21",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000019",
+  "carrier_name": "Driftwood Logistics",
+  "scac_code": "QUJM",
+  "hq_state": "AZ",
+  "onboarded_date": "2016-08-31",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000020",
+  "carrier_name": "Sunvale Carriers",
+  "scac_code": "XDPS",
+  "hq_state": "TN",
+  "onboarded_date": "2025-03-16",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000021",
+  "carrier_name": "Pinecone Transport",
+  "scac_code": "HGWU",
+  "hq_state": "AL",
+  "onboarded_date": "2020-02-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000022",
+  "carrier_name": "Kestrel Cartage",
+  "scac_code": "UDNB",
+  "hq_state": "VA",
+  "onboarded_date": "2015-03-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000023",
+  "carrier_name": "Copperleaf Haulage",
+  "scac_code": "AMVH",
+  "hq_state": "CO",
+  "onboarded_date": "2018-07-12",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000024",
+  "carrier_name": "Westgate Express",
+  "scac_code": "QPVV",
+  "hq_state": "UT",
+  "onboarded_date": "2016-10-31",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000025",
+  "carrier_name": "Sunvale Transport",
+  "scac_code": "SBFZ",
+  "hq_state": "GA",
+  "onboarded_date": "2022-01-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000026",
+  "carrier_name": "Redfern Carriers",
+  "scac_code": "SBXS",
+  "hq_state": "AL",
+  "onboarded_date": "2018-05-20",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000027",
+  "carrier_name": "Lakeshore Transport",
+  "scac_code": "PUKA",
+  "hq_state": "FL",
+  "onboarded_date": "2023-02-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000028",
+  "carrier_name": "Harborview Logistics",
+  "scac_code": "YGJN",
+  "hq_state": "MI",
+  "onboarded_date": "2019-09-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000029",
+  "carrier_name": "Copperleaf Freight Lines",
+  "scac_code": "OIXF",
+  "hq_state": "OK",
+  "onboarded_date": "2019-06-10",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000030",
+  "carrier_name": "Cedar Hollow Haulage",
+  "scac_code": "KHGY",
+  "hq_state": "TX",
+  "onboarded_date": "2019-11-08",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000031",
+  "carrier_name": "Highplain Freight Lines",
+  "scac_code": "OVHF",
+  "hq_state": "FL",
+  "onboarded_date": "2023-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000032",
+  "carrier_name": "Driftwood Transport",
+  "scac_code": "HBOR",
+  "hq_state": "NC",
+  "onboarded_date": "2023-10-07",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000033",
+  "carrier_name": "Pinecone Motor Freight",
+  "scac_code": "JXOA",
+  "hq_state": "IL",
+  "onboarded_date": "2024-01-09",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000034",
+  "carrier_name": "Sunvale Motor Freight",
+  "scac_code": "OVGZ",
+  "hq_state": "PA",
+  "onboarded_date": "2022-09-17",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000035",
+  "carrier_name": "Lakeshore Freight Lines",
+  "scac_code": "WUIF",
+  "hq_state": "WA",
+  "onboarded_date": "2021-01-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000036",
+  "carrier_name": "Ironwood Haulage",
+  "scac_code": "KVWI",
+  "hq_state": "AZ",
+  "onboarded_date": "2022-07-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000037",
+  "carrier_name": "Thistle Haulage",
+  "scac_code": "MIRT",
+  "hq_state": "WI",
+  "onboarded_date": "2015-10-29",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000038",
+  "carrier_name": "Driftwood Haulage",
+  "scac_code": "ZYPR",
+  "hq_state": "MA",
+  "onboarded_date": "2015-07-19",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000039",
+  "carrier_name": "Cedar Hollow Transport",
+  "scac_code": "QXKK",
+  "hq_state": "IL",
+  "onboarded_date": "2018-04-09",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000040",
+  "carrier_name": "Cedar Hollow Logistics",
+  "scac_code": "ULCK",
+  "hq_state": "VA",
+  "onboarded_date": "2025-08-30",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000041",
+  "carrier_name": "Lakeshore Express",
+  "scac_code": "NWAJ",
+  "hq_state": "WI",
+  "onboarded_date": "2025-09-12",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000042",
+  "carrier_name": "Brightwater Express",
+  "scac_code": "MGTB",
+  "hq_state": "IN",
+  "onboarded_date": "2016-03-31",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000043",
+  "carrier_name": "Driftwood Express",
+  "scac_code": "TACG",
+  "hq_state": "TX",
+  "onboarded_date": "2023-04-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000044",
+  "carrier_name": "Riverbend Express",
+  "scac_code": "RALX",
+  "hq_state": "NC",
+  "onboarded_date": "2023-10-26",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000045",
+  "carrier_name": "Westgate Haulage",
+  "scac_code": "ASWV",
+  "hq_state": "MI",
+  "onboarded_date": "2017-02-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000046",
+  "carrier_name": "Amberfield Haulage",
+  "scac_code": "YPAI",
+  "hq_state": "OH",
+  "onboarded_date": "2020-10-23",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000047",
+  "carrier_name": "Redfern Logistics",
+  "scac_code": "FDMR",
+  "hq_state": "WI",
+  "onboarded_date": "2016-01-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000048",
+  "carrier_name": "Cedar Hollow Freight Lines",
+  "scac_code": "ASMD",
+  "hq_state": "MI",
+  "onboarded_date": "2016-11-20",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000049",
+  "carrier_name": "Stonebridge Haulage",
+  "scac_code": "ZXDY",
+  "hq_state": "WA",
+  "onboarded_date": "2021-09-05",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000050",
+  "carrier_name": "Silverline Haulage",
+  "scac_code": "THKV",
+  "hq_state": "NC",
+  "onboarded_date": "2015-06-03",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000051",
+  "carrier_name": "Highplain Motor Freight",
+  "scac_code": "XOMY",
+  "hq_state": "CO",
+  "onboarded_date": "2024-02-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000052",
+  "carrier_name": "Granite Peak Motor Freight",
+  "scac_code": "CXVV",
+  "hq_state": "OR",
+  "onboarded_date": "2025-06-03",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000053",
+  "carrier_name": "Cedar Hollow Cartage",
+  "scac_code": "QTVB",
+  "hq_state": "WA",
+  "onboarded_date": "2025-03-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000054",
+  "carrier_name": "Thistle Logistics",
+  "scac_code": "YDCW",
+  "hq_state": "WI",
+  "onboarded_date": "2015-06-22",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000055",
+  "carrier_name": "Pinecone Logistics",
+  "scac_code": "ZHHD",
+  "hq_state": "OK",
+  "onboarded_date": "2018-08-05",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000056",
+  "carrier_name": "Northwind Carriers",
+  "scac_code": "VPXJ",
+  "hq_state": "UT",
+  "onboarded_date": "2020-09-02",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000057",
+  "carrier_name": "Ironwood Motor Freight",
+  "scac_code": "KURB",
+  "hq_state": "IL",
+  "onboarded_date": "2025-07-10",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000058",
+  "carrier_name": "Granite Peak Haulage",
+  "scac_code": "YBUB",
+  "hq_state": "IN",
+  "onboarded_date": "2023-01-12",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000059",
+  "carrier_name": "Cedar Hollow Motor Freight",
+  "scac_code": "SYRZ",
+  "hq_state": "MA",
+  "onboarded_date": "2015-01-21",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000060",
+  "carrier_name": "Silverline Motor Freight",
+  "scac_code": "PVOD",
+  "hq_state": "KY",
+  "onboarded_date": "2016-12-24",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000061",
+  "carrier_name": "Silverline Express",
+  "scac_code": "HEMO",
+  "hq_state": "KY",
+  "onboarded_date": "2017-04-04",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000062",
+  "carrier_name": "Ironwood Express",
+  "scac_code": "FYMI",
+  "hq_state": "OH",
+  "onboarded_date": "2023-08-10",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000063",
+  "carrier_name": "Kestrel Carriers",
+  "scac_code": "WSXZ",
+  "hq_state": "MA",
+  "onboarded_date": "2025-11-14",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000064",
+  "carrier_name": "Stonebridge Transport",
+  "scac_code": "SOOY",
+  "hq_state": "OR",
+  "onboarded_date": "2016-04-12",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000065",
+  "carrier_name": "Riverbend Freight Lines",
+  "scac_code": "YEDK",
+  "hq_state": "OR",
+  "onboarded_date": "2024-08-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000066",
+  "carrier_name": "Silverline Freight Lines",
+  "scac_code": "SODX",
+  "hq_state": "IL",
+  "onboarded_date": "2015-09-21",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000067",
+  "carrier_name": "Brightwater Carriers",
+  "scac_code": "RXOA",
+  "hq_state": "TN",
+  "onboarded_date": "2021-02-17",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000068",
+  "carrier_name": "Thistle Express",
+  "scac_code": "KMOI",
+  "hq_state": "NE",
+  "onboarded_date": "2015-12-23",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000069",
+  "carrier_name": "Copperleaf Transport",
+  "scac_code": "IBFC",
+  "hq_state": "MI",
+  "onboarded_date": "2023-07-03",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000070",
+  "carrier_name": "Oakmont Cartage",
+  "scac_code": "UFGM",
+  "hq_state": "FL",
+  "onboarded_date": "2025-08-27",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000071",
+  "carrier_name": "Lakeshore Motor Freight",
+  "scac_code": "EZRW",
+  "hq_state": "WA",
+  "onboarded_date": "2020-03-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000072",
+  "carrier_name": "Meadowlark Express",
+  "scac_code": "YOQB",
+  "hq_state": "MA",
+  "onboarded_date": "2020-12-31",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000073",
+  "carrier_name": "Brightwater Freight Lines",
+  "scac_code": "DLFV",
+  "hq_state": "PA",
+  "onboarded_date": "2024-05-04",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000074",
+  "carrier_name": "Highplain Transport",
+  "scac_code": "BOJH",
+  "hq_state": "NJ",
+  "onboarded_date": "2016-06-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000075",
+  "carrier_name": "Lakeshore Cartage",
+  "scac_code": "CTXF",
+  "hq_state": "AZ",
+  "onboarded_date": "2024-06-19",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000076",
+  "carrier_name": "Riverbend Motor Freight",
+  "scac_code": "FCNZ",
+  "hq_state": "NV",
+  "onboarded_date": "2015-07-18",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000077",
+  "carrier_name": "Lakeshore Logistics",
+  "scac_code": "PWEG",
+  "hq_state": "TX",
+  "onboarded_date": "2021-06-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000078",
+  "carrier_name": "Sunvale Haulage",
+  "scac_code": "SKAJ",
+  "hq_state": "TX",
+  "onboarded_date": "2016-04-17",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000079",
+  "carrier_name": "Harborview Cartage",
+  "scac_code": "DMTT",
+  "hq_state": "IL",
+  "onboarded_date": "2020-11-20",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000080",
+  "carrier_name": "Sunvale Express",
+  "scac_code": "GIXG",
+  "hq_state": "KY",
+  "onboarded_date": "2019-01-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000081",
+  "carrier_name": "Amberfield Transport",
+  "scac_code": "LTWH",
+  "hq_state": "CA",
+  "onboarded_date": "2022-04-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000082",
+  "carrier_name": "Silverline Transport",
+  "scac_code": "QDGR",
+  "hq_state": "MN",
+  "onboarded_date": "2021-02-14",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000083",
+  "carrier_name": "Meadowlark Cartage",
+  "scac_code": "VRGB",
+  "hq_state": "MI",
+  "onboarded_date": "2024-06-20",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000084",
+  "carrier_name": "Granite Peak Express",
+  "scac_code": "RATO",
+  "hq_state": "OR",
+  "onboarded_date": "2023-12-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000085",
+  "carrier_name": "Cedar Hollow Express",
+  "scac_code": "NXSA",
+  "hq_state": "GA",
+  "onboarded_date": "2017-07-05",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000086",
+  "carrier_name": "Westgate Cartage",
+  "scac_code": "DYXA",
+  "hq_state": "PA",
+  "onboarded_date": "2021-09-30",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000087",
+  "carrier_name": "Oakmont Logistics",
+  "scac_code": "MDHD",
+  "hq_state": "PA",
+  "onboarded_date": "2015-06-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000088",
+  "carrier_name": "Riverbend Transport",
+  "scac_code": "UNPK",
+  "hq_state": "IL",
+  "onboarded_date": "2023-06-21",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000089",
+  "carrier_name": "Driftwood Motor Freight",
+  "scac_code": "ATWR",
+  "hq_state": "NV",
+  "onboarded_date": "2021-07-06",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000090",
+  "carrier_name": "Granite Peak Carriers",
+  "scac_code": "AEBC",
+  "hq_state": "TN",
+  "onboarded_date": "2016-01-06",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000091",
+  "carrier_name": "Falconridge Motor Freight",
+  "scac_code": "CJVH",
+  "hq_state": "AZ",
+  "onboarded_date": "2025-09-09",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000092",
+  "carrier_name": "Silverline Carriers",
+  "scac_code": "HAEH",
+  "hq_state": "WA",
+  "onboarded_date": "2023-05-14",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000093",
+  "carrier_name": "Highplain Carriers",
+  "scac_code": "JMEB",
+  "hq_state": "OH",
+  "onboarded_date": "2019-04-23",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000094",
+  "carrier_name": "Driftwood Carriers",
+  "scac_code": "CAWY",
+  "hq_state": "KY",
+  "onboarded_date": "2018-03-13",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000095",
+  "carrier_name": "Harborview Transport",
+  "scac_code": "YRCR",
+  "hq_state": "AZ",
+  "onboarded_date": "2017-04-05",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000096",
+  "carrier_name": "Kestrel Express",
+  "scac_code": "UMDE",
+  "hq_state": "IN",
+  "onboarded_date": "2025-07-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000097",
+  "carrier_name": "Highplain Cartage",
+  "scac_code": "MGMY",
+  "hq_state": "NV",
+  "onboarded_date": "2015-09-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000098",
+  "carrier_name": "Falconridge Express",
+  "scac_code": "APAL",
+  "hq_state": "KY",
+  "onboarded_date": "2025-08-08",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000099",
+  "carrier_name": "Brightwater Cartage",
+  "scac_code": "WIXM",
+  "hq_state": "WA",
+  "onboarded_date": "2024-10-26",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000100",
+  "carrier_name": "Granite Peak Transport",
+  "scac_code": "AGID",
+  "hq_state": "OH",
+  "onboarded_date": "2015-09-20",
+  "status": "ACTIVE"
+ }
+]

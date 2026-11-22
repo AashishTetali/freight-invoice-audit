@@ -1,0 +1,5 @@
+# The generator, audit engine and tests use ONLY the Python standard library (Python 3.10+).
+# These are needed for the dashboard (streamlit run dashboard/app.py):
+pandas>=2.0
+streamlit>=1.46
+altair>=5.0

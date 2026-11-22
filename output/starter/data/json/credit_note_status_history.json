@@ -1,0 +1,2072 @@
+[
+ {
+  "event_id": "CEV-0000001",
+  "credit_note_id": "CN-2026-000001",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-01-25",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000002"
+ },
+ {
+  "event_id": "CEV-0000002",
+  "credit_note_id": "CN-2026-000001",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-01-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000003",
+  "credit_note_id": "CN-2026-000002",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-01-29",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000005"
+ },
+ {
+  "event_id": "CEV-0000004",
+  "credit_note_id": "CN-2026-000002",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-01-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000005",
+  "credit_note_id": "CN-2026-000003",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-01",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000006"
+ },
+ {
+  "event_id": "CEV-0000006",
+  "credit_note_id": "CN-2026-000003",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000007",
+  "credit_note_id": "CN-2026-000004",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-01",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000008"
+ },
+ {
+  "event_id": "CEV-0000008",
+  "credit_note_id": "CN-2026-000004",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000009",
+  "credit_note_id": "CN-2026-000005",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-03",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000007"
+ },
+ {
+  "event_id": "CEV-0000010",
+  "credit_note_id": "CN-2026-000005",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000011",
+  "credit_note_id": "CN-2026-000006",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-06",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000004"
+ },
+ {
+  "event_id": "CEV-0000012",
+  "credit_note_id": "CN-2026-000006",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000013",
+  "credit_note_id": "CN-2026-000007",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-07",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000001"
+ },
+ {
+  "event_id": "CEV-0000014",
+  "credit_note_id": "CN-2026-000007",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000015",
+  "credit_note_id": "CN-2026-000008",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-08",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000003"
+ },
+ {
+  "event_id": "CEV-0000016",
+  "credit_note_id": "CN-2026-000008",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000017",
+  "credit_note_id": "CN-2026-000009",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000012"
+ },
+ {
+  "event_id": "CEV-0000018",
+  "credit_note_id": "CN-2026-000009",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000019",
+  "credit_note_id": "CN-2026-000010",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-12",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000009"
+ },
+ {
+  "event_id": "CEV-0000020",
+  "credit_note_id": "CN-2026-000010",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000021",
+  "credit_note_id": "CN-2026-000011",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-15",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000015"
+ },
+ {
+  "event_id": "CEV-0000022",
+  "credit_note_id": "CN-2026-000011",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000023",
+  "credit_note_id": "CN-2026-000012",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000011"
+ },
+ {
+  "event_id": "CEV-0000024",
+  "credit_note_id": "CN-2026-000012",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000025",
+  "credit_note_id": "CN-2026-000013",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000013"
+ },
+ {
+  "event_id": "CEV-0000026",
+  "credit_note_id": "CN-2026-000013",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000027",
+  "credit_note_id": "CN-2026-000014",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-21",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000018"
+ },
+ {
+  "event_id": "CEV-0000028",
+  "credit_note_id": "CN-2026-000014",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000029",
+  "credit_note_id": "CN-2026-000015",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-21",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000019"
+ },
+ {
+  "event_id": "CEV-0000030",
+  "credit_note_id": "CN-2026-000015",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000031",
+  "credit_note_id": "CN-2026-000016",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000010"
+ },
+ {
+  "event_id": "CEV-0000032",
+  "credit_note_id": "CN-2026-000016",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000033",
+  "credit_note_id": "CN-2026-000017",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000014"
+ },
+ {
+  "event_id": "CEV-0000034",
+  "credit_note_id": "CN-2026-000017",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000035",
+  "credit_note_id": "CN-2026-000018",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000016"
+ },
+ {
+  "event_id": "CEV-0000036",
+  "credit_note_id": "CN-2026-000018",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000037",
+  "credit_note_id": "CN-2026-000019",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-02-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000017"
+ },
+ {
+  "event_id": "CEV-0000038",
+  "credit_note_id": "CN-2026-000019",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-02-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000039",
+  "credit_note_id": "CN-2026-000020",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-06",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000020"
+ },
+ {
+  "event_id": "CEV-0000040",
+  "credit_note_id": "CN-2026-000020",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000041",
+  "credit_note_id": "CN-2026-000021",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-08",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000023"
+ },
+ {
+  "event_id": "CEV-0000042",
+  "credit_note_id": "CN-2026-000021",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000043",
+  "credit_note_id": "CN-2026-000022",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-13",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000021"
+ },
+ {
+  "event_id": "CEV-0000044",
+  "credit_note_id": "CN-2026-000022",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000045",
+  "credit_note_id": "CN-2026-000023",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-17",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000025"
+ },
+ {
+  "event_id": "CEV-0000046",
+  "credit_note_id": "CN-2026-000023",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000047",
+  "credit_note_id": "CN-2026-000024",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-18",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000022"
+ },
+ {
+  "event_id": "CEV-0000048",
+  "credit_note_id": "CN-2026-000024",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-19",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000049",
+  "credit_note_id": "CN-2026-000025",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000026"
+ },
+ {
+  "event_id": "CEV-0000050",
+  "credit_note_id": "CN-2026-000025",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000051",
+  "credit_note_id": "CN-2026-000026",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-03-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000024"
+ },
+ {
+  "event_id": "CEV-0000052",
+  "credit_note_id": "CN-2026-000026",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-03-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000053",
+  "credit_note_id": "CN-2026-000027",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000030"
+ },
+ {
+  "event_id": "CEV-0000054",
+  "credit_note_id": "CN-2026-000027",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000055",
+  "credit_note_id": "CN-2026-000028",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-07",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000029"
+ },
+ {
+  "event_id": "CEV-0000056",
+  "credit_note_id": "CN-2026-000028",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000057",
+  "credit_note_id": "CN-2026-000029",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-11",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000031"
+ },
+ {
+  "event_id": "CEV-0000058",
+  "credit_note_id": "CN-2026-000029",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000059",
+  "credit_note_id": "CN-2026-000030",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-16",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000035"
+ },
+ {
+  "event_id": "CEV-0000060",
+  "credit_note_id": "CN-2026-000030",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000061",
+  "credit_note_id": "CN-2026-000031",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-17",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000038"
+ },
+ {
+  "event_id": "CEV-0000062",
+  "credit_note_id": "CN-2026-000031",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000063",
+  "credit_note_id": "CN-2026-000032",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000041"
+ },
+ {
+  "event_id": "CEV-0000064",
+  "credit_note_id": "CN-2026-000032",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000065",
+  "credit_note_id": "CN-2026-000033",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-04-28",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000043"
+ },
+ {
+  "event_id": "CEV-0000066",
+  "credit_note_id": "CN-2026-000033",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-04-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000067",
+  "credit_note_id": "CN-2026-000034",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000040"
+ },
+ {
+  "event_id": "CEV-0000068",
+  "credit_note_id": "CN-2026-000034",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000069",
+  "credit_note_id": "CN-2026-000035",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-04",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000036"
+ },
+ {
+  "event_id": "CEV-0000070",
+  "credit_note_id": "CN-2026-000035",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000071",
+  "credit_note_id": "CN-2026-000036",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-04",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000039"
+ },
+ {
+  "event_id": "CEV-0000072",
+  "credit_note_id": "CN-2026-000036",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000073",
+  "credit_note_id": "CN-2026-000037",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-07",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000042"
+ },
+ {
+  "event_id": "CEV-0000074",
+  "credit_note_id": "CN-2026-000037",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-08",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000075",
+  "credit_note_id": "CN-2026-000038",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000044"
+ },
+ {
+  "event_id": "CEV-0000076",
+  "credit_note_id": "CN-2026-000038",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000077",
+  "credit_note_id": "CN-2026-000039",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000047"
+ },
+ {
+  "event_id": "CEV-0000078",
+  "credit_note_id": "CN-2026-000039",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000079",
+  "credit_note_id": "CN-2026-000040",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-11",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000051"
+ },
+ {
+  "event_id": "CEV-0000080",
+  "credit_note_id": "CN-2026-000040",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000081",
+  "credit_note_id": "CN-2026-000041",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-12",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000046"
+ },
+ {
+  "event_id": "CEV-0000082",
+  "credit_note_id": "CN-2026-000041",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000083",
+  "credit_note_id": "CN-2026-000042",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-14",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000050"
+ },
+ {
+  "event_id": "CEV-0000084",
+  "credit_note_id": "CN-2026-000042",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000085",
+  "credit_note_id": "CN-2026-000043",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-17",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000045"
+ },
+ {
+  "event_id": "CEV-0000086",
+  "credit_note_id": "CN-2026-000043",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000087",
+  "credit_note_id": "CN-2026-000044",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-20",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000055"
+ },
+ {
+  "event_id": "CEV-0000088",
+  "credit_note_id": "CN-2026-000044",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000089",
+  "credit_note_id": "CN-2026-000045",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-22",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000052"
+ },
+ {
+  "event_id": "CEV-0000090",
+  "credit_note_id": "CN-2026-000045",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000091",
+  "credit_note_id": "CN-2026-000046",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-25",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000048"
+ },
+ {
+  "event_id": "CEV-0000092",
+  "credit_note_id": "CN-2026-000046",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000093",
+  "credit_note_id": "CN-2026-000047",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-29",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000054"
+ },
+ {
+  "event_id": "CEV-0000094",
+  "credit_note_id": "CN-2026-000047",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000095",
+  "credit_note_id": "CN-2026-000048",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-05-30",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000053"
+ },
+ {
+  "event_id": "CEV-0000096",
+  "credit_note_id": "CN-2026-000048",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-05-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000097",
+  "credit_note_id": "CN-2026-000049",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000056"
+ },
+ {
+  "event_id": "CEV-0000098",
+  "credit_note_id": "CN-2026-000049",
+  "from_status": "ISSUED",
+  "to_status": "HELD",
+  "event_date": "2026-06-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Credit $32.58 exceeds remaining approved $28.83"
+ },
+ {
+  "event_id": "CEV-0000099",
+  "credit_note_id": "CN-2026-000050",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000059"
+ },
+ {
+  "event_id": "CEV-0000100",
+  "credit_note_id": "CN-2026-000050",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000101",
+  "credit_note_id": "CN-2026-000051",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-04",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000060"
+ },
+ {
+  "event_id": "CEV-0000102",
+  "credit_note_id": "CN-2026-000051",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000103",
+  "credit_note_id": "CN-2026-000052",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-09",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000057"
+ },
+ {
+  "event_id": "CEV-0000104",
+  "credit_note_id": "CN-2026-000052",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000105",
+  "credit_note_id": "CN-2026-000053",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-09",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000062"
+ },
+ {
+  "event_id": "CEV-0000106",
+  "credit_note_id": "CN-2026-000053",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000107",
+  "credit_note_id": "CN-2026-000054",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-13",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000058"
+ },
+ {
+  "event_id": "CEV-0000108",
+  "credit_note_id": "CN-2026-000054",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000109",
+  "credit_note_id": "CN-2026-000055",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-14",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000064"
+ },
+ {
+  "event_id": "CEV-0000110",
+  "credit_note_id": "CN-2026-000055",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000111",
+  "credit_note_id": "CN-2026-000056",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-14",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000065"
+ },
+ {
+  "event_id": "CEV-0000112",
+  "credit_note_id": "CN-2026-000056",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000113",
+  "credit_note_id": "CN-2026-000057",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-17",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000070"
+ },
+ {
+  "event_id": "CEV-0000114",
+  "credit_note_id": "CN-2026-000057",
+  "from_status": "ISSUED",
+  "to_status": "HELD",
+  "event_date": "2026-06-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Credit $25.00 exceeds remaining approved $20.49"
+ },
+ {
+  "event_id": "CEV-0000115",
+  "credit_note_id": "CN-2026-000058",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000069"
+ },
+ {
+  "event_id": "CEV-0000116",
+  "credit_note_id": "CN-2026-000058",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000117",
+  "credit_note_id": "CN-2026-000059",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-20",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000068"
+ },
+ {
+  "event_id": "CEV-0000118",
+  "credit_note_id": "CN-2026-000059",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000119",
+  "credit_note_id": "CN-2026-000060",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-21",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000063"
+ },
+ {
+  "event_id": "CEV-0000120",
+  "credit_note_id": "CN-2026-000060",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000121",
+  "credit_note_id": "CN-2026-000061",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-22",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000073"
+ },
+ {
+  "event_id": "CEV-0000122",
+  "credit_note_id": "CN-2026-000061",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-23",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000123",
+  "credit_note_id": "CN-2026-000062",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000067"
+ },
+ {
+  "event_id": "CEV-0000124",
+  "credit_note_id": "CN-2026-000062",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000125",
+  "credit_note_id": "CN-2026-000063",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000072"
+ },
+ {
+  "event_id": "CEV-0000126",
+  "credit_note_id": "CN-2026-000063",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000127",
+  "credit_note_id": "CN-2026-000064",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-06-28",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000079"
+ },
+ {
+  "event_id": "CEV-0000128",
+  "credit_note_id": "CN-2026-000064",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-06-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000129",
+  "credit_note_id": "CN-2026-000065",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000077"
+ },
+ {
+  "event_id": "CEV-0000130",
+  "credit_note_id": "CN-2026-000065",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000131",
+  "credit_note_id": "CN-2026-000066",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-06",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000075"
+ },
+ {
+  "event_id": "CEV-0000132",
+  "credit_note_id": "CN-2026-000066",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000133",
+  "credit_note_id": "CN-2026-000067",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-09",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000071"
+ },
+ {
+  "event_id": "CEV-0000134",
+  "credit_note_id": "CN-2026-000067",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-10",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000135",
+  "credit_note_id": "CN-2026-000068",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000074"
+ },
+ {
+  "event_id": "CEV-0000136",
+  "credit_note_id": "CN-2026-000068",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000137",
+  "credit_note_id": "CN-2026-000069",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-11",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000078"
+ },
+ {
+  "event_id": "CEV-0000138",
+  "credit_note_id": "CN-2026-000069",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-12",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000139",
+  "credit_note_id": "CN-2026-000070",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-12",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000076"
+ },
+ {
+  "event_id": "CEV-0000140",
+  "credit_note_id": "CN-2026-000070",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000141",
+  "credit_note_id": "CN-2026-000071",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-12",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000082"
+ },
+ {
+  "event_id": "CEV-0000142",
+  "credit_note_id": "CN-2026-000071",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-13",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000143",
+  "credit_note_id": "CN-2026-000072",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-14",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000081"
+ },
+ {
+  "event_id": "CEV-0000144",
+  "credit_note_id": "CN-2026-000072",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-15",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000145",
+  "credit_note_id": "CN-2026-000073",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000086"
+ },
+ {
+  "event_id": "CEV-0000146",
+  "credit_note_id": "CN-2026-000073",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000147",
+  "credit_note_id": "CN-2026-000074",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-21",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000083"
+ },
+ {
+  "event_id": "CEV-0000148",
+  "credit_note_id": "CN-2026-000074",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-22",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000149",
+  "credit_note_id": "CN-2026-000075",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000087"
+ },
+ {
+  "event_id": "CEV-0000150",
+  "credit_note_id": "CN-2026-000075",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000151",
+  "credit_note_id": "CN-2026-000076",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-25",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000089"
+ },
+ {
+  "event_id": "CEV-0000152",
+  "credit_note_id": "CN-2026-000076",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000153",
+  "credit_note_id": "CN-2026-000077",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-28",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000088"
+ },
+ {
+  "event_id": "CEV-0000154",
+  "credit_note_id": "CN-2026-000077",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000155",
+  "credit_note_id": "CN-2026-000078",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-07-30",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000092"
+ },
+ {
+  "event_id": "CEV-0000156",
+  "credit_note_id": "CN-2026-000078",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-07-31",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000157",
+  "credit_note_id": "CN-2026-000079",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-05",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000098"
+ },
+ {
+  "event_id": "CEV-0000158",
+  "credit_note_id": "CN-2026-000079",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-06",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000159",
+  "credit_note_id": "CN-2026-000080",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-06",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000093"
+ },
+ {
+  "event_id": "CEV-0000160",
+  "credit_note_id": "CN-2026-000080",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000161",
+  "credit_note_id": "CN-2026-000081",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000090"
+ },
+ {
+  "event_id": "CEV-0000162",
+  "credit_note_id": "CN-2026-000081",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000163",
+  "credit_note_id": "CN-2026-000082",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000094"
+ },
+ {
+  "event_id": "CEV-0000164",
+  "credit_note_id": "CN-2026-000082",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000165",
+  "credit_note_id": "CN-2026-000083",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-13",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000100"
+ },
+ {
+  "event_id": "CEV-0000166",
+  "credit_note_id": "CN-2026-000083",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000167",
+  "credit_note_id": "CN-2026-000084",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-16",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000095"
+ },
+ {
+  "event_id": "CEV-0000168",
+  "credit_note_id": "CN-2026-000084",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000169",
+  "credit_note_id": "CN-2026-000085",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000099"
+ },
+ {
+  "event_id": "CEV-0000170",
+  "credit_note_id": "CN-2026-000085",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000171",
+  "credit_note_id": "CN-2026-000086",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000102"
+ },
+ {
+  "event_id": "CEV-0000172",
+  "credit_note_id": "CN-2026-000086",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000173",
+  "credit_note_id": "CN-2026-000087",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000103"
+ },
+ {
+  "event_id": "CEV-0000174",
+  "credit_note_id": "CN-2026-000087",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000175",
+  "credit_note_id": "CN-2026-000088",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-08-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000106"
+ },
+ {
+  "event_id": "CEV-0000176",
+  "credit_note_id": "CN-2026-000088",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-08-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000177",
+  "credit_note_id": "CN-2026-000089",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-02",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000109"
+ },
+ {
+  "event_id": "CEV-0000178",
+  "credit_note_id": "CN-2026-000089",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-03",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000179",
+  "credit_note_id": "CN-2026-000090",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-08",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000105"
+ },
+ {
+  "event_id": "CEV-0000180",
+  "credit_note_id": "CN-2026-000090",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000181",
+  "credit_note_id": "CN-2026-000091",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000108"
+ },
+ {
+  "event_id": "CEV-0000182",
+  "credit_note_id": "CN-2026-000091",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000183",
+  "credit_note_id": "CN-2026-000092",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-15",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000110"
+ },
+ {
+  "event_id": "CEV-0000184",
+  "credit_note_id": "CN-2026-000092",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-16",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000185",
+  "credit_note_id": "CN-2026-000093",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000113"
+ },
+ {
+  "event_id": "CEV-0000186",
+  "credit_note_id": "CN-2026-000093",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000187",
+  "credit_note_id": "CN-2026-000094",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000112"
+ },
+ {
+  "event_id": "CEV-0000188",
+  "credit_note_id": "CN-2026-000094",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000189",
+  "credit_note_id": "CN-2026-000095",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-28",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000119"
+ },
+ {
+  "event_id": "CEV-0000190",
+  "credit_note_id": "CN-2026-000095",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000191",
+  "credit_note_id": "CN-2026-000096",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-09-28",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000121"
+ },
+ {
+  "event_id": "CEV-0000192",
+  "credit_note_id": "CN-2026-000096",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-09-29",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000193",
+  "credit_note_id": "CN-2026-000097",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-01",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000116"
+ },
+ {
+  "event_id": "CEV-0000194",
+  "credit_note_id": "CN-2026-000097",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000195",
+  "credit_note_id": "CN-2026-000098",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-01",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000123"
+ },
+ {
+  "event_id": "CEV-0000196",
+  "credit_note_id": "CN-2026-000098",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-02",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000197",
+  "credit_note_id": "CN-2026-000099",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-04",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000122"
+ },
+ {
+  "event_id": "CEV-0000198",
+  "credit_note_id": "CN-2026-000099",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000199",
+  "credit_note_id": "CN-2026-000100",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-04",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000125"
+ },
+ {
+  "event_id": "CEV-0000200",
+  "credit_note_id": "CN-2026-000100",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-05",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000201",
+  "credit_note_id": "CN-2026-000101",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-06",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000115"
+ },
+ {
+  "event_id": "CEV-0000202",
+  "credit_note_id": "CN-2026-000101",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-07",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000203",
+  "credit_note_id": "CN-2026-000102",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-08",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000129"
+ },
+ {
+  "event_id": "CEV-0000204",
+  "credit_note_id": "CN-2026-000102",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-09",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000205",
+  "credit_note_id": "CN-2026-000103",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-10",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000120"
+ },
+ {
+  "event_id": "CEV-0000206",
+  "credit_note_id": "CN-2026-000103",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-11",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000207",
+  "credit_note_id": "CN-2026-000104",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-13",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000131"
+ },
+ {
+  "event_id": "CEV-0000208",
+  "credit_note_id": "CN-2026-000104",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-14",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000209",
+  "credit_note_id": "CN-2026-000105",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-16",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000130"
+ },
+ {
+  "event_id": "CEV-0000210",
+  "credit_note_id": "CN-2026-000105",
+  "from_status": "ISSUED",
+  "to_status": "HELD",
+  "event_date": "2026-10-17",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Credit $127.50 exceeds remaining approved $96.59"
+ },
+ {
+  "event_id": "CEV-0000211",
+  "credit_note_id": "CN-2026-000106",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-17",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000128"
+ },
+ {
+  "event_id": "CEV-0000212",
+  "credit_note_id": "CN-2026-000106",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-18",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000213",
+  "credit_note_id": "CN-2026-000107",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000133"
+ },
+ {
+  "event_id": "CEV-0000214",
+  "credit_note_id": "CN-2026-000107",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000215",
+  "credit_note_id": "CN-2026-000108",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-19",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000134"
+ },
+ {
+  "event_id": "CEV-0000216",
+  "credit_note_id": "CN-2026-000108",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-20",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000217",
+  "credit_note_id": "CN-2026-000109",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-20",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000135"
+ },
+ {
+  "event_id": "CEV-0000218",
+  "credit_note_id": "CN-2026-000109",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-21",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000219",
+  "credit_note_id": "CN-2026-000110",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-23",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000132"
+ },
+ {
+  "event_id": "CEV-0000220",
+  "credit_note_id": "CN-2026-000110",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-24",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000221",
+  "credit_note_id": "CN-2026-000111",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-24",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000142"
+ },
+ {
+  "event_id": "CEV-0000222",
+  "credit_note_id": "CN-2026-000111",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-25",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000223",
+  "credit_note_id": "CN-2026-000112",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-25",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000136"
+ },
+ {
+  "event_id": "CEV-0000224",
+  "credit_note_id": "CN-2026-000112",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-26",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000225",
+  "credit_note_id": "CN-2026-000113",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-10-29",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000137"
+ },
+ {
+  "event_id": "CEV-0000226",
+  "credit_note_id": "CN-2026-000113",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-10-30",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000227",
+  "credit_note_id": "CN-2026-000114",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-11-03",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000138"
+ },
+ {
+  "event_id": "CEV-0000228",
+  "credit_note_id": "CN-2026-000114",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-11-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ },
+ {
+  "event_id": "CEV-0000229",
+  "credit_note_id": "CN-2026-000115",
+  "from_status": null,
+  "to_status": "ISSUED",
+  "event_date": "2026-11-03",
+  "actor_role": "CARRIER",
+  "note": "Credit for FEX-2026-000139"
+ },
+ {
+  "event_id": "CEV-0000230",
+  "credit_note_id": "CN-2026-000115",
+  "from_status": "ISSUED",
+  "to_status": "APPLIED",
+  "event_date": "2026-11-04",
+  "actor_role": "AUDIT_ENGINE",
+  "note": "Within approved amount"
+ }
+]

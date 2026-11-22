@@ -1,0 +1,331 @@
+{
+  "project": "Freight invoice audit - synthetic dataset and audit results",
+  "generator_command": "python -m freight_audit run --scale starter --seed 20261022",
+  "seed": 20261022,
+  "scale": "starter",
+  "config": {
+    "seed": 20261022,
+    "scale": "starter",
+    "carriers": 10,
+    "shipments": 1000,
+    "invoices": 750,
+    "lanes": 40,
+    "year": 2026,
+    "ship_start": "2026-01-01",
+    "ship_end": "2026-09-30",
+    "as_of": "2026-12-31",
+    "h2_start": "2026-07-01",
+    "duplicate_invoice_rate": 0.015,
+    "unknown_shipment_rate": 0.005,
+    "anomaly_rates": {
+      "WEIGHT_TIER_MISAPPLIED": 0.025,
+      "DIM_WEIGHT_DISCREPANCY": 0.025,
+      "RATE_CARD_EXPIRED": 0.03,
+      "FUEL_SURCHARGE_MISCALCULATED": 0.015,
+      "SURCHARGE_DUPLICATED": 0.02,
+      "INVALID_ACCESSORIAL": 0.03
+    },
+    "min_cases_per_type": 3,
+    "credit_full_rate": 0.88,
+    "credit_partial_rate": 0.05,
+    "credit_decline_rate": 0.04,
+    "tolerance": "0.01",
+    "waive_below": "5.00",
+    "payment_terms_days": 30
+  },
+  "python_version": "3.12.0",
+  "external_data_sources": [],
+  "provenance": "100% synthetic. No external datasets were downloaded or used and no personal or confidential data is included. Carrier names are invented. City coordinates are approximate public geographic facts typed in by hand, used only to estimate distances.",
+  "ground_truth": "ground_truth/ (answer key - never read by the audit engine)",
+  "reproducibility_note": "Every file except this manifest is byte-identical across runs with the same seed.",
+  "files": [
+    {
+      "path": "data/csv/accessorial.csv",
+      "bytes": 478,
+      "rows": 7,
+      "sha256": "342dbceca96ff00e6a77e2b8a7b086e78661e529295dd01ce4de598b7a442f21"
+    },
+    {
+      "path": "data/csv/audit_exception.csv",
+      "bytes": 38512,
+      "rows": 148,
+      "sha256": "12d34b896da482e9f87ec523681402014c73c6017d7b4d584cb66cac7e81e5d9"
+    },
+    {
+      "path": "data/csv/carrier.csv",
+      "bytes": 641,
+      "rows": 10,
+      "sha256": "79b7d5dacfe746b527bd2a152d0c997deeaed7da8e9e585e77708ed487f6cfad"
+    },
+    {
+      "path": "data/csv/credit_note.csv",
+      "bytes": 9744,
+      "rows": 115,
+      "sha256": "96bac228dc940068ddd12ecc1029d4d1305b32dbdda79cccaafc297bc7dd2a10"
+    },
+    {
+      "path": "data/csv/credit_note_status_history.csv",
+      "bytes": 19690,
+      "rows": 230,
+      "sha256": "5cfe246486cfd4c4cbc85f44f909f14774436591e432a291ca41faf0744ea51e"
+    },
+    {
+      "path": "data/csv/delivery_accessorial.csv",
+      "bytes": 22026,
+      "rows": 685,
+      "sha256": "495cd46efd6368f9b2349b113907d7a86aa7f5542fcb04da02bcb868749d03a3"
+    },
+    {
+      "path": "data/csv/delivery_record.csv",
+      "bytes": 74673,
+      "rows": 1000,
+      "sha256": "56a8055b5509039673211306ae4c5393e2b0f9a39cb4e791d0ad6fd1fc3be2c2"
+    },
+    {
+      "path": "data/csv/exception_status_history.csv",
+      "bytes": 38592,
+      "rows": 415,
+      "sha256": "44da3db3ebe60a6000636d6f5f2c4c91c3bf5ec6e903fb4aba1660ba1b754227"
+    },
+    {
+      "path": "data/csv/freight_invoice.csv",
+      "bytes": 75104,
+      "rows": 750,
+      "sha256": "0b943a5fe2aab8f101cd9ce9ead5406f7ca607a191a101201bb0894d20e06594"
+    },
+    {
+      "path": "data/csv/invoice_audit.csv",
+      "bytes": 75157,
+      "rows": 750,
+      "sha256": "662847880e03a4e5efa15628c7fccb799692484b2c101c45393e1e86e7aa8637"
+    },
+    {
+      "path": "data/csv/invoice_line.csv",
+      "bytes": 168929,
+      "rows": 2048,
+      "sha256": "fbc3f50b6aa84ca0db1b0360606502dd2139ec35d54a5c278ece16d8554d16fb"
+    },
+    {
+      "path": "data/csv/invoice_status_history.csv",
+      "bytes": 297198,
+      "rows": 3055,
+      "sha256": "7de20001cb80bc82c6bbd88d0147d28cb47cbbff0ba15fa49a8df677b97b7cb4"
+    },
+    {
+      "path": "data/csv/lane.csv",
+      "bytes": 1749,
+      "rows": 40,
+      "sha256": "9be2df9dce2e4fa46bf296021c5a4b4d57a3fb10a727a54f973791b5f0b93928"
+    },
+    {
+      "path": "data/csv/rate_card.csv",
+      "bytes": 2227,
+      "rows": 20,
+      "sha256": "6df5f602f23f13bcaa06f085b447d09b34d96b07a79bf1360ef2018d118f311d"
+    },
+    {
+      "path": "data/csv/rate_card_accessorial.csv",
+      "bytes": 5198,
+      "rows": 124,
+      "sha256": "ded4a0d4bc8dc476b0cc7b52846ebaa5077068b93ad91edbe9e3a8ae6242489c"
+    },
+    {
+      "path": "data/csv/rate_card_line.csv",
+      "bytes": 217654,
+      "rows": 3060,
+      "sha256": "3846b8c8eb1c22a581abbea23c4ab51097bba76e142dca0dccb6e8f8f854262d"
+    },
+    {
+      "path": "data/csv/shipment.csv",
+      "bytes": 82079,
+      "rows": 1000,
+      "sha256": "b924f3a88dac2495feb736a852235f3165411ef3b5d55b00f69ce75c3fd8de50"
+    },
+    {
+      "path": "data/csv/shipment_leg.csv",
+      "bytes": 124767,
+      "rows": 1408,
+      "sha256": "1887a24f88dd7b4fd3f9ebce9742cc09c4d5668fc3bd71e5b97e00193d1437bc"
+    },
+    {
+      "path": "data/csv/shipment_status_history.csv",
+      "bytes": 266065,
+      "rows": 4000,
+      "sha256": "92ecdf0767627b3beaa5b15dd80381078647dcb6c808489b4d333b45ba47319a"
+    },
+    {
+      "path": "data/csv/weight_measurement.csv",
+      "bytes": 105183,
+      "rows": 1291,
+      "sha256": "bfc20ee21fda1fc03138c3b990d8e8aeeb82079b975bc5828b162d58977e935e"
+    },
+    {
+      "path": "data/json/accessorial.json",
+      "bytes": 1078,
+      "rows": 7,
+      "sha256": "4527b9c899bcfc7535fa05a69deff1941e0a14bb137cd22d554686ec89e945f5"
+    },
+    {
+      "path": "data/json/audit_exception.json",
+      "bytes": 86098,
+      "rows": 148,
+      "sha256": "d5492157d9e6290da72d1639afd7b0fdafd35bba011e070f8cb99a20b0055bd7"
+    },
+    {
+      "path": "data/json/carrier.json",
+      "bytes": 1769,
+      "rows": 10,
+      "sha256": "646808f67d760e7cc27143acbfcbff174cb59f442c11c33c1d74d90f4923e2b7"
+    },
+    {
+      "path": "data/json/credit_note.json",
+      "bytes": 26981,
+      "rows": 115,
+      "sha256": "db6da72e3673cef3aa2b673dc3b1a8882be33921a008bd26edd9b09d530d703b"
+    },
+    {
+      "path": "data/json/credit_note_status_history.json",
+      "bytes": 50900,
+      "rows": 230,
+      "sha256": "a9a21b724ad5697b397aa4d19346d69ece8d04d4d44cff8958b1cb3f14fe2c01"
+    },
+    {
+      "path": "data/json/delivery_accessorial.json",
+      "bytes": 66516,
+      "rows": 685,
+      "sha256": "cbd6ee68dd2cfc852d3bca2a9321c8ed87761c3c428085cef0e48d0befe1e667"
+    },
+    {
+      "path": "data/json/delivery_record.json",
+      "bytes": 209592,
+      "rows": 1000,
+      "sha256": "f727ca4e92e2829b54607643b8a266124a96e92d7f3a4a0d1176aae521fe37d4"
+    },
+    {
+      "path": "data/json/exception_status_history.json",
+      "bytes": 94015,
+      "rows": 415,
+      "sha256": "a0d7611341e8a0f3d5db0529c997866719a51680a7c29d318bca0e0b4573f8e9"
+    },
+    {
+      "path": "data/json/freight_invoice.json",
+      "bytes": 216678,
+      "rows": 750,
+      "sha256": "58aaac8f2ab74a67530f9457d9a134de2080a26c4e3b715f6743198b3e10a503"
+    },
+    {
+      "path": "data/json/invoice_audit.json",
+      "bytes": 248285,
+      "rows": 750,
+      "sha256": "2b167eea90f712124ff23f3cf51fe5fd74f17971147358762e1a51cf6960f54c"
+    },
+    {
+      "path": "data/json/invoice_line.json",
+      "bytes": 543967,
+      "rows": 2048,
+      "sha256": "a7853eb3f159cc50c594cfd2f1dff45e6a672277a2bb79e0063cac0a6deca125"
+    },
+    {
+      "path": "data/json/invoice_status_history.json",
+      "bytes": 698837,
+      "rows": 3055,
+      "sha256": "ab822a877340aad06bb089b162105f4eb57f24ca35a5a3e139a9d00faf961941"
+    },
+    {
+      "path": "data/json/lane.json",
+      "bytes": 6523,
+      "rows": 40,
+      "sha256": "eedd8ee2d1b4cd9b29015c509d7d89daca0bf92163e604f3e0bc892f0d55f42f"
+    },
+    {
+      "path": "data/json/rate_card.json",
+      "bytes": 6631,
+      "rows": 20,
+      "sha256": "0ffa410c379ac9435457915dea12b38951551d20bb412d4456c27c0563a85d5e"
+    },
+    {
+      "path": "data/json/rate_card_accessorial.json",
+      "bytes": 14453,
+      "rows": 124,
+      "sha256": "e1ce222db19373dd7899e8d40d8b33790b5fc5ca9d6b1f137491e34c952c39c0"
+    },
+    {
+      "path": "data/json/rate_card_line.json",
+      "bytes": 648034,
+      "rows": 3060,
+      "sha256": "0f58fbdf021e696b0def1e5963b5ab0478e058de6ef551af33f866904212d27d"
+    },
+    {
+      "path": "data/json/shipment.json",
+      "bytes": 248983,
+      "rows": 1000,
+      "sha256": "b590158ea4ef09092c6ef7b30aa5df09ad777f1b78fa2808056a9dd3555e70d6"
+    },
+    {
+      "path": "data/json/shipment_leg.json",
+      "bytes": 390775,
+      "rows": 1408,
+      "sha256": "9e7ab726198fc2cd215c3473defa4aefb736ab19d97641a88cac424dccc71ddd"
+    },
+    {
+      "path": "data/json/shipment_status_history.json",
+      "bytes": 744003,
+      "rows": 4000,
+      "sha256": "1aeab1c39764eddde49a0cdef576000e4e732f345bc6b1be6c89bf1263d75b67"
+    },
+    {
+      "path": "data/json/weight_measurement.json",
+      "bytes": 371002,
+      "rows": 1291,
+      "sha256": "3254b60fe03a53a108ba20dac0ef015fe0caf113b5e6d0cee955996877d9d0b4"
+    },
+    {
+      "path": "data/sql/schema.sql",
+      "bytes": 15638,
+      "rows": null,
+      "sha256": "a51bdc5a8a697dbbcbfe8e4344df670092259f0585ae5a6f72df8ed55833a299"
+    },
+    {
+      "path": "data/sql/seed.sql",
+      "bytes": 2065298,
+      "rows": null,
+      "sha256": "b7d3591385275fa2a5535c4740eaacc1e08a6090d5fc7c4350914278ad4ac753"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "bytes": 25902,
+      "rows": null,
+      "sha256": "66dbbaca35acb311889774a423b65955f7889d0076c085a5ae3ebc92c7510ce8"
+    },
+    {
+      "path": "ground_truth/ground_truth.csv",
+      "bytes": 15405,
+      "rows": 107,
+      "sha256": "9923d782afa496dad0accf01668f99ae79cf88487dfa5ffc0ca0077fc134f5d0"
+    },
+    {
+      "path": "ground_truth/ground_truth.json",
+      "bytes": 33853,
+      "rows": 107,
+      "sha256": "2c06dcf2734b66aa457f6cc899f892cdc0ba5f29881893243299e957d45f8fa9"
+    },
+    {
+      "path": "reports/audit_metrics.json",
+      "bytes": 7473,
+      "rows": null,
+      "sha256": "ec6625ef55064a29fb066d24132448ec020b18487c1d0a888e997095c28c73e5"
+    },
+    {
+      "path": "reports/summary.md",
+      "bytes": 4474,
+      "rows": null,
+      "sha256": "0387e81d34e1f8c6c7ab3016bb5a8fbcf7b6ad32cb991538d3be6b60e131f2b3"
+    },
+    {
+      "path": "reports/validation_summary.json",
+      "bytes": 32798,
+      "rows": null,
+      "sha256": "d7b2557f841e8211398882d5844b5acf144612b50b5463fd1f117bda4ed987ec"
+    }
+  ]
+}

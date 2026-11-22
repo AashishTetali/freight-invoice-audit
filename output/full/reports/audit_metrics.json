@@ -1,0 +1,1107 @@
+{
+  "detection": {
+    "overall": {
+      "planted": 2282,
+      "detected": 2282,
+      "true_positive": 2282,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "clean_invoices": 12786,
+    "clean_invoices_falsely_flagged": 0,
+    "false_alarm_rate_on_clean": 0.0,
+    "decision_accuracy": 1.0,
+    "decision_mismatches": [],
+    "variance_accuracy": 1.0,
+    "variance_mismatches": [],
+    "per_issue_type": {
+      "UNKNOWN_SHIPMENT": {
+        "planted": 75,
+        "detected": 75,
+        "true_positive": 75,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "DUPLICATE_INVOICE": {
+        "planted": 225,
+        "detected": 225,
+        "true_positive": 225,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "RATE_CARD_EXPIRED": {
+        "planted": 165,
+        "detected": 165,
+        "true_positive": 165,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "WEIGHT_TIER_MISAPPLIED": {
+        "planted": 360,
+        "detected": 360,
+        "true_positive": 360,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "DIM_WEIGHT_DISCREPANCY": {
+        "planted": 368,
+        "detected": 368,
+        "true_positive": 368,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "FUEL_SURCHARGE_MISCALCULATED": {
+        "planted": 240,
+        "detected": 240,
+        "true_positive": 240,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "SURCHARGE_DUPLICATED": {
+        "planted": 301,
+        "detected": 301,
+        "true_positive": 301,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "INVALID_ACCESSORIAL": {
+        "planted": 480,
+        "detected": 480,
+        "true_positive": 480,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "CREDIT_EXCEEDS_EXCEPTION": {
+        "planted": 68,
+        "detected": 68,
+        "true_positive": 68,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      }
+    }
+  },
+  "business": {
+    "invoices_audited": 15000,
+    "invoices_clean": 12786,
+    "invoices_with_exceptions": 1914,
+    "invoices_rejected": 300,
+    "clean_rate": 0.8524,
+    "total_billed": 6740996.96,
+    "rejected_invoice_value": 122749.48,
+    "line_overbilling_found": 145040.66,
+    "disputed_amount": 144263.43,
+    "credits_applied": 131255.0,
+    "credits_held_over_limit": 5154.83,
+    "waived_amount": 777.23,
+    "savings_total": 254004.48,
+    "savings_pct_of_billed": 0.0377,
+    "dispute_recovery_rate": 0.9098,
+    "invoice_status": {
+      "ESCALATED": 287,
+      "PAID": 14413,
+      "REJECTED": 300
+    },
+    "exception_status": {
+      "CARRIER_DECLINED": 118,
+      "CREDITED": 2256,
+      "CREDIT_ON_HOLD": 68,
+      "DISPUTED": 68,
+      "INVOICE_REJECTED": 300,
+      "PARTIALLY_CREDITED": 109,
+      "WAIVED": 256
+    },
+    "exceptions_by_type": {
+      "CREDIT_EXCEEDS_EXCEPTION": {
+        "count": 68,
+        "variance": 1186.86
+      },
+      "DIM_WEIGHT_DISCREPANCY": {
+        "count": 368,
+        "variance": 40423.84
+      },
+      "DUPLICATE_INVOICE": {
+        "count": 225,
+        "variance": 96237.63
+      },
+      "FUEL_ON_INCORRECT_BASE": {
+        "count": 893,
+        "variance": 16864.27
+      },
+      "FUEL_SURCHARGE_MISCALCULATED": {
+        "count": 240,
+        "variance": 2849.26
+      },
+      "INVALID_ACCESSORIAL": {
+        "count": 480,
+        "variance": 34031.0
+      },
+      "RATE_CARD_EXPIRED": {
+        "count": 165,
+        "variance": 2228.55
+      },
+      "SURCHARGE_DUPLICATED": {
+        "count": 301,
+        "variance": 22998.84
+      },
+      "UNKNOWN_SHIPMENT": {
+        "count": 75,
+        "variance": 26511.85
+      },
+      "WEIGHT_TIER_MISAPPLIED": {
+        "count": 360,
+        "variance": 25644.9
+      }
+    },
+    "shipments": 20000,
+    "shipments_not_yet_invoiced": 5300
+  },
+  "carriers_by_exception_rate": [
+    {
+      "carrier_id": "CAR-000061",
+      "carrier_name": "Silverline Express",
+      "invoices": 321,
+      "invoices_with_exceptions": 116,
+      "exception_rate": 0.3614,
+      "billed": 171292.15,
+      "overbilled": 13073.92
+    },
+    {
+      "carrier_id": "CAR-000043",
+      "carrier_name": "Driftwood Express",
+      "invoices": 46,
+      "invoices_with_exceptions": 14,
+      "exception_rate": 0.3043,
+      "billed": 18768.27,
+      "overbilled": 1146.36
+    },
+    {
+      "carrier_id": "CAR-000082",
+      "carrier_name": "Silverline Transport",
+      "invoices": 492,
+      "invoices_with_exceptions": 146,
+      "exception_rate": 0.2967,
+      "billed": 235475.75,
+      "overbilled": 16453.72
+    },
+    {
+      "carrier_id": "CAR-000087",
+      "carrier_name": "Oakmont Logistics",
+      "invoices": 82,
+      "invoices_with_exceptions": 23,
+      "exception_rate": 0.2805,
+      "billed": 43232.68,
+      "overbilled": 2393.24
+    },
+    {
+      "carrier_id": "CAR-000049",
+      "carrier_name": "Stonebridge Haulage",
+      "invoices": 58,
+      "invoices_with_exceptions": 15,
+      "exception_rate": 0.2586,
+      "billed": 27238.86,
+      "overbilled": 1527.81
+    },
+    {
+      "carrier_id": "CAR-000097",
+      "carrier_name": "Highplain Cartage",
+      "invoices": 81,
+      "invoices_with_exceptions": 20,
+      "exception_rate": 0.2469,
+      "billed": 29214.42,
+      "overbilled": 1287.99
+    },
+    {
+      "carrier_id": "CAR-000088",
+      "carrier_name": "Riverbend Transport",
+      "invoices": 1863,
+      "invoices_with_exceptions": 457,
+      "exception_rate": 0.2453,
+      "billed": 948773.08,
+      "overbilled": 46813.74
+    },
+    {
+      "carrier_id": "CAR-000025",
+      "carrier_name": "Sunvale Transport",
+      "invoices": 37,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.2432,
+      "billed": 19773.45,
+      "overbilled": 1150.46
+    },
+    {
+      "carrier_id": "CAR-000054",
+      "carrier_name": "Thistle Logistics",
+      "invoices": 110,
+      "invoices_with_exceptions": 26,
+      "exception_rate": 0.2364,
+      "billed": 69061.2,
+      "overbilled": 2606.41
+    },
+    {
+      "carrier_id": "CAR-000079",
+      "carrier_name": "Harborview Cartage",
+      "invoices": 182,
+      "invoices_with_exceptions": 43,
+      "exception_rate": 0.2363,
+      "billed": 95928.52,
+      "overbilled": 4881.43
+    },
+    {
+      "carrier_id": "CAR-000096",
+      "carrier_name": "Kestrel Express",
+      "invoices": 83,
+      "invoices_with_exceptions": 19,
+      "exception_rate": 0.2289,
+      "billed": 30316.63,
+      "overbilled": 2189.28
+    },
+    {
+      "carrier_id": "CAR-000072",
+      "carrier_name": "Meadowlark Express",
+      "invoices": 66,
+      "invoices_with_exceptions": 15,
+      "exception_rate": 0.2273,
+      "billed": 26818.58,
+      "overbilled": 1755.38
+    },
+    {
+      "carrier_id": "CAR-000017",
+      "carrier_name": "Stonebridge Freight Lines",
+      "invoices": 71,
+      "invoices_with_exceptions": 16,
+      "exception_rate": 0.2254,
+      "billed": 24878.07,
+      "overbilled": 899.73
+    },
+    {
+      "carrier_id": "CAR-000011",
+      "carrier_name": "Brightwater Haulage",
+      "invoices": 125,
+      "invoices_with_exceptions": 28,
+      "exception_rate": 0.224,
+      "billed": 45941.62,
+      "overbilled": 3246.43
+    },
+    {
+      "carrier_id": "CAR-000033",
+      "carrier_name": "Pinecone Motor Freight",
+      "invoices": 54,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.2222,
+      "billed": 27675.36,
+      "overbilled": 1547.0
+    },
+    {
+      "carrier_id": "CAR-000098",
+      "carrier_name": "Falconridge Express",
+      "invoices": 88,
+      "invoices_with_exceptions": 19,
+      "exception_rate": 0.2159,
+      "billed": 38713.58,
+      "overbilled": 1592.43
+    },
+    {
+      "carrier_id": "CAR-000077",
+      "carrier_name": "Lakeshore Logistics",
+      "invoices": 42,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.2143,
+      "billed": 18468.52,
+      "overbilled": 1052.27
+    },
+    {
+      "carrier_id": "CAR-000018",
+      "carrier_name": "Granite Peak Logistics",
+      "invoices": 66,
+      "invoices_with_exceptions": 14,
+      "exception_rate": 0.2121,
+      "billed": 25165.52,
+      "overbilled": 753.9
+    },
+    {
+      "carrier_id": "CAR-000056",
+      "carrier_name": "Northwind Carriers",
+      "invoices": 105,
+      "invoices_with_exceptions": 21,
+      "exception_rate": 0.2,
+      "billed": 48917.99,
+      "overbilled": 2156.03
+    },
+    {
+      "carrier_id": "CAR-000035",
+      "carrier_name": "Lakeshore Freight Lines",
+      "invoices": 206,
+      "invoices_with_exceptions": 40,
+      "exception_rate": 0.1942,
+      "billed": 100286.14,
+      "overbilled": 4195.3
+    },
+    {
+      "carrier_id": "CAR-000021",
+      "carrier_name": "Pinecone Transport",
+      "invoices": 95,
+      "invoices_with_exceptions": 18,
+      "exception_rate": 0.1895,
+      "billed": 48952.7,
+      "overbilled": 3525.92
+    },
+    {
+      "carrier_id": "CAR-000023",
+      "carrier_name": "Copperleaf Haulage",
+      "invoices": 95,
+      "invoices_with_exceptions": 18,
+      "exception_rate": 0.1895,
+      "billed": 37109.16,
+      "overbilled": 820.82
+    },
+    {
+      "carrier_id": "CAR-000046",
+      "carrier_name": "Amberfield Haulage",
+      "invoices": 81,
+      "invoices_with_exceptions": 15,
+      "exception_rate": 0.1852,
+      "billed": 32629.01,
+      "overbilled": 1306.57
+    },
+    {
+      "carrier_id": "CAR-000006",
+      "carrier_name": "Riverbend Logistics",
+      "invoices": 55,
+      "invoices_with_exceptions": 10,
+      "exception_rate": 0.1818,
+      "billed": 32866.84,
+      "overbilled": 1457.49
+    },
+    {
+      "carrier_id": "CAR-000020",
+      "carrier_name": "Sunvale Carriers",
+      "invoices": 45,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1778,
+      "billed": 20864.06,
+      "overbilled": 2041.86
+    },
+    {
+      "carrier_id": "CAR-000009",
+      "carrier_name": "Riverbend Haulage",
+      "invoices": 70,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.1714,
+      "billed": 38934.61,
+      "overbilled": 2484.17
+    },
+    {
+      "carrier_id": "CAR-000044",
+      "carrier_name": "Riverbend Express",
+      "invoices": 41,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1707,
+      "billed": 18992.37,
+      "overbilled": 940.5
+    },
+    {
+      "carrier_id": "CAR-000068",
+      "carrier_name": "Thistle Express",
+      "invoices": 184,
+      "invoices_with_exceptions": 31,
+      "exception_rate": 0.1685,
+      "billed": 98933.26,
+      "overbilled": 5838.28
+    },
+    {
+      "carrier_id": "CAR-000070",
+      "carrier_name": "Oakmont Cartage",
+      "invoices": 191,
+      "invoices_with_exceptions": 32,
+      "exception_rate": 0.1675,
+      "billed": 94276.4,
+      "overbilled": 3961.15
+    },
+    {
+      "carrier_id": "CAR-000042",
+      "carrier_name": "Brightwater Express",
+      "invoices": 405,
+      "invoices_with_exceptions": 67,
+      "exception_rate": 0.1654,
+      "billed": 196265.63,
+      "overbilled": 8669.9
+    },
+    {
+      "carrier_id": "CAR-000041",
+      "carrier_name": "Lakeshore Express",
+      "invoices": 55,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.1636,
+      "billed": 33605.14,
+      "overbilled": 832.83
+    },
+    {
+      "carrier_id": "CAR-000048",
+      "carrier_name": "Cedar Hollow Freight Lines",
+      "invoices": 118,
+      "invoices_with_exceptions": 19,
+      "exception_rate": 0.161,
+      "billed": 46382.74,
+      "overbilled": 2791.42
+    },
+    {
+      "carrier_id": "CAR-000095",
+      "carrier_name": "Harborview Transport",
+      "invoices": 51,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1569,
+      "billed": 18298.12,
+      "overbilled": 657.32
+    },
+    {
+      "carrier_id": "CAR-000078",
+      "carrier_name": "Sunvale Haulage",
+      "invoices": 77,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.1558,
+      "billed": 39648.24,
+      "overbilled": 1733.41
+    },
+    {
+      "carrier_id": "CAR-000059",
+      "carrier_name": "Cedar Hollow Motor Freight",
+      "invoices": 52,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1538,
+      "billed": 29423.08,
+      "overbilled": 1388.02
+    },
+    {
+      "carrier_id": "CAR-000071",
+      "carrier_name": "Lakeshore Motor Freight",
+      "invoices": 78,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.1538,
+      "billed": 38209.94,
+      "overbilled": 508.76
+    },
+    {
+      "carrier_id": "CAR-000010",
+      "carrier_name": "Bluecrest Freight Lines",
+      "invoices": 46,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1522,
+      "billed": 28164.28,
+      "overbilled": 919.94
+    },
+    {
+      "carrier_id": "CAR-000090",
+      "carrier_name": "Granite Peak Carriers",
+      "invoices": 40,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.15,
+      "billed": 14485.84,
+      "overbilled": 320.78
+    },
+    {
+      "carrier_id": "CAR-000003",
+      "carrier_name": "Oakmont Freight Lines",
+      "invoices": 68,
+      "invoices_with_exceptions": 10,
+      "exception_rate": 0.1471,
+      "billed": 33754.62,
+      "overbilled": 1803.45
+    },
+    {
+      "carrier_id": "CAR-000008",
+      "carrier_name": "Oakmont Carriers",
+      "invoices": 102,
+      "invoices_with_exceptions": 15,
+      "exception_rate": 0.1471,
+      "billed": 43730.08,
+      "overbilled": 662.9
+    },
+    {
+      "carrier_id": "CAR-000029",
+      "carrier_name": "Copperleaf Freight Lines",
+      "invoices": 116,
+      "invoices_with_exceptions": 17,
+      "exception_rate": 0.1466,
+      "billed": 42604.87,
+      "overbilled": 1080.69
+    },
+    {
+      "carrier_id": "CAR-000074",
+      "carrier_name": "Highplain Transport",
+      "invoices": 48,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1458,
+      "billed": 22257.98,
+      "overbilled": 747.62
+    },
+    {
+      "carrier_id": "CAR-000024",
+      "carrier_name": "Westgate Express",
+      "invoices": 276,
+      "invoices_with_exceptions": 40,
+      "exception_rate": 0.1449,
+      "billed": 132442.42,
+      "overbilled": 4388.18
+    },
+    {
+      "carrier_id": "CAR-000050",
+      "carrier_name": "Silverline Haulage",
+      "invoices": 56,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1429,
+      "billed": 30565.36,
+      "overbilled": 1652.21
+    },
+    {
+      "carrier_id": "CAR-000091",
+      "carrier_name": "Falconridge Motor Freight",
+      "invoices": 140,
+      "invoices_with_exceptions": 20,
+      "exception_rate": 0.1429,
+      "billed": 57978.19,
+      "overbilled": 2228.71
+    },
+    {
+      "carrier_id": "CAR-000085",
+      "carrier_name": "Cedar Hollow Express",
+      "invoices": 85,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.1412,
+      "billed": 37020.57,
+      "overbilled": 2238.48
+    },
+    {
+      "carrier_id": "CAR-000063",
+      "carrier_name": "Kestrel Carriers",
+      "invoices": 124,
+      "invoices_with_exceptions": 17,
+      "exception_rate": 0.1371,
+      "billed": 63535.62,
+      "overbilled": 2594.06
+    },
+    {
+      "carrier_id": "CAR-000005",
+      "carrier_name": "Silverline Logistics",
+      "invoices": 52,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1346,
+      "billed": 29184.64,
+      "overbilled": 1965.55
+    },
+    {
+      "carrier_id": "CAR-000093",
+      "carrier_name": "Highplain Carriers",
+      "invoices": 97,
+      "invoices_with_exceptions": 13,
+      "exception_rate": 0.134,
+      "billed": 36739.79,
+      "overbilled": 2126.67
+    },
+    {
+      "carrier_id": "CAR-000086",
+      "carrier_name": "Westgate Cartage",
+      "invoices": 68,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.1324,
+      "billed": 30699.15,
+      "overbilled": 2335.14
+    },
+    {
+      "carrier_id": "CAR-000051",
+      "carrier_name": "Highplain Motor Freight",
+      "invoices": 63,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.127,
+      "billed": 38549.37,
+      "overbilled": 523.24
+    },
+    {
+      "carrier_id": "CAR-000092",
+      "carrier_name": "Silverline Carriers",
+      "invoices": 56,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.125,
+      "billed": 35725.41,
+      "overbilled": 554.6
+    },
+    {
+      "carrier_id": "CAR-000002",
+      "carrier_name": "Brightwater Transport",
+      "invoices": 57,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1228,
+      "billed": 25513.65,
+      "overbilled": 320.48
+    },
+    {
+      "carrier_id": "CAR-000081",
+      "carrier_name": "Amberfield Transport",
+      "invoices": 83,
+      "invoices_with_exceptions": 10,
+      "exception_rate": 0.1205,
+      "billed": 43110.15,
+      "overbilled": 902.18
+    },
+    {
+      "carrier_id": "CAR-000057",
+      "carrier_name": "Ironwood Motor Freight",
+      "invoices": 67,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1194,
+      "billed": 25719.78,
+      "overbilled": 1241.78
+    },
+    {
+      "carrier_id": "CAR-000084",
+      "carrier_name": "Granite Peak Express",
+      "invoices": 67,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1194,
+      "billed": 32434.88,
+      "overbilled": 1137.43
+    },
+    {
+      "carrier_id": "CAR-000040",
+      "carrier_name": "Cedar Hollow Logistics",
+      "invoices": 95,
+      "invoices_with_exceptions": 11,
+      "exception_rate": 0.1158,
+      "billed": 47525.67,
+      "overbilled": 1347.67
+    },
+    {
+      "carrier_id": "CAR-000073",
+      "carrier_name": "Brightwater Freight Lines",
+      "invoices": 53,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1132,
+      "billed": 25953.04,
+      "overbilled": 552.96
+    },
+    {
+      "carrier_id": "CAR-000076",
+      "carrier_name": "Riverbend Motor Freight",
+      "invoices": 54,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1111,
+      "billed": 28308.97,
+      "overbilled": 736.04
+    },
+    {
+      "carrier_id": "CAR-000014",
+      "carrier_name": "Falconridge Transport",
+      "invoices": 74,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.1081,
+      "billed": 37749.91,
+      "overbilled": 1260.32
+    },
+    {
+      "carrier_id": "CAR-000038",
+      "carrier_name": "Driftwood Haulage",
+      "invoices": 86,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.1047,
+      "billed": 31183.36,
+      "overbilled": 1229.61
+    },
+    {
+      "carrier_id": "CAR-000031",
+      "carrier_name": "Highplain Freight Lines",
+      "invoices": 58,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1034,
+      "billed": 26058.65,
+      "overbilled": 545.1
+    },
+    {
+      "carrier_id": "CAR-000034",
+      "carrier_name": "Sunvale Motor Freight",
+      "invoices": 59,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1017,
+      "billed": 32158.85,
+      "overbilled": 582.51
+    },
+    {
+      "carrier_id": "CAR-000064",
+      "carrier_name": "Stonebridge Transport",
+      "invoices": 986,
+      "invoices_with_exceptions": 100,
+      "exception_rate": 0.1014,
+      "billed": 399785.95,
+      "overbilled": 10081.95
+    },
+    {
+      "carrier_id": "CAR-000030",
+      "carrier_name": "Cedar Hollow Haulage",
+      "invoices": 149,
+      "invoices_with_exceptions": 15,
+      "exception_rate": 0.1007,
+      "billed": 67349.7,
+      "overbilled": 3492.07
+    },
+    {
+      "carrier_id": "CAR-000019",
+      "carrier_name": "Driftwood Logistics",
+      "invoices": 60,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1,
+      "billed": 19846.88,
+      "overbilled": 428.36
+    },
+    {
+      "carrier_id": "CAR-000015",
+      "carrier_name": "Oakmont Haulage",
+      "invoices": 333,
+      "invoices_with_exceptions": 33,
+      "exception_rate": 0.0991,
+      "billed": 133853.7,
+      "overbilled": 4765.24
+    },
+    {
+      "carrier_id": "CAR-000058",
+      "carrier_name": "Granite Peak Haulage",
+      "invoices": 81,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.0988,
+      "billed": 34811.11,
+      "overbilled": 1061.25
+    },
+    {
+      "carrier_id": "CAR-000016",
+      "carrier_name": "Bluecrest Logistics",
+      "invoices": 287,
+      "invoices_with_exceptions": 28,
+      "exception_rate": 0.0976,
+      "billed": 106335.34,
+      "overbilled": 3654.4
+    },
+    {
+      "carrier_id": "CAR-000055",
+      "carrier_name": "Pinecone Logistics",
+      "invoices": 72,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.0972,
+      "billed": 24278.8,
+      "overbilled": 522.28
+    },
+    {
+      "carrier_id": "CAR-000067",
+      "carrier_name": "Brightwater Carriers",
+      "invoices": 62,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.0968,
+      "billed": 23324.24,
+      "overbilled": 407.94
+    },
+    {
+      "carrier_id": "CAR-000080",
+      "carrier_name": "Sunvale Express",
+      "invoices": 592,
+      "invoices_with_exceptions": 57,
+      "exception_rate": 0.0963,
+      "billed": 282676.95,
+      "overbilled": 8026.24
+    },
+    {
+      "carrier_id": "CAR-000007",
+      "carrier_name": "Falconridge Haulage",
+      "invoices": 104,
+      "invoices_with_exceptions": 10,
+      "exception_rate": 0.0962,
+      "billed": 57900.3,
+      "overbilled": 844.52
+    },
+    {
+      "carrier_id": "CAR-000039",
+      "carrier_name": "Cedar Hollow Transport",
+      "invoices": 94,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.0957,
+      "billed": 36999.03,
+      "overbilled": 2476.99
+    },
+    {
+      "carrier_id": "CAR-000001",
+      "carrier_name": "Meadowlark Freight Lines",
+      "invoices": 234,
+      "invoices_with_exceptions": 22,
+      "exception_rate": 0.094,
+      "billed": 89633.62,
+      "overbilled": 2342.28
+    },
+    {
+      "carrier_id": "CAR-000032",
+      "carrier_name": "Driftwood Transport",
+      "invoices": 785,
+      "invoices_with_exceptions": 73,
+      "exception_rate": 0.093,
+      "billed": 328123.04,
+      "overbilled": 9640.93
+    },
+    {
+      "carrier_id": "CAR-000053",
+      "carrier_name": "Cedar Hollow Cartage",
+      "invoices": 69,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.087,
+      "billed": 24893.76,
+      "overbilled": 369.53
+    },
+    {
+      "carrier_id": "CAR-000045",
+      "carrier_name": "Westgate Haulage",
+      "invoices": 197,
+      "invoices_with_exceptions": 17,
+      "exception_rate": 0.0863,
+      "billed": 115634.32,
+      "overbilled": 4453.31
+    },
+    {
+      "carrier_id": "CAR-000012",
+      "carrier_name": "Kestrel Haulage",
+      "invoices": 59,
+      "invoices_with_exceptions": 5,
+      "exception_rate": 0.0847,
+      "billed": 26817.43,
+      "overbilled": 908.53
+    },
+    {
+      "carrier_id": "CAR-000047",
+      "carrier_name": "Redfern Logistics",
+      "invoices": 60,
+      "invoices_with_exceptions": 5,
+      "exception_rate": 0.0833,
+      "billed": 33413.35,
+      "overbilled": 1293.08
+    },
+    {
+      "carrier_id": "CAR-000099",
+      "carrier_name": "Brightwater Cartage",
+      "invoices": 62,
+      "invoices_with_exceptions": 5,
+      "exception_rate": 0.0806,
+      "billed": 27902.89,
+      "overbilled": 513.97
+    },
+    {
+      "carrier_id": "CAR-000022",
+      "carrier_name": "Kestrel Cartage",
+      "invoices": 75,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.08,
+      "billed": 26184.43,
+      "overbilled": 978.52
+    },
+    {
+      "carrier_id": "CAR-000028",
+      "carrier_name": "Harborview Logistics",
+      "invoices": 38,
+      "invoices_with_exceptions": 3,
+      "exception_rate": 0.0789,
+      "billed": 16269.24,
+      "overbilled": 454.76
+    },
+    {
+      "carrier_id": "CAR-000004",
+      "carrier_name": "Pinecone Haulage",
+      "invoices": 103,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.0777,
+      "billed": 46762.99,
+      "overbilled": 503.53
+    },
+    {
+      "carrier_id": "CAR-000013",
+      "carrier_name": "Clearpath Carriers",
+      "invoices": 52,
+      "invoices_with_exceptions": 4,
+      "exception_rate": 0.0769,
+      "billed": 24275.6,
+      "overbilled": 227.61
+    },
+    {
+      "carrier_id": "CAR-000052",
+      "carrier_name": "Granite Peak Motor Freight",
+      "invoices": 137,
+      "invoices_with_exceptions": 10,
+      "exception_rate": 0.073,
+      "billed": 46353.83,
+      "overbilled": 1100.72
+    },
+    {
+      "carrier_id": "CAR-000036",
+      "carrier_name": "Ironwood Haulage",
+      "invoices": 276,
+      "invoices_with_exceptions": 20,
+      "exception_rate": 0.0725,
+      "billed": 107055.25,
+      "overbilled": 3825.47
+    },
+    {
+      "carrier_id": "CAR-000065",
+      "carrier_name": "Riverbend Freight Lines",
+      "invoices": 125,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.072,
+      "billed": 38236.8,
+      "overbilled": 1255.54
+    },
+    {
+      "carrier_id": "CAR-000083",
+      "carrier_name": "Meadowlark Cartage",
+      "invoices": 453,
+      "invoices_with_exceptions": 32,
+      "exception_rate": 0.0706,
+      "billed": 166738.34,
+      "overbilled": 4502.17
+    },
+    {
+      "carrier_id": "CAR-000026",
+      "carrier_name": "Redfern Carriers",
+      "invoices": 189,
+      "invoices_with_exceptions": 13,
+      "exception_rate": 0.0688,
+      "billed": 52760.94,
+      "overbilled": 1758.71
+    },
+    {
+      "carrier_id": "CAR-000060",
+      "carrier_name": "Silverline Motor Freight",
+      "invoices": 163,
+      "invoices_with_exceptions": 11,
+      "exception_rate": 0.0675,
+      "billed": 47966.0,
+      "overbilled": 1844.81
+    },
+    {
+      "carrier_id": "CAR-000075",
+      "carrier_name": "Lakeshore Cartage",
+      "invoices": 156,
+      "invoices_with_exceptions": 9,
+      "exception_rate": 0.0577,
+      "billed": 74045.45,
+      "overbilled": 1547.14
+    },
+    {
+      "carrier_id": "CAR-000100",
+      "carrier_name": "Granite Peak Transport",
+      "invoices": 228,
+      "invoices_with_exceptions": 13,
+      "exception_rate": 0.057,
+      "billed": 74814.46,
+      "overbilled": 2504.58
+    },
+    {
+      "carrier_id": "CAR-000027",
+      "carrier_name": "Lakeshore Transport",
+      "invoices": 58,
+      "invoices_with_exceptions": 3,
+      "exception_rate": 0.0517,
+      "billed": 20474.63,
+      "overbilled": 170.47
+    },
+    {
+      "carrier_id": "CAR-000037",
+      "carrier_name": "Thistle Haulage",
+      "invoices": 60,
+      "invoices_with_exceptions": 3,
+      "exception_rate": 0.05,
+      "billed": 27380.21,
+      "overbilled": 698.38
+    },
+    {
+      "carrier_id": "CAR-000062",
+      "carrier_name": "Ironwood Express",
+      "invoices": 63,
+      "invoices_with_exceptions": 3,
+      "exception_rate": 0.0476,
+      "billed": 23115.83,
+      "overbilled": 380.05
+    },
+    {
+      "carrier_id": "CAR-000069",
+      "carrier_name": "Copperleaf Transport",
+      "invoices": 84,
+      "invoices_with_exceptions": 4,
+      "exception_rate": 0.0476,
+      "billed": 44844.75,
+      "overbilled": 2028.67
+    },
+    {
+      "carrier_id": "CAR-000066",
+      "carrier_name": "Silverline Freight Lines",
+      "invoices": 173,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.0462,
+      "billed": 76111.77,
+      "overbilled": 1050.35
+    },
+    {
+      "carrier_id": "CAR-000094",
+      "carrier_name": "Driftwood Carriers",
+      "invoices": 161,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.0373,
+      "billed": 73348.89,
+      "overbilled": 1703.16
+    },
+    {
+      "carrier_id": "CAR-000089",
+      "carrier_name": "Driftwood Motor Freight",
+      "invoices": 59,
+      "invoices_with_exceptions": 1,
+      "exception_rate": 0.0169,
+      "billed": 16190.35,
+      "overbilled": 293.08
+    }
+  ]
+}

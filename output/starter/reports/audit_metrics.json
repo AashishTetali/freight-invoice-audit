@@ -1,0 +1,297 @@
+{
+  "detection": {
+    "overall": {
+      "planted": 107,
+      "detected": 107,
+      "true_positive": 107,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "clean_invoices": 646,
+    "clean_invoices_falsely_flagged": 0,
+    "false_alarm_rate_on_clean": 0.0,
+    "decision_accuracy": 1.0,
+    "decision_mismatches": [],
+    "variance_accuracy": 1.0,
+    "variance_mismatches": [],
+    "per_issue_type": {
+      "UNKNOWN_SHIPMENT": {
+        "planted": 4,
+        "detected": 4,
+        "true_positive": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "DUPLICATE_INVOICE": {
+        "planted": 11,
+        "detected": 11,
+        "true_positive": 11,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "RATE_CARD_EXPIRED": {
+        "planted": 7,
+        "detected": 7,
+        "true_positive": 7,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "WEIGHT_TIER_MISAPPLIED": {
+        "planted": 16,
+        "detected": 16,
+        "true_positive": 16,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "DIM_WEIGHT_DISCREPANCY": {
+        "planted": 18,
+        "detected": 18,
+        "true_positive": 18,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "FUEL_SURCHARGE_MISCALCULATED": {
+        "planted": 9,
+        "detected": 9,
+        "true_positive": 9,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "SURCHARGE_DUPLICATED": {
+        "planted": 19,
+        "detected": 19,
+        "true_positive": 19,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "INVALID_ACCESSORIAL": {
+        "planted": 20,
+        "detected": 20,
+        "true_positive": 20,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      },
+      "CREDIT_EXCEEDS_EXCEPTION": {
+        "planted": 3,
+        "detected": 3,
+        "true_positive": 3,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "missed_examples": [],
+        "false_alarm_examples": []
+      }
+    }
+  },
+  "business": {
+    "invoices_audited": 750,
+    "invoices_clean": 646,
+    "invoices_with_exceptions": 89,
+    "invoices_rejected": 15,
+    "clean_rate": 0.8613,
+    "total_billed": 321010.27,
+    "rejected_invoice_value": 6588.46,
+    "line_overbilling_found": 7575.18,
+    "disputed_amount": 7550.16,
+    "credits_applied": 7137.36,
+    "credits_held_over_limit": 185.08,
+    "waived_amount": 25.02,
+    "savings_total": 13725.82,
+    "savings_pct_of_billed": 0.0428,
+    "dispute_recovery_rate": 0.9453,
+    "invoice_status": {
+      "ESCALATED": 15,
+      "PAID": 720,
+      "REJECTED": 15
+    },
+    "exception_status": {
+      "CARRIER_DECLINED": 4,
+      "CREDITED": 104,
+      "CREDIT_ON_HOLD": 3,
+      "DISPUTED": 3,
+      "INVOICE_REJECTED": 15,
+      "PARTIALLY_CREDITED": 8,
+      "WAIVED": 11
+    },
+    "exceptions_by_type": {
+      "CREDIT_EXCEEDS_EXCEPTION": {
+        "count": 3,
+        "variance": 39.17
+      },
+      "DIM_WEIGHT_DISCREPANCY": {
+        "count": 18,
+        "variance": 2309.64
+      },
+      "DUPLICATE_INVOICE": {
+        "count": 11,
+        "variance": 4027.27
+      },
+      "FUEL_ON_INCORRECT_BASE": {
+        "count": 41,
+        "variance": 846.89
+      },
+      "FUEL_SURCHARGE_MISCALCULATED": {
+        "count": 9,
+        "variance": 79.91
+      },
+      "INVALID_ACCESSORIAL": {
+        "count": 20,
+        "variance": 1501.0
+      },
+      "RATE_CARD_EXPIRED": {
+        "count": 7,
+        "variance": 69.16
+      },
+      "SURCHARGE_DUPLICATED": {
+        "count": 19,
+        "variance": 1784.35
+      },
+      "UNKNOWN_SHIPMENT": {
+        "count": 4,
+        "variance": 2561.19
+      },
+      "WEIGHT_TIER_MISAPPLIED": {
+        "count": 16,
+        "variance": 984.23
+      }
+    },
+    "shipments": 1000,
+    "shipments_not_yet_invoiced": 265
+  },
+  "carriers_by_exception_rate": [
+    {
+      "carrier_id": "CAR-000010",
+      "carrier_name": "Bluecrest Freight Lines",
+      "invoices": 60,
+      "invoices_with_exceptions": 14,
+      "exception_rate": 0.2333,
+      "billed": 25814.85,
+      "overbilled": 1124.89
+    },
+    {
+      "carrier_id": "CAR-000005",
+      "carrier_name": "Silverline Logistics",
+      "invoices": 39,
+      "invoices_with_exceptions": 8,
+      "exception_rate": 0.2051,
+      "billed": 20030.98,
+      "overbilled": 1185.09
+    },
+    {
+      "carrier_id": "CAR-000002",
+      "carrier_name": "Brightwater Transport",
+      "invoices": 133,
+      "invoices_with_exceptions": 24,
+      "exception_rate": 0.1805,
+      "billed": 55885.72,
+      "overbilled": 1992.01
+    },
+    {
+      "carrier_id": "CAR-000006",
+      "carrier_name": "Riverbend Logistics",
+      "invoices": 86,
+      "invoices_with_exceptions": 12,
+      "exception_rate": 0.1395,
+      "billed": 37102.69,
+      "overbilled": 974.18
+    },
+    {
+      "carrier_id": "CAR-000009",
+      "carrier_name": "Riverbend Haulage",
+      "invoices": 44,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1364,
+      "billed": 18957.29,
+      "overbilled": 760.59
+    },
+    {
+      "carrier_id": "CAR-000007",
+      "carrier_name": "Falconridge Haulage",
+      "invoices": 46,
+      "invoices_with_exceptions": 6,
+      "exception_rate": 0.1304,
+      "billed": 19324.98,
+      "overbilled": 1288.97
+    },
+    {
+      "carrier_id": "CAR-000001",
+      "carrier_name": "Meadowlark Freight Lines",
+      "invoices": 204,
+      "invoices_with_exceptions": 22,
+      "exception_rate": 0.1078,
+      "billed": 89650.07,
+      "overbilled": 4604.83
+    },
+    {
+      "carrier_id": "CAR-000008",
+      "carrier_name": "Oakmont Carriers",
+      "invoices": 66,
+      "invoices_with_exceptions": 7,
+      "exception_rate": 0.1061,
+      "billed": 26936.0,
+      "overbilled": 827.49
+    },
+    {
+      "carrier_id": "CAR-000003",
+      "carrier_name": "Oakmont Freight Lines",
+      "invoices": 45,
+      "invoices_with_exceptions": 4,
+      "exception_rate": 0.0889,
+      "billed": 17093.23,
+      "overbilled": 1357.71
+    },
+    {
+      "carrier_id": "CAR-000004",
+      "carrier_name": "Pinecone Haulage",
+      "invoices": 27,
+      "invoices_with_exceptions": 1,
+      "exception_rate": 0.037,
+      "billed": 10214.46,
+      "overbilled": 47.88
+    }
+  ]
+}

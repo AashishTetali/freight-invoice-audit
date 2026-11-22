@@ -1,0 +1,322 @@
+[
+ {
+  "lane_id": "LANE-000001",
+  "origin_city": "Atlanta",
+  "origin_state": "GA",
+  "dest_city": "Albuquerque",
+  "dest_state": "NM",
+  "distance_miles": 1498
+ },
+ {
+  "lane_id": "LANE-000002",
+  "origin_city": "Atlanta",
+  "origin_state": "GA",
+  "dest_city": "Denver",
+  "dest_state": "CO",
+  "distance_miles": 1428
+ },
+ {
+  "lane_id": "LANE-000003",
+  "origin_city": "Boston",
+  "origin_state": "MA",
+  "dest_city": "Miami",
+  "dest_state": "FL",
+  "distance_miles": 1485
+ },
+ {
+  "lane_id": "LANE-000004",
+  "origin_city": "Charlotte",
+  "origin_state": "NC",
+  "dest_city": "Los Angeles",
+  "dest_state": "CA",
+  "distance_miles": 2496
+ },
+ {
+  "lane_id": "LANE-000005",
+  "origin_city": "Charlotte",
+  "origin_state": "NC",
+  "dest_city": "San Antonio",
+  "dest_state": "TX",
+  "distance_miles": 1303
+ },
+ {
+  "lane_id": "LANE-000006",
+  "origin_city": "Chicago",
+  "origin_state": "IL",
+  "dest_city": "Dallas",
+  "dest_state": "TX",
+  "distance_miles": 950
+ },
+ {
+  "lane_id": "LANE-000007",
+  "origin_city": "Cincinnati",
+  "origin_state": "OH",
+  "dest_city": "Albuquerque",
+  "dest_state": "NM",
+  "distance_miles": 1473
+ },
+ {
+  "lane_id": "LANE-000008",
+  "origin_city": "Cincinnati",
+  "origin_state": "OH",
+  "dest_city": "Chicago",
+  "dest_state": "IL",
+  "distance_miles": 298
+ },
+ {
+  "lane_id": "LANE-000009",
+  "origin_city": "Cleveland",
+  "origin_state": "OH",
+  "dest_city": "Minneapolis",
+  "dest_state": "MN",
+  "distance_miles": 743
+ },
+ {
+  "lane_id": "LANE-000010",
+  "origin_city": "Cleveland",
+  "origin_state": "OH",
+  "dest_city": "Orlando",
+  "dest_state": "FL",
+  "distance_miles": 1057
+ },
+ {
+  "lane_id": "LANE-000011",
+  "origin_city": "Columbus",
+  "origin_state": "OH",
+  "dest_city": "Houston",
+  "dest_state": "TX",
+  "distance_miles": 1171
+ },
+ {
+  "lane_id": "LANE-000012",
+  "origin_city": "Dallas",
+  "origin_state": "TX",
+  "dest_city": "Charlotte",
+  "dest_state": "NC",
+  "distance_miles": 1096
+ },
+ {
+  "lane_id": "LANE-000013",
+  "origin_city": "Detroit",
+  "origin_state": "MI",
+  "dest_city": "Atlanta",
+  "dest_state": "GA",
+  "distance_miles": 705
+ },
+ {
+  "lane_id": "LANE-000014",
+  "origin_city": "Detroit",
+  "origin_state": "MI",
+  "dest_city": "San Antonio",
+  "dest_state": "TX",
+  "distance_miles": 1461
+ },
+ {
+  "lane_id": "LANE-000015",
+  "origin_city": "El Paso",
+  "origin_state": "TX",
+  "dest_city": "Baltimore",
+  "dest_state": "MD",
+  "distance_miles": 2065
+ },
+ {
+  "lane_id": "LANE-000016",
+  "origin_city": "El Paso",
+  "origin_state": "TX",
+  "dest_city": "Birmingham",
+  "dest_state": "AL",
+  "distance_miles": 1357
+ },
+ {
+  "lane_id": "LANE-000017",
+  "origin_city": "Houston",
+  "origin_state": "TX",
+  "dest_city": "Charlotte",
+  "dest_state": "NC",
+  "distance_miles": 1093
+ },
+ {
+  "lane_id": "LANE-000018",
+  "origin_city": "Houston",
+  "origin_state": "TX",
+  "dest_city": "Cleveland",
+  "dest_state": "OH",
+  "distance_miles": 1315
+ },
+ {
+  "lane_id": "LANE-000019",
+  "origin_city": "Houston",
+  "origin_state": "TX",
+  "dest_city": "Sacramento",
+  "dest_state": "CA",
+  "distance_miles": 1895
+ },
+ {
+  "lane_id": "LANE-000020",
+  "origin_city": "Indianapolis",
+  "origin_state": "IN",
+  "dest_city": "Memphis",
+  "dest_state": "TN",
+  "distance_miles": 453
+ },
+ {
+  "lane_id": "LANE-000021",
+  "origin_city": "Kansas City",
+  "origin_state": "MO",
+  "dest_city": "Albuquerque",
+  "dest_state": "NM",
+  "distance_miles": 850
+ },
+ {
+  "lane_id": "LANE-000022",
+  "origin_city": "Kansas City",
+  "origin_state": "MO",
+  "dest_city": "Phoenix",
+  "dest_state": "AZ",
+  "distance_miles": 1236
+ },
+ {
+  "lane_id": "LANE-000023",
+  "origin_city": "Los Angeles",
+  "origin_state": "CA",
+  "dest_city": "Denver",
+  "dest_state": "CO",
+  "distance_miles": 979
+ },
+ {
+  "lane_id": "LANE-000024",
+  "origin_city": "Miami",
+  "origin_state": "FL",
+  "dest_city": "Jacksonville",
+  "dest_state": "FL",
+  "distance_miles": 387
+ },
+ {
+  "lane_id": "LANE-000025",
+  "origin_city": "Milwaukee",
+  "origin_state": "WI",
+  "dest_city": "Miami",
+  "dest_state": "FL",
+  "distance_miles": 1500
+ },
+ {
+  "lane_id": "LANE-000026",
+  "origin_city": "Minneapolis",
+  "origin_state": "MN",
+  "dest_city": "Omaha",
+  "dest_state": "NE",
+  "distance_miles": 342
+ },
+ {
+  "lane_id": "LANE-000027",
+  "origin_city": "Nashville",
+  "origin_state": "TN",
+  "dest_city": "Sacramento",
+  "dest_state": "CA",
+  "distance_miles": 2244
+ },
+ {
+  "lane_id": "LANE-000028",
+  "origin_city": "Newark",
+  "origin_state": "NJ",
+  "dest_city": "Baltimore",
+  "dest_state": "MD",
+  "distance_miles": 193
+ },
+ {
+  "lane_id": "LANE-000029",
+  "origin_city": "Oklahoma City",
+  "origin_state": "OK",
+  "dest_city": "Kansas City",
+  "dest_state": "MO",
+  "distance_miles": 352
+ },
+ {
+  "lane_id": "LANE-000030",
+  "origin_city": "Oklahoma City",
+  "origin_state": "OK",
+  "dest_city": "Richmond",
+  "dest_state": "VA",
+  "distance_miles": 1324
+ },
+ {
+  "lane_id": "LANE-000031",
+  "origin_city": "Orlando",
+  "origin_state": "FL",
+  "dest_city": "San Antonio",
+  "dest_state": "TX",
+  "distance_miles": 1221
+ },
+ {
+  "lane_id": "LANE-000032",
+  "origin_city": "Philadelphia",
+  "origin_state": "PA",
+  "dest_city": "Cincinnati",
+  "dest_state": "OH",
+  "distance_miles": 591
+ },
+ {
+  "lane_id": "LANE-000033",
+  "origin_city": "Phoenix",
+  "origin_state": "AZ",
+  "dest_city": "Seattle",
+  "dest_state": "WA",
+  "distance_miles": 1315
+ },
+ {
+  "lane_id": "LANE-000034",
+  "origin_city": "Pittsburgh",
+  "origin_state": "PA",
+  "dest_city": "Boston",
+  "dest_state": "MA",
+  "distance_miles": 568
+ },
+ {
+  "lane_id": "LANE-000035",
+  "origin_city": "Richmond",
+  "origin_state": "VA",
+  "dest_city": "Charlotte",
+  "dest_state": "NC",
+  "distance_miles": 292
+ },
+ {
+  "lane_id": "LANE-000036",
+  "origin_city": "Richmond",
+  "origin_state": "VA",
+  "dest_city": "Salt Lake City",
+  "dest_state": "UT",
+  "distance_miles": 2180
+ },
+ {
+  "lane_id": "LANE-000037",
+  "origin_city": "Salt Lake City",
+  "origin_state": "UT",
+  "dest_city": "Orlando",
+  "dest_state": "FL",
+  "distance_miles": 2260
+ },
+ {
+  "lane_id": "LANE-000038",
+  "origin_city": "San Antonio",
+  "origin_state": "TX",
+  "dest_city": "Milwaukee",
+  "dest_state": "WI",
+  "distance_miles": 1308
+ },
+ {
+  "lane_id": "LANE-000039",
+  "origin_city": "Seattle",
+  "origin_state": "WA",
+  "dest_city": "Omaha",
+  "dest_state": "NE",
+  "distance_miles": 1612
+ },
+ {
+  "lane_id": "LANE-000040",
+  "origin_city": "St. Louis",
+  "origin_state": "MO",
+  "dest_city": "Charlotte",
+  "dest_state": "NC",
+  "distance_miles": 670
+ }
+]

@@ -1,0 +1,622 @@
+[
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 59.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 100.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 113.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 58.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 34.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 59.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 100.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 113.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 58.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 34.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000001-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 99.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 93.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 23.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 62.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 38.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 68.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 99.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 93.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 23.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 62.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 38.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000002-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 68.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 53.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 80.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 35.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 81.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 53.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 80.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 35.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000003-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 81.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 90.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 80.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 25.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 71.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 41.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 90.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 80.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 25.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 71.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 41.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000004-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 76.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 56.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 34.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 86.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 76.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 78.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 56.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 34.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000005-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 86.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 66.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 90.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 61.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 46.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 66.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 90.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 61.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 46.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000006-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 85.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 75.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 28.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 75.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 47.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 74.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 75.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 28.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 75.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 47.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000007-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 74.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 68.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 107.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 46.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 65.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 68.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 98.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 107.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 30.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 46.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000008-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 65.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-01",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 84.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 107.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 25.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 35.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-02",
+  "accessorial_code": "RESIDENTIAL",
+  "contracted_amount": 84.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 107.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 25.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 35.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000009-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 65.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 20.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 74.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 47.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-01",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 89.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "LIFTGATE",
+  "contracted_amount": 65.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "contracted_amount": 88.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "APPOINTMENT",
+  "contracted_amount": 20.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "LIMITED_ACCESS",
+  "contracted_amount": 74.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "HAZMAT",
+  "contracted_amount": 47.0
+ },
+ {
+  "rate_card_id": "RATE-CAR-000010-2026-02",
+  "accessorial_code": "DETENTION",
+  "contracted_amount": 89.0
+ }
+]

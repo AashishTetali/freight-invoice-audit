@@ -1,0 +1,3427 @@
+[
+ {
+  "delivery_id": "DLV-2026-000005",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000007",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000007",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000007",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000008",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000009",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000009",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000011",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000012",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000012",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000016",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000019",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000019",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000020",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000020",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000020",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000021",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000022",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000023",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000024",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000025",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000025",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000027",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000030",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000030",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000030",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000032",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000033",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000037",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000039",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000041",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000043",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000044",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000044",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000047",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000047",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000047",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000048",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000048",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000050",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000051",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000053",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000053",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000055",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000056",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000056",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000057",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000057",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000058",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000058",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000059",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000059",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000061",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000062",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000062",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000063",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000065",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000066",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000067",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000069",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000070",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000073",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000078",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000078",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000079",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000079",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000083",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000086",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000088",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000090",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000092",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000093",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000093",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000094",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000095",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000098",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000100",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000102",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000106",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000107",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000107",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000108",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000109",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000110",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000111",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000113",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000114",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000114",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000115",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000118",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000118",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000121",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000125",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000125",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000126",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000129",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000130",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000132",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000136",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000137",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000138",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000139",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000140",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000142",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000142",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000145",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000145",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000146",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000146",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000147",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000147",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000150",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000154",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000154",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000156",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000157",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000158",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000159",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000160",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000161",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000162",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000163",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000163",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000165",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000167",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000168",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000168",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000170",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000171",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000173",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000176",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000177",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000178",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000179",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000179",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000179",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000182",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000182",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000182",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000186",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000186",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000187",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000188",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000189",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000190",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000192",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000195",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000196",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000197",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000198",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000198",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000199",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000199",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000200",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000201",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000201",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000202",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000203",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000206",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000208",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000209",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000211",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000215",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000218",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000219",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000222",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000224",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000226",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000227",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000229",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000230",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000231",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000231",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000231",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000233",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000233",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000234",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000234",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000235",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000236",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000238",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000240",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000240",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000241",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000242",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000243",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000244",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000245",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000246",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000248",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000249",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000252",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000253",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000255",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000255",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000256",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000256",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000257",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000261",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000266",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000270",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000272",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000273",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000273",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000275",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000285",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000285",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000286",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000287",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000290",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000292",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000292",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000293",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000294",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000299",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000301",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000304",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000306",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000307",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000308",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000309",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000310",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000312",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000314",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000316",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000316",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000319",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000321",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000321",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000322",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000324",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000326",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000327",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000328",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000329",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000331",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000331",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000334",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000341",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000343",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000346",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000346",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000350",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000351",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000354",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000354",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000354",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000355",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000356",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000359",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000359",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000361",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000362",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000363",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000364",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000365",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000366",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000367",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000369",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000370",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000371",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000377",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000377",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000379",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000379",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000380",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000380",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000381",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000382",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000384",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000385",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000386",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000392",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000395",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000397",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000398",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000400",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000402",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000405",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000410",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000417",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000417",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000418",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000419",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000422",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000424",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000426",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000427",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000428",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000431",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000432",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000433",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000433",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000435",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000436",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000438",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000439",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000440",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000441",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000451",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000452",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000453",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000456",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000456",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000457",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000458",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000459",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000460",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000461",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000463",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000464",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000468",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000471",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000471",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000472",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000472",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000474",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000475",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000476",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000478",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000478",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000480",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000487",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000487",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000488",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000489",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000490",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000491",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000491",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000492",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000492",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000493",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000494",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000495",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000496",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000496",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000497",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000498",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000500",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000501",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000501",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000502",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000504",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000507",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000508",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000511",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000511",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000513",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000517",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000518",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000519",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000521",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000522",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000522",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000526",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000528",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000529",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000530",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000531",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000531",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000533",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000536",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000540",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000541",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000547",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000549",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000549",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000550",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000551",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000556",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000556",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000558",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000559",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000560",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000560",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000561",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000562",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000563",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000566",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000568",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000569",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000569",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000572",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000574",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000575",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000577",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000578",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000580",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000582",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000586",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000587",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000592",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000594",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000596",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000597",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000598",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000599",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000599",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000600",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000600",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000600",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000601",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000605",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000606",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000606",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000607",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000608",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000610",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000610",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000611",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000612",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000612",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000613",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000614",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000615",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000615",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000615",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000615",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000617",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000617",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000619",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000619",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000624",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000625",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000627",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000632",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000633",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000634",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000634",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000635",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000635",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000638",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000639",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000639",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000640",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000640",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000641",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000642",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000643",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000644",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000645",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000647",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000647",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000649",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000649",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000650",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000650",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000651",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000652",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000653",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000653",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000654",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000654",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000656",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000657",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000658",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000659",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000660",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000660",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000663",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000665",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000665",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000669",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000670",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000671",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000672",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000674",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000676",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000677",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000678",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000679",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000679",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000679",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000682",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000683",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000684",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000685",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000687",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000687",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000691",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000692",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000693",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000693",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000694",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000696",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000697",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000698",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000699",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000699",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000701",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000705",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000708",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000708",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000709",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000710",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000710",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000711",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000712",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000714",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000714",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000716",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000716",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000716",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000716",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000718",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000718",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000718",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000721",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000723",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000723",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000724",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000724",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000725",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000727",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000728",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000729",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000729",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000731",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000732",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000732",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000733",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000734",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000734",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000736",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000737",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000742",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000742",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000744",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000745",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000746",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000750",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000750",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000750",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000752",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000753",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000753",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000754",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000754",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000754",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000756",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000757",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000757",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000760",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000762",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000767",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000767",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000769",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000769",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000771",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000774",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000775",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000776",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000778",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000778",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000778",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000782",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000785",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000787",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000790",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000790",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000791",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000791",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000795",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000795",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000797",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000799",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000800",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000806",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000808",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000809",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000809",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000810",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000813",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000817",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000821",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000822",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000822",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000823",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000826",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000828",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000832",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000833",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000835",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000835",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000836",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000837",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000843",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000844",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000847",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000847",
+  "accessorial_code": "DETENTION",
+  "quantity": 0.5
+ },
+ {
+  "delivery_id": "DLV-2026-000849",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000850",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000853",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000856",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000857",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000859",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000862",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000863",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000863",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000866",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000871",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000873",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000874",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000878",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000879",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000880",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000883",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000883",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000887",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000890",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000890",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000890",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000894",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000895",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000897",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000900",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000901",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000906",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000909",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000909",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000911",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000912",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000912",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.5
+ },
+ {
+  "delivery_id": "DLV-2026-000915",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000915",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000917",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000920",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000921",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000921",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000922",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000924",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000925",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000928",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000928",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000928",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000929",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000932",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000935",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000935",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000937",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000937",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000938",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000939",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000940",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000940",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000943",
+  "accessorial_code": "DETENTION",
+  "quantity": 1.5
+ },
+ {
+  "delivery_id": "DLV-2026-000945",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000946",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000947",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000948",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000949",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000952",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000956",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000961",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000962",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000966",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000967",
+  "accessorial_code": "DETENTION",
+  "quantity": 3.0
+ },
+ {
+  "delivery_id": "DLV-2026-000969",
+  "accessorial_code": "DETENTION",
+  "quantity": 2.0
+ },
+ {
+  "delivery_id": "DLV-2026-000970",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000971",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000973",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000974",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000975",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000976",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000976",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000979",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000979",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000980",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000981",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000982",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000982",
+  "accessorial_code": "INSIDE_DELIVERY",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000982",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000986",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000986",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000987",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000988",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000989",
+  "accessorial_code": "LIMITED_ACCESS",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000990",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000991",
+  "accessorial_code": "HAZMAT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000992",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000993",
+  "accessorial_code": "RESIDENTIAL",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000993",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000995",
+  "accessorial_code": "LIFTGATE",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-000995",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ },
+ {
+  "delivery_id": "DLV-2026-001000",
+  "accessorial_code": "APPOINTMENT",
+  "quantity": 1.0
+ }
+]

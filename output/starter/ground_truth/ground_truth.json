@@ -1,0 +1,1072 @@
+[
+ {
+  "gt_id": "GT-000001",
+  "entity_type": "CREDIT_NOTE",
+  "entity_id": "CN-2026-000049",
+  "issue_type": "CREDIT_EXCEEDS_EXCEPTION",
+  "line_no": null,
+  "expected_decision": "HOLD_CREDIT",
+  "expected_variance_amount": 3.75,
+  "injection_detail": "Credited $32.58 against $28.83 approved on FEX-2026-000056"
+ },
+ {
+  "gt_id": "GT-000002",
+  "entity_type": "CREDIT_NOTE",
+  "entity_id": "CN-2026-000057",
+  "issue_type": "CREDIT_EXCEEDS_EXCEPTION",
+  "line_no": null,
+  "expected_decision": "HOLD_CREDIT",
+  "expected_variance_amount": 4.51,
+  "injection_detail": "Credited $25.00 against $20.49 approved on FEX-2026-000070"
+ },
+ {
+  "gt_id": "GT-000003",
+  "entity_type": "CREDIT_NOTE",
+  "entity_id": "CN-2026-000105",
+  "issue_type": "CREDIT_EXCEEDS_EXCEPTION",
+  "line_no": null,
+  "expected_decision": "HOLD_CREDIT",
+  "expected_variance_amount": 30.91,
+  "injection_detail": "Credited $127.50 against $96.59 approved on FEX-2026-000130"
+ },
+ {
+  "gt_id": "GT-000004",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000007",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 85.0,
+  "injection_detail": "DETENTION billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000005",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000019",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 12.11,
+  "injection_detail": "Fuel billed at 33.5% instead of the contracted 28.5%"
+ },
+ {
+  "gt_id": "GT-000006",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000022",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 62.0,
+  "injection_detail": "LIMITED_ACCESS billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000007",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000032",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 9.15,
+  "injection_detail": "Fuel billed at 24.1% instead of the contracted 19.1%"
+ },
+ {
+  "gt_id": "GT-000008",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000037",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 58.0,
+  "injection_detail": "LIMITED_ACCESS billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000009",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000042",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 107.9,
+  "injection_detail": "3961 lb priced at the 1000-1999 lb rate 0.1271 instead of the 2000-4999 lb rate 0.1059"
+ },
+ {
+  "gt_id": "GT-000010",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000045",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 188.6,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000011",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000050",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 85.0,
+  "injection_detail": "RESIDENTIAL billed but is not allowed by the rate card"
+ },
+ {
+  "gt_id": "GT-000012",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000053",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 32.17,
+  "injection_detail": "Billed 2407 lb (inflated dimensional weight) but measurements support 1660 lb"
+ },
+ {
+  "gt_id": "GT-000013",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000056",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 52.13,
+  "injection_detail": "2487 lb priced at the 1000-1999 lb rate 0.1059 instead of the 2000-4999 lb rate 0.0883"
+ },
+ {
+  "gt_id": "GT-000014",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000070",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 66.0,
+  "injection_detail": "LIFTGATE billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000015",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000072",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 46.62,
+  "injection_detail": "Billed 1247 lb (inflated dimensional weight) but measurements support 831 lb"
+ },
+ {
+  "gt_id": "GT-000016",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000080",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 47.0,
+  "injection_detail": "HAZMAT billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000017",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000084",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 56.04,
+  "injection_detail": "796 lb priced at the 0-499 lb rate 0.3854 instead of the 500-999 lb rate 0.3276"
+ },
+ {
+  "gt_id": "GT-000018",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000089",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 25.0,
+  "injection_detail": "APPOINTMENT billed but is not allowed by the rate card"
+ },
+ {
+  "gt_id": "GT-000019",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000110",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 75.48,
+  "injection_detail": "2489 lb priced at the 1000-1999 lb rate 0.1415 instead of the 2000-4999 lb rate 0.1179"
+ },
+ {
+  "gt_id": "GT-000020",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000129",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 86.0,
+  "injection_detail": "DETENTION line 3 billed a second time as line 4"
+ },
+ {
+  "gt_id": "GT-000021",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000137",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 49.91,
+  "injection_detail": "Billed 2117 lb (inflated dimensional weight) but measurements support 1512 lb"
+ },
+ {
+  "gt_id": "GT-000022",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000154",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 64.81,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 4"
+ },
+ {
+  "gt_id": "GT-000023",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000161",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "WAIVE",
+  "expected_variance_amount": 3.97,
+  "injection_detail": "Fuel billed at 30.5% instead of the contracted 28.5%"
+ },
+ {
+  "gt_id": "GT-000024",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000169",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 242.71,
+  "injection_detail": "Second bill for shipment SHP-2026-000157; already billed on FINV-2026-000113"
+ },
+ {
+  "gt_id": "GT-000025",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000194",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 16.35,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000026",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000198",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 108.96,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000027",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000204",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 23.0,
+  "injection_detail": "APPOINTMENT billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000028",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000208",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 146.38,
+  "injection_detail": "Second bill for shipment SHP-2026-000149; already billed on FINV-2026-000115"
+ },
+ {
+  "gt_id": "GT-000029",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000210",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "WAIVE",
+  "expected_variance_amount": 3.55,
+  "injection_detail": "Billed 2268 lb (inflated dimensional weight) but measurements support 1874 lb"
+ },
+ {
+  "gt_id": "GT-000030",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000218",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 5.75,
+  "injection_detail": "Fuel billed at 33.5% instead of the contracted 28.5%"
+ },
+ {
+  "gt_id": "GT-000031",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000233",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 9.44,
+  "injection_detail": "768 lb priced at the 0-499 lb rate 0.1594 instead of the 500-999 lb rate 0.1355"
+ },
+ {
+  "gt_id": "GT-000032",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000236",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 9.78,
+  "injection_detail": "Fuel billed at 29.3% instead of the contracted 27.3%"
+ },
+ {
+  "gt_id": "GT-000033",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000243",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 109.1,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 5"
+ },
+ {
+  "gt_id": "GT-000034",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000254",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 48.67,
+  "injection_detail": "1627 lb priced at the 500-999 lb rate 0.1537 instead of the 1000-1999 lb rate 0.1302"
+ },
+ {
+  "gt_id": "GT-000035",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000257",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 104.1,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000036",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000260",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 30.96,
+  "injection_detail": "1897 lb priced at the 500-999 lb rate 0.0877 instead of the 1000-1999 lb rate 0.0743"
+ },
+ {
+  "gt_id": "GT-000037",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000267",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 231.15,
+  "injection_detail": "Billed 7614 lb (inflated dimensional weight) but measurements support 5640 lb"
+ },
+ {
+  "gt_id": "GT-000038",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000278",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 11.57,
+  "injection_detail": "Fuel billed at 27.5% instead of the contracted 25.5%"
+ },
+ {
+  "gt_id": "GT-000039",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000283",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 78.0,
+  "injection_detail": "RESIDENTIAL billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000040",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000287",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 318.44,
+  "injection_detail": "Second bill for shipment SHP-2026-000319; already billed on FINV-2026-000240"
+ },
+ {
+  "gt_id": "GT-000041",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000296",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 83.5,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000042",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000298",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 241.43,
+  "injection_detail": "Billed 4924 lb (inflated dimensional weight) but measurements support 3419 lb"
+ },
+ {
+  "gt_id": "GT-000043",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000299",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 101.27,
+  "injection_detail": "2089 lb priced at the 1000-1999 lb rate 0.2388 instead of the 2000-4999 lb rate 0.1990"
+ },
+ {
+  "gt_id": "GT-000044",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000324",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 100.0,
+  "injection_detail": "RESIDENTIAL billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000045",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000327",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 28.83,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 4"
+ },
+ {
+  "gt_id": "GT-000046",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000339",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 56.31,
+  "injection_detail": "2058 lb priced at the 1000-1999 lb rate 0.1310 instead of the 2000-4999 lb rate 0.1092"
+ },
+ {
+  "gt_id": "GT-000047",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000340",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 49.83,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 5"
+ },
+ {
+  "gt_id": "GT-000048",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000355",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 98.0,
+  "injection_detail": "RESIDENTIAL billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000049",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000358",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 109.62,
+  "injection_detail": "Billed 6223 lb (inflated dimensional weight) but measurements support 5318 lb"
+ },
+ {
+  "gt_id": "GT-000050",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000376",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 137.63,
+  "injection_detail": "Billed 2726 lb (inflated dimensional weight) but measurements support 2049 lb"
+ },
+ {
+  "gt_id": "GT-000051",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000384",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 81.76,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000052",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000393",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 34.21,
+  "injection_detail": "Billed 2099 lb (inflated dimensional weight) but measurements support 1521 lb"
+ },
+ {
+  "gt_id": "GT-000053",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000406",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 100.0,
+  "injection_detail": "RESIDENTIAL billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000054",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000413",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 92.39,
+  "injection_detail": "Billed 3865 lb (inflated dimensional weight) but measurements support 2493 lb"
+ },
+ {
+  "gt_id": "GT-000055",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000422",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 74.0,
+  "injection_detail": "LIMITED_ACCESS billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000056",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000424",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 100.0,
+  "injection_detail": "RESIDENTIAL billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000057",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000425",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 51.55,
+  "injection_detail": "1061 lb priced at the 500-999 lb rate 0.2446 instead of the 1000-1999 lb rate 0.2072"
+ },
+ {
+  "gt_id": "GT-000058",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000429",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 46.1,
+  "injection_detail": "3710 lb priced at the 1000-1999 lb rate 0.0593 instead of the 2000-4999 lb rate 0.0494"
+ },
+ {
+  "gt_id": "GT-000059",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000436",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 104.37,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 4"
+ },
+ {
+  "gt_id": "GT-000060",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000443",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 974.7,
+  "injection_detail": "Billed 22500 lb (inflated dimensional weight) but measurements support 15000 lb"
+ },
+ {
+  "gt_id": "GT-000061",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000454",
+  "issue_type": "UNKNOWN_SHIPMENT",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 599.87,
+  "injection_detail": "Shipment SHP-2026-961912 does not exist in shipment records"
+ },
+ {
+  "gt_id": "GT-000062",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000465",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 70.0,
+  "injection_detail": "LIMITED_ACCESS billed but is not allowed by the rate card"
+ },
+ {
+  "gt_id": "GT-000063",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000467",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 283.78,
+  "injection_detail": "9049 lb priced at the 2000-4999 lb rate 0.1470 instead of the 5000+ lb rate 0.1225"
+ },
+ {
+  "gt_id": "GT-000064",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000489",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 1067.12,
+  "injection_detail": "Second bill for shipment SHP-2026-000479; already billed on FINV-2026-000365"
+ },
+ {
+  "gt_id": "GT-000065",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000500",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 163.55,
+  "injection_detail": "Second bill for shipment SHP-2026-000540; already billed on FINV-2026-000400"
+ },
+ {
+  "gt_id": "GT-000066",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000511",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 261.05,
+  "injection_detail": "Billed 8484 lb (inflated dimensional weight) but measurements support 6526 lb"
+ },
+ {
+  "gt_id": "GT-000067",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000522",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 78.0,
+  "injection_detail": "LIFTGATE billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000068",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000523",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 14.0,
+  "injection_detail": "Billed with RATE-CAR-000002-2026-01 (expired 2026-06-30) for a shipment dated 2026-07-11"
+ },
+ {
+  "gt_id": "GT-000069",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000529",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 408.54,
+  "injection_detail": "Second bill for shipment SHP-2026-000558; already billed on FINV-2026-000412"
+ },
+ {
+  "gt_id": "GT-000070",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000531",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 134.41,
+  "injection_detail": "Billed 3574 lb (inflated dimensional weight) but measurements support 2929 lb"
+ },
+ {
+  "gt_id": "GT-000071",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000535",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 234.95,
+  "injection_detail": "Billed 10645 lb (inflated dimensional weight) but measurements support 7144 lb"
+ },
+ {
+  "gt_id": "GT-000072",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000536",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 9.18,
+  "injection_detail": "Billed with RATE-CAR-000002-2026-01 (expired 2026-06-30) for a shipment dated 2026-07-15"
+ },
+ {
+  "gt_id": "GT-000073",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000546",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 58.0,
+  "injection_detail": "LIMITED_ACCESS billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000074",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000552",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 93.0,
+  "injection_detail": "INSIDE_DELIVERY billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000075",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000559",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 86.08,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000076",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000563",
+  "issue_type": "UNKNOWN_SHIPMENT",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 913.65,
+  "injection_detail": "Shipment SHP-2026-951170 does not exist in shipment records"
+ },
+ {
+  "gt_id": "GT-000077",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000564",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 117.33,
+  "injection_detail": "3026 lb priced at the 1000-1999 lb rate 0.1977 instead of the 2000-4999 lb rate 0.1647"
+ },
+ {
+  "gt_id": "GT-000078",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000585",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 510.34,
+  "injection_detail": "Second bill for shipment SHP-2026-000651; already billed on FINV-2026-000498"
+ },
+ {
+  "gt_id": "GT-000079",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000590",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 64.79,
+  "injection_detail": "Billed 1316 lb (inflated dimensional weight) but measurements support 1036 lb"
+ },
+ {
+  "gt_id": "GT-000080",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000604",
+  "issue_type": "UNKNOWN_SHIPMENT",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 626.09,
+  "injection_detail": "Shipment SHP-2026-959286 does not exist in shipment records"
+ },
+ {
+  "gt_id": "GT-000081",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000612",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 7.59,
+  "injection_detail": "Fuel billed at 29.3% instead of the contracted 25.3%"
+ },
+ {
+  "gt_id": "GT-000082",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000619",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 66.59,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000083",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000628",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 13.67,
+  "injection_detail": "Billed with RATE-CAR-000003-2026-01 (expired 2026-06-30) for a shipment dated 2026-08-21"
+ },
+ {
+  "gt_id": "GT-000084",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000631",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 47.63,
+  "injection_detail": "Billed 1284 lb (inflated dimensional weight) but measurements support 885 lb"
+ },
+ {
+  "gt_id": "GT-000085",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000638",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 188.19,
+  "injection_detail": "Second bill for shipment SHP-2026-000773; already billed on FINV-2026-000583"
+ },
+ {
+  "gt_id": "GT-000086",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000661",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 135.6,
+  "injection_detail": "Billed 3653 lb (inflated dimensional weight) but measurements support 2647 lb"
+ },
+ {
+  "gt_id": "GT-000087",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000665",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "WAIVE",
+  "expected_variance_amount": 1.73,
+  "injection_detail": "Billed with RATE-CAR-000002-2026-01 (expired 2026-06-30) for a shipment dated 2026-09-08"
+ },
+ {
+  "gt_id": "GT-000088",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000668",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 54.88,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 3"
+ },
+ {
+  "gt_id": "GT-000089",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000672",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 3,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 65.0,
+  "injection_detail": "LIFTGATE billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000090",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000683",
+  "issue_type": "DIM_WEIGHT_DISCREPANCY",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 41.8,
+  "injection_detail": "Billed 2747 lb (inflated dimensional weight) but measurements support 2129 lb"
+ },
+ {
+  "gt_id": "GT-000091",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000690",
+  "issue_type": "INVALID_ACCESSORIAL",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 136.0,
+  "injection_detail": "DETENTION billed but was not performed per the delivery record"
+ },
+ {
+  "gt_id": "GT-000092",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000692",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 78.04,
+  "injection_detail": "4744 lb priced at the 1000-1999 lb rate 0.0841 instead of the 2000-4999 lb rate 0.0701"
+ },
+ {
+  "gt_id": "GT-000093",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000693",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "WAIVE",
+  "expected_variance_amount": 1.73,
+  "injection_detail": "Billed with RATE-CAR-000002-2026-01 (expired 2026-06-30) for a shipment dated 2026-09-17"
+ },
+ {
+  "gt_id": "GT-000094",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000696",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 61.48,
+  "injection_detail": "Billed with RATE-CAR-000002-2026-01 (expired 2026-06-30) for a shipment dated 2026-09-12"
+ },
+ {
+  "gt_id": "GT-000095",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000701",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 6,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 96.59,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 6"
+ },
+ {
+  "gt_id": "GT-000096",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000702",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 356.24,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 5"
+ },
+ {
+  "gt_id": "GT-000097",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000714",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 8.21,
+  "injection_detail": "Fuel billed at 23.9% instead of the contracted 19.9%"
+ },
+ {
+  "gt_id": "GT-000098",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000719",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 47.88,
+  "injection_detail": "3156 lb priced at the 1000-1999 lb rate 0.0717 instead of the 2000-4999 lb rate 0.0597"
+ },
+ {
+  "gt_id": "GT-000099",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000725",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 5,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 36.14,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 5"
+ },
+ {
+  "gt_id": "GT-000100",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000727",
+  "issue_type": "FUEL_SURCHARGE_MISCALCULATED",
+  "line_no": 2,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 11.78,
+  "injection_detail": "Fuel billed at 32.7% instead of the contracted 27.7%"
+ },
+ {
+  "gt_id": "GT-000101",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000728",
+  "issue_type": "SURCHARGE_DUPLICATED",
+  "line_no": 4,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 61.62,
+  "injection_detail": "Fuel surcharge line 2 billed a second time as line 4"
+ },
+ {
+  "gt_id": "GT-000102",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000738",
+  "issue_type": "WEIGHT_TIER_MISAPPLIED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 59.21,
+  "injection_detail": "1161 lb priced at the 500-999 lb rate 0.2832 instead of the 1000-1999 lb rate 0.2398"
+ },
+ {
+  "gt_id": "GT-000103",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000739",
+  "issue_type": "UNKNOWN_SHIPMENT",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 421.58,
+  "injection_detail": "Shipment SHP-2026-956381 does not exist in shipment records"
+ },
+ {
+  "gt_id": "GT-000104",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000740",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 332.27,
+  "injection_detail": "Second bill for shipment SHP-2026-000870; already billed on FINV-2026-000655"
+ },
+ {
+  "gt_id": "GT-000105",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000741",
+  "issue_type": "RATE_CARD_EXPIRED",
+  "line_no": 1,
+  "expected_decision": "DISPUTE",
+  "expected_variance_amount": 12.43,
+  "injection_detail": "Billed with RATE-CAR-000010-2026-01 (expired 2026-06-30) for a shipment dated 2026-09-30"
+ },
+ {
+  "gt_id": "GT-000106",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000749",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 113.01,
+  "injection_detail": "Second bill for shipment SHP-2026-000919; already billed on FINV-2026-000698"
+ },
+ {
+  "gt_id": "GT-000107",
+  "entity_type": "INVOICE",
+  "entity_id": "FINV-2026-000750",
+  "issue_type": "DUPLICATE_INVOICE",
+  "line_no": null,
+  "expected_decision": "REJECT_INVOICE",
+  "expected_variance_amount": 536.72,
+  "injection_detail": "Second bill for shipment SHP-2026-000937; already billed on FINV-2026-000713"
+ }
+]

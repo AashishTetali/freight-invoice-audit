@@ -1,0 +1,11 @@
+carrier_id,carrier_name,scac_code,hq_state,onboarded_date,status
+CAR-000001,Meadowlark Freight Lines,DOMI,CO,2025-09-01,ACTIVE
+CAR-000002,Brightwater Transport,EJCB,GA,2015-02-28,ACTIVE
+CAR-000003,Oakmont Freight Lines,GSXV,CO,2024-10-25,ACTIVE
+CAR-000004,Pinecone Haulage,RHPV,PA,2024-03-04,ACTIVE
+CAR-000005,Silverline Logistics,GNAM,MI,2022-10-15,ACTIVE
+CAR-000006,Riverbend Logistics,LVPI,NV,2016-05-24,ACTIVE
+CAR-000007,Falconridge Haulage,FWMH,TN,2016-04-11,ACTIVE
+CAR-000008,Oakmont Carriers,JXXC,CA,2025-05-26,ACTIVE
+CAR-000009,Riverbend Haulage,XEBI,IL,2025-10-29,ACTIVE
+CAR-000010,Bluecrest Freight Lines,DSYI,MO,2018-04-05,ACTIVE

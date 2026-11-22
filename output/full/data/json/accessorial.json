@@ -1,0 +1,44 @@
+[
+ {
+  "accessorial_code": "LIFTGATE",
+  "description": "Hydraulic liftgate used at delivery",
+  "charge_basis": "FLAT",
+  "reference_amount": 65.0
+ },
+ {
+  "accessorial_code": "RESIDENTIAL",
+  "description": "Delivery to a residential address",
+  "charge_basis": "FLAT",
+  "reference_amount": 85.0
+ },
+ {
+  "accessorial_code": "INSIDE_DELIVERY",
+  "description": "Freight carried inside the building",
+  "charge_basis": "FLAT",
+  "reference_amount": 95.0
+ },
+ {
+  "accessorial_code": "APPOINTMENT",
+  "description": "Delivery at a booked time slot",
+  "charge_basis": "FLAT",
+  "reference_amount": 25.0
+ },
+ {
+  "accessorial_code": "LIMITED_ACCESS",
+  "description": "Hard-to-reach site (school, farm, military base)",
+  "charge_basis": "FLAT",
+  "reference_amount": 70.0
+ },
+ {
+  "accessorial_code": "HAZMAT",
+  "description": "Hazardous materials handling",
+  "charge_basis": "FLAT",
+  "reference_amount": 40.0
+ },
+ {
+  "accessorial_code": "DETENTION",
+  "description": "Driver kept waiting beyond 2 free hours",
+  "charge_basis": "PER_HOUR",
+  "reference_amount": 75.0
+ }
+]

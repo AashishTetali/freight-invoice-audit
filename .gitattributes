@@ -1,0 +1,4 @@
+# Keep LF line endings on every OS, so files are byte-identical everywhere
+# (the reproducibility check compares SHA-256 checksums).
+* text=auto eol=lf
+*.db binary

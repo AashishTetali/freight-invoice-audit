@@ -1,0 +1,82 @@
+[
+ {
+  "carrier_id": "CAR-000001",
+  "carrier_name": "Meadowlark Freight Lines",
+  "scac_code": "DOMI",
+  "hq_state": "CO",
+  "onboarded_date": "2025-09-01",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000002",
+  "carrier_name": "Brightwater Transport",
+  "scac_code": "EJCB",
+  "hq_state": "GA",
+  "onboarded_date": "2015-02-28",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000003",
+  "carrier_name": "Oakmont Freight Lines",
+  "scac_code": "GSXV",
+  "hq_state": "CO",
+  "onboarded_date": "2024-10-25",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000004",
+  "carrier_name": "Pinecone Haulage",
+  "scac_code": "RHPV",
+  "hq_state": "PA",
+  "onboarded_date": "2024-03-04",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000005",
+  "carrier_name": "Silverline Logistics",
+  "scac_code": "GNAM",
+  "hq_state": "MI",
+  "onboarded_date": "2022-10-15",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000006",
+  "carrier_name": "Riverbend Logistics",
+  "scac_code": "LVPI",
+  "hq_state": "NV",
+  "onboarded_date": "2016-05-24",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000007",
+  "carrier_name": "Falconridge Haulage",
+  "scac_code": "FWMH",
+  "hq_state": "TN",
+  "onboarded_date": "2016-04-11",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000008",
+  "carrier_name": "Oakmont Carriers",
+  "scac_code": "JXXC",
+  "hq_state": "CA",
+  "onboarded_date": "2025-05-26",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000009",
+  "carrier_name": "Riverbend Haulage",
+  "scac_code": "XEBI",
+  "hq_state": "IL",
+  "onboarded_date": "2025-10-29",
+  "status": "ACTIVE"
+ },
+ {
+  "carrier_id": "CAR-000010",
+  "carrier_name": "Bluecrest Freight Lines",
+  "scac_code": "DSYI",
+  "hq_state": "MO",
+  "onboarded_date": "2018-04-05",
+  "status": "ACTIVE"
+ }
+]
